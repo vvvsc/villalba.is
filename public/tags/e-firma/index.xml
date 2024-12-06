@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>E-Firma on villalba.is</title>
+    <link>//localhost:1313/tags/e-firma/</link>
+    <description>Recent content in E-Firma on villalba.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/e-firma/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Timestampi, qu&#39;est-ce que c&#39;est?</title>
+      <link>//localhost:1313/es/posts/la-firma-e-esta-rota/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/la-firma-e-esta-rota/</guid>
+      <description><![CDATA[<p>Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.</p>
+<ol>
+<li>
+<p>La firma electrónica da cuenta de la integridad del documento, de que el mismo no ha sido alterado una vez que fue firmado.<br>
+1.1. En este sentido es ~100% fiable. Error humano es aún posible pero no hablamos de eso.</p>
+</li>
+<li>
+<p>La voluntad expresada es connatural a la firma que refrenda tal voluntad.<br>
+2.2. El transcurso del tiempo sucede por fuera del mismo y no depende de la voluntad de los firmantes o del firmante.<br>
+2.2.3. El tiempo debe hacerse constar de una manera externa al mismo.<br>
+2.2.3.4. Esta era la labor del Notario y esta era la labor del Secretario.</p>
+</li>
+<li>
+<p>La fecha de la firma electrónica utilizada está fijada por el que la expide.<br>
+3.3. El que la expide puede equivocarse o mentir.<br>
+3.3.1. Es natural que entra una disonancia entre una y otra valdrá la fecha puesta por el Judisoft.<br>
+3.3.1.2 El Judisoft decide la fecha por sí mismo.</p>
+</li>
+<li>
+<p>La firma electrónica de la forma en que se la ha concebido e impuesta en el medio, está rota. No vale, ni sirve a sus fines.</p>
+</li>
+</ol>
+<hr>
+<p>¿Qué ocurre si una firma no lleva sello de tiempo?</p>
+<p>Como ya se ha mencionado, la marca de tiempo puede demostrar que un documento no ha sido alterado desde que se emitió la marca de tiempo.</p>
+<p>Si se impugna un documento, puede ser difícil demostrar que la firma digital era válida en el momento de la firma sin una marca de tiempo. La mayoría de los certificados de firma caducan al cabo de uno o dos años, por lo que es difícil demostrar la validez del documento varios años después.</p>
+<p>Sin una marca de tiempo para los documentos legalmente vinculantes, como los contratos comerciales, alguien podría alterar el reloj de su ordenador y luego renunciar a un documento. Esto, a su vez, podría dar lugar a costosas batallas legales, ya que las partes se disputarían sus reclamaciones.</p>
+<p>El sellado de tiempo es esencialmente un testigo independiente. Proporciona las pruebas necesarias para demostrar que el documento no ha cambiado desde que se envió el hash del documento a la TSA en el momento de la firma.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

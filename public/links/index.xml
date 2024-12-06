@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Links on villalba.is</title>
+    <link>//localhost:1313/links/</link>
+    <description>Recent content in Links on villalba.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/links/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Excalidraw.</title>
+      <link>//localhost:1313/es/links/excalidraw/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/links/excalidraw/</guid>
+      <description><![CDATA[<h1 id="excalidraw">Excalidraw.</h1>
+<p>Hacer un gráfico ayuda mucho al lector.</p>
+<p>Hacer uno no tan perfecto, como de mano alzada, creo que es mejor.</p>
+<p><a href="https://excalidraw.com/">https://excalidraw.com/</a> lo hace. Tiene más fans que las peliculas de terror.</p>
+<p>Exporta a SVG  y a PNG y aunque puede ser que el primero suene un poco extraño a muchos, el segundo no.</p>
+<p>Se podría decir que <code>excd</code>,  deforma de propósito  los trazos que hacen a  los gráficos,  y uno podría pensar si eso es bueno.  Yo tengo para mí  que  los gráficos  que parecen hecho a mano  están como inacabados,  no totalmente resueltos. Y que de alguna manera eso empuja al lector  a acercarse más  al mismo  que un  dibujo hecho con trazos coincidentes  y ya resueltos.  En este segundo caso,  entiendo que la aproximación de la persona que ve la coincidencia, no será la misma, debido a que  su participación  ya no es necesaria.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Bibliografía.</title>
+      <link>//localhost:1313/es/links/sellos-de-tiempo/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/links/sellos-de-tiempo/</guid>
+      <description><![CDATA[<h2 id="mybibcomhttpsmybibcom"><a href="https://MyBib.com">MyBib.com</a></h2>
+<p>He encontrado en este sitio una manera muy sencilla de producir las entradas de los archivos de jurisprudencia.</p>
+<p>Básicamente uno puede ingresar el ISBN del libro y obtener todas las entradas.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Sellos de tiempo.</title>
+      <link>//localhost:1313/es/links/my-bib/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/links/my-bib/</guid>
+      <description><![CDATA[<h1 id="timestamps">Timestamps.</h1>
+<p>Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.</p>
+<p><a href="https://www.truetimestamp.org/">https://www.truetimestamp.org/</a> es la página más sencilla que hallé en cuanto a hacer un timestamp. Hay otras, pero si no tienen experiencia, sería bueno que empiecen con esta.</p>
+<p>Tenemos leyes, tenemos tratados internacionales, que dan al documento electrónico<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> el mismo valor que el no electrónico: el de escribanía, etc. Así que, sellar &ldquo;electrónicamente&rdquo; un documento le da fecha cierta. ¿Pero es válido?</p>
+<blockquote>
+<p>Los Estados Partes asegurarán que no sean negados efectos probatorios a un
+documento electrónico por el sólo hecho de que éste no esté vinculado a una
+firma electrónica avanzada, si por algún medio inequívoco se pudiese
+demostrar su autenticidad e integridad.</p>
+</blockquote>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Tengo que hablar luego de qué es lo que entendemos por documento electrónico. Una cinta magnetofónica grabada hace mucho tiempo que se lo acepta como prueba&hellip; y es electrónico. Y al final, nada existe el universo que no lo sea: todos estamos compuesto de átomos y cualquiera que haya terminado la secundaria sabe que se diferencias entre ellos por la cantidad de protones, neutrones, electrones, etc.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

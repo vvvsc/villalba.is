@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Saber on villalba.is</title>
+    <link>//localhost:1313/tags/saber/</link>
+    <description>Recent content in Saber on villalba.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/saber/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>¿Que debe saber un juez?</title>
+      <link>//localhost:1313/es/posts/que-debe-saber-un-juez/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/que-debe-saber-un-juez/</guid>
+      <description><![CDATA[<p><em>Antes de leer este post, es mejor leer el de interés compuesto.</em></p>
+<h2 id="saber-común">Saber común.</h2>
+<p>Usualmente ello está contenido dentro de lo que el Código llama los hechos notoriamente conocidos.</p>
+<p>¿Por ejemplo? ¿Literatura? Tal vez no. Tal vez no sepan ubicar la cita:</p>
+<pre tabindex="0"><code>&lt;&lt;A tí también, en lejanas playas de oro,
+Te aguarda incorruptible tu tesoro,
+La vasta vaga populosa muerte.&gt;&gt;
+</code></pre><p>Pero debería saber que es un terceto porque&hellip; ¿no pasaron por la secundaria?</p>
+<p>Y tal vez no sea necesario que sepan demostrar que $$\sqrt{2}$$ es, en efecto un número irracional. Pero deberían saber lo que es uno si no falsificaron su diploma de bachiller.</p>
+<p>Y es ahí donde quiero llegar.</p>
+<p>Matemáticas. Los abogados suelen presumir de no saber matemáticas. Que es más o menos que una persona sorda te diga que nunca necesitó  de la música. Realmente no. Pero al hacer los cálculos de cualquier obligación dineraria, y sólo de eso se encarga la ley, en realidad, es imposible no articularla de tal forma.</p>
+<p>Y quién lo evalúa, el Juez&hellip;  ¿Deberían conocer, por ejemplo, la fórmula del interés compuesto? ¿Deberían saber que es una simplificación de la <em>real</em> fórmula? El Mec entiende que es cuestión del <a href="https://www.mec.gov.py/cms_v2/adjuntos/13208">Primer Año de la Media</a></p>
+<p>Cuando digo <em>real</em> formula me refiero  a que la capitañizaxion al tipo de interés compuesto continuo también se conoce como tipo efectivo anual (TEA o EAR por sus siglas en inglés).</p>
+<h2 id="el-interés-francés">El interés francés.</h2>
+<p>En esta <em>método</em> los pagos de capital e intereses es la siguiente:</p>
+<p>$$
+a = \frac{C}{a_{|\overline{{n}}i}}
+$$</p>
+<p>Donde:</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>$$a$$</td>
+          <td>,</td>
+          <td>es el término amortizativo del préstamo, en este caso, meses.</td>
+      </tr>
+      <tr>
+          <td>$$C$$</td>
+          <td>,</td>
+          <td>es el capital prestado.</td>
+      </tr>
+      <tr>
+          <td>$$i$$</td>
+          <td>,</td>
+          <td>es el tipo de interés del préstamo.</td>
+      </tr>
+      <tr>
+          <td>$$n$$</td>
+          <td>,</td>
+          <td>es el número de meses que dura el préstamo.</td>
+      </tr>
+  </tbody>
+</table>
+<p>$$
+a_{|\overline{{n}}i} = \frac{(1+i)^n - 1}{i \times (1+i)^n}
+$$</p>
+<p>Luego:</p>
+<p>$$
+a = \dfrac{C}{\dfrac{(1+i)^n - 1}{i \times (1+i)^n}} \rightarrow a = C \times \dfrac{i \times (1+i)^n}{(1+i)^n - 1}
+$$</p>
+<p>Como se observa, el interés va incluido en las cuotas desde el inicio de manera que el capital vaya amortizándose en razón de</p>
+<p>$$
+(i+1)
+$$</p>
+<p>Y el resto se inpute a intereses. El <em>sistema francés</em> quizás no es incompatible con la forma de inputar intereses del Código Civil.</p>
+<p>Es incompatible solamente con la Ley del Banco Central.</p>
+<blockquote>
+<p>El interés moratorio será calculado sobre el saldo de la deuda vencida y en ningún caso podrán capitalizarse intereses sobre los intereses moratorios ni punitorios.</p>
+</blockquote>
+<p>Dice la <a href="https://www.bacn.gov.py/leyes-paraguayas/5034/ley-n-2339-modifica-el-articulo-44-de-la-ley-n-48995-organica-del-banco-central-del-paraguay">LEY N° 2339 QUE MODIFICA EL ARTICULO 44 DE LA LEY N° 489/95 “ORGANICA DEL BANCO CENTRAL DEL PARAGUAY”.</a></p>
+<p>Se lo puede hallar en el excelente sitio del Congreso de la Nación (en serio lo extrañe mientras suspendieron el servicio durante casi un mes).</p>
+<p><em>Ps:</em> volvió a caer, este es el link del <a href="http://webcache.googleusercontent.com/search?q=cache:https://www.bacn.gov.py/leyes-paraguayas/5034/ley-n-2339-modifica-el-articulo-44-de-la-ley-n-48995-organica-del-banco-central-del-paraguay&amp;strip=1&amp;vwsrc=0">cache de google</a>.</p>
+<div id="graphcomment"></div>
+   <script type="text/javascript">
+   
+      
+   
+     var __semio__params = {
+       graphcommentId: "villalba", 
+   
+       behaviour: {
+         
+         
+       },
+   
+       
+   
+     }
+   
+      
+   
+     function __semio__onload() {
+       __semio__gc_graphlogin(__semio__params)
+     }
+   
+   
+     (function() {
+       var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+       gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+     })();
+     
+   
+   </script>
+
+<hr>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

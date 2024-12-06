@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>notas on villalba.is</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in notas on villalba.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Timestampi, qu&#39;est-ce que c&#39;est?</title>
+      <link>//localhost:1313/es/posts/la-firma-e-esta-rota/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/la-firma-e-esta-rota/</guid>
+      <description><![CDATA[<p>Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.</p>
+<ol>
+<li>
+<p>La firma electrónica da cuenta de la integridad del documento, de que el mismo no ha sido alterado una vez que fue firmado.<br>
+1.1. En este sentido es ~100% fiable. Error humano es aún posible pero no hablamos de eso.</p>
+</li>
+<li>
+<p>La voluntad expresada es connatural a la firma que refrenda tal voluntad.<br>
+2.2. El transcurso del tiempo sucede por fuera del mismo y no depende de la voluntad de los firmantes o del firmante.<br>
+2.2.3. El tiempo debe hacerse constar de una manera externa al mismo.<br>
+2.2.3.4. Esta era la labor del Notario y esta era la labor del Secretario.</p>
+</li>
+<li>
+<p>La fecha de la firma electrónica utilizada está fijada por el que la expide.<br>
+3.3. El que la expide puede equivocarse o mentir.<br>
+3.3.1. Es natural que entra una disonancia entre una y otra valdrá la fecha puesta por el Judisoft.<br>
+3.3.1.2 El Judisoft decide la fecha por sí mismo.</p>
+</li>
+<li>
+<p>La firma electrónica de la forma en que se la ha concebido e impuesta en el medio, está rota. No vale, ni sirve a sus fines.</p>
+</li>
+</ol>
+<hr>
+<p>¿Qué ocurre si una firma no lleva sello de tiempo?</p>
+<p>Como ya se ha mencionado, la marca de tiempo puede demostrar que un documento no ha sido alterado desde que se emitió la marca de tiempo.</p>
+<p>Si se impugna un documento, puede ser difícil demostrar que la firma digital era válida en el momento de la firma sin una marca de tiempo. La mayoría de los certificados de firma caducan al cabo de uno o dos años, por lo que es difícil demostrar la validez del documento varios años después.</p>
+<p>Sin una marca de tiempo para los documentos legalmente vinculantes, como los contratos comerciales, alguien podría alterar el reloj de su ordenador y luego renunciar a un documento. Esto, a su vez, podría dar lugar a costosas batallas legales, ya que las partes se disputarían sus reclamaciones.</p>
+<p>El sellado de tiempo es esencialmente un testigo independiente. Proporciona las pruebas necesarias para demostrar que el documento no ha cambiado desde que se envió el hash del documento a la TSA en el momento de la firma.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Error Material.</title>
+      <link>//localhost:1313/es/posts/gazapo/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/gazapo/</guid>
+      <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.5-blue" alt=""></p>
+<h2 id="gazapo">Gazapo</h2>
+<p>Gazapo. Gazapo es una palabra que la verdad es muy poco usada ya en la acepción que suelo usarla. La DRAE guarda esa acepción en una <a href="https://dle.rae.es/gazapo">caja en el altillo.</a> Esa es la razón por la cual yo fui la única persona que rió cuando un amigo llamó ingeniosamente a una aplicación popular que desdeño y no uso, <em>wazapo</em>.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>La prefiero a lapsus cuya connotación <a href="https://dictionary.apa.org/freudian-slip">freudiana</a> es casi inevitable.</p>
+<p>Es decir, es ese &laquo;yerro que por inadvertencia deja escapar quien escribe o habla&raquo; y cuya significación tiende a cero.<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
+<h2 id="error-material">Error material</h2>
+<p>Aún cuando la Corte suele ser inquirida repetidas veces sobre el punto, por razones que la gente del foro no desconocemos, se ha limitado a indicar que no hay tal error material sin indicar qué es ello.</p>
+<p>Salvo el Dr. Ramírez Candia, quien si no lo definió por lo menos lo caracterizó:</p>
+<blockquote>
+<p>como ser errores de copia o meramente aritméticos, equívocos referentes a nombres y calidades de las partes</p>
+</blockquote>
+<p>Ref: <a href="http://304.villalba.is.eu.org/C39DB050C9586972412EDC18593AF9DD.pdf">A.I. Nº 756</a> del 18 de noviembre de 2022 dictado en el expediente &laquo;COOPERATIVA CHORTITZER LTDA. C/ RES. NRO. 7930007082/19 DEL 26 DE DICIEMBRE Y OTRA DICTADAS POR LA SUBSECRETARÍA DE ESTADO DE TRIBUTACIÓN&raquo; Nro. 659 — Año 2021.</p>
+<blockquote>
+<p>constituyen errores materiales, en términos de la disposición, los errores de copia o aritméticos, los equívocos en que hubiese incurrido el juez acerca de los nombres y calidades de las partes, y la contradicción que pudiere existir entre los considerandos y la parte dispositiva</p>
+</blockquote>
+<p>Ref: <a href="http://304.villalba.is.eu.org/8422B7C408F8E3BFFF606D5FE5FFF159.pdf">A.I. 1136</a> del 26 diciembre de 2022 dictado en el juicio &laquo;MUNICIPALIDAD DE ASUNCIÓN CONTRA NOTA Nº 5429 DEL 20/NOV/2020, DICTADA POR LA CONTRALORIA GENERAL DE LA REPÚBLICA&raquo;.</p>
+<blockquote>
+<p>erores de copia o meramente aritméticos, equívocos referenies a nombres y calidades de las partes, etc</p>
+</blockquote>
+<p>Refs:</p>
+<ol>
+<li>
+<p>&laquo;Ostaciano Lopez Gonzalez Y Otros 3/ Estafa Y Otro&raquo; A.I. Nº 1034 del 5 de diciembre de 2022.\guion{}</p>
+</li>
+<li>
+<p>&laquo;Pedro Antonio Galeano Valdez Y Otros S/estafa&raquo;. Acuerdo y Sentencia 891 diciembre 22.\guion{}</p>
+</li>
+<li>
+<p>&laquo;Juan José Bernis C/ Res. Nro. 010-025 De Fecha 04/02/16 Dictada Por El Instituto De Previsión Social&raquo;, Nro. 456 -Año 2017. <a href="http://304.villalba.is.eu.org/94562.pdf">http://304.villalba.is.eu.org/94562.pdf</a></p>
+</li>
+<li>
+<p>&laquo;Leda Mabel Lorenz 	Moran C/ Municipalidad De Iruña 5/	Demanda Contencioso	Administrativa Y Solicitud De Medida	Cautelar De Urgencia&raquo; NRO. 102, AÑO 2022. Acuerdo y Sentencia Nº 820 del 15 de diembre de 2022. <a href="http://304.villalba.is.eu.org/94564.pdf#page=2">http://304.villalba.is.eu.org/94564.pdf#page=2</a></p>
+</li>
+<li>
+<p>&laquo;Chep Technology Pyty Limited Contra Resolucion Nro. 534 De Fecha 18 De Noviembre De 2019,
+Dictada Por La DINAPI&raquo;. Expt. de la C.S.J. Nro. 48/20 . Acuerdo y Sentencia Nº 879 de fecha 29 de diciembre de 2022. <a href="http://304.villalba.is.eu.org/94774.pdf#page=2">http://304.villalba.is.eu.org/94774.pdf#page=2</a></p>
+</li>
+</ol>
+<h2 id="conclusión-preliminar">Conclusión preliminar</h2>
+<p>Estas caracterizaciones apuntan a indicar que el error no está en la volición del juez sino su <em>dicto</em>. Entonces un error cuando menos juicio contenga, más error material será. Como si fueran recíprocas.</p>
+<p>$$ \dfrac{e_{juicio}}{1} = \dfrac{1}{e_{material}} $$</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Del diccionario desaparecen palabras<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. Si uno acude a la ferretería y pide por un <em>furriel</em> probablemente le ofrezcan una diversidad de parches para cañerías rotas o similar. Pero en el diccionario ya no está. Y los versos &laquo;me tienes de furriel / de un parche de tu piel&raquo; aún suena en la radio<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Sé que esta frase es del mismo orden que: <a href="https://www.imdb.com/title/tt0427392/characters/nm0001021"><em>Mi esposo no es mi esposo</em></a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Distopía melancólica similar a la que trasmiten los <a href="https://www.youtube.com/watch?v=-Pa5nqYXEnY">versos</a>: &laquo;they will never forget you &rsquo;till somebody new comes around&raquo;&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Casi escribí deseamos que tienda a cero. Los lingüistas.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>¿Cómo referenciar en el e-expediente?</title>
+      <link>//localhost:1313/es/posts/como-referenciar-e-expediente/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/como-referenciar-e-expediente/</guid>
+      <description><![CDATA[<h2 id="fojas">Fojas.</h2>
+<p>No podemos atarearnos con nada sin nombrarlo. Y el nombre tiene que reunir ciertas características, pero la que nos importa es que sea único dentro del universo de cosas que queremos nombrar, que no dé lugar a equívocos. Un ejemplo famoso es el de Odiseo que se hace nombrar &laquo; Nadie &raquo; en la cueva de Polifemo. De esa manera no importa que este grite que &laquo; Nadie lo mata &raquo;. Nadie acudirá en su auxilio.</p>
+<p>Antes cuando teníamos que nombrar una pieza del expediente &mdash;digamos un escrito que se presentó en autos&mdash; lo único que teníamos que usar era una fórmula tipo &laquo; <em>a</em> fojas <em>x</em> de los autos <em>a</em> | desde fojas <em>x</em> a fojas <em>y</em> &raquo;.</p>
+<p>Hoy ya no existen tales fojas y seguimos necesitando la referencia.</p>
+<p>Los juzgados mismos lidian con el mismo problema, pero a veces se limitan a poner: estése<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> como en los viejos tiempos en que el hombre era joven y siempre le sobraban dos soberanos para la cerveza. Y uno no sabe si a cuales de los 10 escritos anteriores se refiere.</p>
+<p>Para muchas personas es suficiente con citar la fecha y transcribir el título del escrito. Y en general estimo que puede ser suficiente.</p>
+<p>Claro que pueden echarle un ojo a dos escritos similares pero con horas distintas y QR identicos. La vida no siempre es buena.</p>
+<p><a href="http://304.villalba.is.eu.org/double-trouble/hashes.html">Double, double toil and trouble.</a></p>
+<p>Pero usualmente, bajo condiciones normales de presión y temperatura, el Judisoft asigna un numero unico: <em>n</em>.pdf. Donde <em>n</em> es un número &lsquo;integer&rsquo;.</p>
+<p>Así que una buena referencia sería <em>el escrito de nulidad presentado por la demandada el día 27 de los corrientes bajo el documento 34343.pdf</em></p>
+<h2 id="y-los-links">¿Y los links?</h2>
+<p>No podemos usarlos porque son internos del Judisoft y solo una persona que esté logueada puede verlos. Y asumimos que personas que no tienen a mano el Judisoft podrían querer verlo.</p>
+<p>Una opción válida es usar una carpeta en la red y espejear allí los documentos (recuerden que aún es importante tener nuestra copia, aún las empresas más sofisticadas de almacenamiento han perdido datos de sus clientes por <em>a</em> o <em>b</em> motivo).</p>
+<h2 id="dime-si-hay-alguna-esperanza">Dime si hay alguna esperanza.</h2>
+<p>Así que no sería malo tener un dominio y una carpeta en la red. Publicidad sigue: en <a href="https://www.interserver.net/vps/?id=910602">interserver</a> cuesta 3 USD por mes 200M de &lsquo;storage&rsquo; sencillos y claros, pero es muy caro si un lo compara con B2 que por ese precio &mdash;pero pagado por año&mdash; otorga 1 Terabyte, pero quien necesita un Terabyte de almacenamiento en B2? Además, les advierto que usarlo no es algo sencillo de hacer.</p>
+<p>Así que la referencia quedaría &laquo; $palabras .. cuya copia obra en https://<em>el-dominio-chungo-que-me-dieron</em>/caso/34556.pdf &raquo;.</p>
+<p>Claro que uno puede adquirir uno propio, por ejemplo: el-segundo-mejor-abogado.com.</p>
+<h2 id="más-datos">Más datos.</h2>
+<p>Al final de cada escrito que presentamos hay un número.</p>
+<img src="https://bafkreidgns2w2rqpdtciju6o5weyxxuh57ixrn5hh4hxbcstjy6thptbqy.ipfs.nftstorage.link/">
+<p>En este caso es:</p>
+<pre tabindex="0"><code>6E5B993F99C32EC5D2C61AB8DF0796
+E86E5B993F99C32EC5D2C61AB8DF07
+96E86E5B993F99C32EC5D2C61AB8DF
+0796E86E5B993F99C32EC5D2C61AB8
+DF0796E86E5B993F99C32EC5D2C61A
+B8DF0796E86E5B993F99C32EC5D2C
+</code></pre><p>Es fácil ver que no es sino 6E5B993F99C32EC5D2C61AB8DF0796E8 que se repite una y otra vez. ¿Qué es? Si alguien sabe que me lo cuente. Probablemente es un <a href="https://cau.sci.uma.es/faq/index.php?action=artikel&amp;cat=60&amp;id=181&amp;artlang=es">hash</a>, pero de qué. Sí sé para qué sirve aunque no recuerdo la manera en que llegué a ello. Ese número valida nuestra presentación. Si se fijan en la &lsquo;&lsquo;&rsquo;e-Acordada&rsquo;&rsquo;&rsquo;, la misma habla de una cosa así.</p>
+<p><a href="https://www.csj.gov.py/appseguridad/sello/home/validador/?code=6E5B993F99C32EC5D2C61AB8DF0796E8">6E5B993F99C32EC5D2C61AB8DF0796E8</a></p>
+<p>El link que produce nos muestra algunos datos de nuestra presentación, no nuestro escrito. Esto merece un comentario, pero si desean conocer detalles pueden escribir en la caja de abajo.</p>
+<p>Este link también nos puede servir para referenciar un escrito.</p>
+<h2 id="el-extraño-indescifrable-qr-al-final-del-arco-iris">El extraño indescifrable QR al final del arco iris.</h2>
+<p>Pero al lado hay un QR. Que no se puede leer. Como no se si está movido de propósito, no quiero ahondar en el tema. Porque si está movido de propósito señala una intención la de ocultar, siquiera de manera parcial, un dato. Aunque nadie pone un QR si no quiere que se lo escanee.</p>
+<p>Como dicen los malos vendedores o estafadores de las redes sociales: ¡al inbox!</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>&laquo;Estése .. $loquesea&raquo; es siempre una providencia que no dice nada y que deberá ser recurrida en aclaratoria sí o sí. Hay otras.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Sobre la ejecución de Sentencia</title>
+      <link>//localhost:1313/es/posts/ejecucion-sentencia/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/ejecucion-sentencia/</guid>
+      <description><![CDATA[<ol>
+<li>
+<p>En principio, por la virtud de la cosa juzgada, el mismo juez no podría modificar su sentencia.</p>
+</li>
+<li>
+<p>Conviene iniciar la ejecución siempre con otro juez.</p>
+<p>2.1. En el caso de la parte demandada, si se lo demanda ante el mismo juez, es necesario pedir su recusación y la nulidad del proceso de ejecución, en su caso.</p>
+</li>
+</ol>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<hr>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>La Ley de Enjuiciamiento y la Recusación de los jueces</title>
+      <link>//localhost:1313/es/posts/causales-de-recusacion/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/causales-de-recusacion/</guid>
+      <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.51-blue" alt=""></p>
+<p>Considérese lo siguiente:</p>
+<ol>
+<li>
+<p>El Código dispone que ninguna ley derogara a otra a menos que traten de la misma materia.</p>
+</li>
+<li>
+<p>La recusación con causa busca &mdash;casi siempre&mdash; la separación de un magistrado no suficientemente formado en derecho de la causa.<br>
+2.2. El enjuicimiento busca &mdash;casi siempre&mdash; la separación de un magistrado no suficientemente formado en derecho del magisterio.<br>
+2.2.3. Los efectos de (2.2) están comprendido (2).</p>
+</li>
+<li>
+<p>Dos normas que tratan sobre una misma materia pueden no derogarse la una a la otra: pueden complementarse.<br>
+3.1. Para la coexistencia de dos normas  que trata una misma materia es necesario admitir que la una complementa a la otra y viceversa.</p>
+</li>
+<li>
+<p>Las normas de Enjuicimiento amplían las causales de recusacion.</p>
+</li>
+</ol>
+<h2 id="1988-anno-domini">1988 Anno Domini.</h2>
+<p>El Código Civil es del año 1988; de un año antes de que cayera la dictadura, la que se dijo nos mantuvo al borde de la historia por 35 años. &mdash;Más tarde, como seguíamos  en el mismo támdem, se propuso que sus efectos son de aquellos que perduran; hasta hoy se afirma la convalescencia de esa vieja gripe; motivo que, sinceramente, ya suena a excusa para no ir a trabajar.</p>
+<p>Es decir es anterior a la Constitución. Y si se quiere podemos agregar que fué aún hecha a la sombra de la Constitución de 1967<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, que inauguróa la serie de acontecimientos desafortunados cuya forma es la de nuestro futuro.</p>
+<p>No voy a copiar los artículos de la Constitución que señala la prelación de las normas. Todos las conocemos siquiera de manera distante. Entiendo también que el lector conoce que, atendiendo a que la ausencia de reglamentación de sus normas podría tomarse como treta &mdash;uso esta palabra porque la de <em>excusa</em> es un tanto descalificativa&mdash;, para no cumplirla ni hacerla cumplir, su texto previó tal acaso.</p>
+<p>Sé que también leyeron el artículo 5 del Código Civil, esa metanorma.</p>
+<p>Pero los jueces leen, o fingen leer, el Código Procesal Civil  como la los cabalistas leen la Torah &mdash;no de derecha a izquierda, sino como la totalidad de la doctrina recibida.</p>
+<p>¿Por qué? Muchos otros textos se le anteceden ahora. Hay tratados, hay una Constitución, bien una Nueva Constitución, concedo que podría ser que no se lo haya leído extensamente. Pero tiene como 30 años. Ya esta crecida y puede elegir a sus amigos.</p>
+<h2 id="a-quienes-están-dirigidas-las-leyes">¿A quienes están dirigidas las leyes?</h2>
+<p>Sé que los tribunales no tienen facultad para remover a un Juez. Ello no empece a la siguiente proposición: el LEM<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> virtualmente amplía las causales de recusación de un juez,  inmediatamente si consideramos que quien puede lo más, puede lo menos,  principio lógico, antes que legal y judicial. Y menos inmediatamente si consideramos la disonancia de lo enunciado por el Código Procesal Civil con lo enunciado por la Constitución y la manera en que es natural que se resuelva.</p>
+<p>Y aún menos inmediatamente &mdash;¿como es que nos volvimos tan sofisticados?&mdash; de nuevo cuando nos hacemos la pregunta del acápite: ¿A quiénes estan dirigidas las leyes? Μήτι ἐγώ εἰμι, Κύριε?</p>
+<p>Desde el punto de vista lingüistico &mdash;desde un punto de vista kelseniano&mdash; al Estado mismo<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>; esto es a todos los órganos que la componen. Y en cualquier caso<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>, por lo menos las administrativas a la administración.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
+<p>Dice el LEM:</p>
+<blockquote>
+<p>Art. 14. Constituye mal desempeño de funciones que autoriza la remoción de magistrados judiciales, agentes fiscales, procuradores fiscales y jueces de paz:</p>
+<p>g) mostrar manifiesta parcialidad o ignorancia de las Leyes en juicios, revelada por actos reiterados. El Jurado podrá prescindir del requisito de la reiteración para proceder a la remoción, cuando la parcialidad o ignorancia de la Ley sea grave y notoria;</p>
+</blockquote>
+<p>Además, considerando la posición del magistrado ante el proceso, la es más específica.</p>
+<p>Ella, y sus antecedentes, tienen como objeto juzgar el mal desempeño de los jueces; esto es, en lo que concierne a la recusación es una suerte de <em>lex specialis</em> ante el que en general regla los avatares del proceso judicial en cuya arquitectura participamos todos y el Juez no es sino un actor más, el más importante la mayoría del tiempo, pero no todo el tiempo.</p>
+<p>Entonces, si consideramos al Sistema Jurídico como pleno<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup> y que leyes que se repiten pueden no anular una a la otra sino complementarse, necesariamente un juez podrá ser recusado por alguna de las causales por la que también podría ser removido.</p>
+<p>En cuanto a la ignorancia de la leyes, la dice que debe efectuarse de manera repetida. Sin embargo, esa repetición no tiene que efectuarse en realidad en distintas etapas del juicio, sino solamente en distintos actos que claramente distintos. Y eso es lo que ha sucedido en autos.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<hr>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Sé que no es enteramente cierto&hellip; El Anteproyecto de Mendonça: <a href="https://archive.is/8T7Xt">https://archive.is/8T7Xt</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://archive.is/7Bea3">https://archive.is/7Bea3</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Stevenson, Drury D., To Whom is the Law Addressed?. Yale Law &amp; Policy Review, Vol. 21, 2003, Available at SSRN: <a href="https://ssrn.com/abstract=902128">https://ssrn.com/abstract=902128</a>.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Un constitucionalista de referencia &mdash;el Dr. E. C.&mdash;  me dijo una vez que Kelsen no hubiera llegado a profesor en el Paraguay.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p>Mcpberson, Ll. “THE HISTORY of the PUBLIC/PRIVATE DISTINCTION.” <em>See J. API’LEBY, ECONOMIC THOUG=T and IDEOLOGY in SEVENTEENT-CEN-TuRY ENGLAND</em>, vol. 62, no. 2, 1959, pp. 143–189.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p>Esta es una definición. Uno puede optar por ella o por su alternativa: ninguna. El hecho de que se propongan &ldquo;lagunas legales&rdquo; como invalidantes de la misma es un tanto pueril. No es que se pretenda que la realidad no pueda presentar pasmo y sorpresa ante un conjunto muy estrecho de enunciados más o menos ordenados en nuestra aún más estrecha mente &mdash;y la tuya, querido lector&mdash;, sino que si llegara a ocurrir tal acaso, el mismo sería reparado <em>on the fly</em>.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Causalidad</title>
+      <link>//localhost:1313/es/posts/causa-efecto/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/causa-efecto/</guid>
+      <description><![CDATA[<p>&laquo;Creo que la ley de la causalidad, como muchas de las cosas que pasan la prueba entre los filósofos, es una reliquia de una época pasada, sobreviviendo, como la monarquía, sólo porque se supone erróneamente que no hace daño.&raquo;</p>
+<p>Russell.</p>
+<h2 id="un-antiguo-problema-como-todos-los-demás">Un antiguo problema&hellip; como todos los demás.</h2>
+<p>Aristóteles distinguía entre cuatro causas de un efecto: esa tipología más bien describía una acción antes que detenerse en cómo es que esas columnas (¿eran columnas?) actuaban entre sí.</p>
+<p>Es más, al parecer la palabra que usaba &ndash;αἰτία&ndash; significa más bien explicación que causa.</p>
+<p>En la antigua Grecia, filósofos como Aristóteles exploraron ampliamente las ideas de causalidad y causalidad. Aristóteles distinguía entre cuatro tipos de causas: materiales, formales, eficientes y finales, que pretendían explicar distintas facetas de las relaciones causa-efecto o por lo menos describirlas. Sostenía que comprender estas causas era esencial para entender el mundo. Traduciendo en términos aristotélicos, explicar el mundo.</p>
+<p>Así pues: llamar a una persona u objeto X &ldquo;aitios&rdquo; o &ldquo;aition&rdquo; de un acontecimiento, acción o estado de cosas Y es asignar a X el estatus anterior (deplorable o loable) en relación con Y. No es simplemente afirmar que X está en  interrelación con Y por haberlo hecho o provocado, aunque esto esté implícito.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>En este caso la relación de los hechos, evita el problema de la causalidad.</p>
+<p>Y es mejor que termine acá porque la discusión prosigue por caminos bastante más complicados y todos conocen la <strong>causa</strong> final de Tomás de Aquino así que en la <em>edad oscura</em> ya se usaba causa de la manera en la que lo usamos hoy.</p>
+<p>Si se fijan, Aquino pensaba que si eliminamos un hecho no puede existir el otro. Esto es una simplificación, claro, y es lo que hoy hacemos.</p>
+<p>Lo dicho anteriormente es sólo con el fin de relatar que tan antiguo es el tema y que tan complejo se puede volver: les relaté el <em>Pablo Honey</em> de la cuestión, no dejen que llegue al <em>Kid A</em>.</p>
+<h2 id="quest-ce-que-cest-----fa-fa-fafa">Qu&rsquo;est-ce-que c&rsquo;est ? &mdash;fa fa fafa</h2>
+<p>El concepto de causa y efecto se refiere a la relación en la que un acontecimiento o acción (la causa) provoca otro acontecimiento o resultado (el efecto). Es un concepto fundamental para entender cómo los acontecimientos, fenómenos y acciones están interconectados en el mundo. O no lo es, según la estructura mental de cada uno. Id est, si uno es idealista, a lo Hume, tal cosa ni existe; si uno es práctico, como Russel, tal cosa existió pero ya no importa.</p>
+<p>Pero, en diversos campos de estudio como la ciencia, la filosofía y las ciencias sociales, el análisis causa-efecto se utiliza para explicar y comprender las relaciones entre distintas variables. Ayuda a identificar los factores que influyen en un resultado y permite predecir o explicar por qué y cómo ocurre algo. Y también dispara la discusión si un p = 0.5 es suficiente.</p>
+<p>Es decir, determinar la causa y el efecto a veces puede resultar complicado. La correlación (la relación estadística entre dos variables) no implica necesariamente causalidad. El hecho de que dos acontecimientos ocurran juntos o cambien juntos no significa que uno cause directamente al otro. Pueden intervenir otros factores, y a menudo se necesitan pruebas o investigaciones adicionales para establecer una relación causal.</p>
+<h2 id="leyes">Leyes.</h2>
+<p>¿Por qué intentar desarrollar un análisis conceptual reductivo de la causalidad o un análisis ontológico reductivo de la causalidad? Una motivación teórica general para un análisis reductivo de la causalidad es que dicho análisis estaría profundamente relacionado con muchos otros temas filosóficos centrales, y serviría como herramienta para filósofos, científicos y otros, para comprender mejor análisis de las leyes de la naturaleza, los acontecimientos, las propiedades, el razonamiento práctico, los objetos, la probabilidad, el determinismo, la percepción, la causalidad mental, la existencia de Dios, la referencia y el conocimiento del mundo exterior, el arbitrio, el libre albedrío, la responsabilidad moral y la responsabilidad jurídica.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>El problema de causa y efecto tiene una gran incidencia en el área legal. En el ámbito legal, establecer la relación causal entre un evento y sus consecuencias es fundamental para determinar la responsabilidad, la responsabilidad legal y las posibles sanciones.</p>
+<p>En el derecho penal, por ejemplo, la fiscalía debe demostrar más allá de una duda razonable que la acción del acusado causó el daño o la lesión infligida a la víctima. Esta conexión causal entre la conducta del acusado y la consecuencia resultante es esencial para determinar su culpabilidad o inocencia.</p>
+<p>De manera similar, en el derecho civil, establecer la causa y el efecto es de suma importancia para poder determinar la responsabilidad y otorgar compensaciones. El demandante debe demostrar que la acción negligente o dañina del demandado causó el daño que sufrió. Esto requiere probar una conexión causal directa entre la conducta del demandado y las lesiones o pérdidas resultantes. Pero claro, no tan terminantemente como en el área penal donde la causalidad parece ser el asunto siempre.</p>
+<p>En algunos casos, el problema de causa y efecto en el ámbito legal puede ser complejo. Puede haber múltiples factores o eventos involucrados, y determinar qué acciones específicas condujeron al daño puede resultar desafiante.</p>
+<p>Los profesionales del derecho confían en varios métodos, como testimonios de expertos, pruebas forenses, testimonios de testigos presenciales y documentación, para establecer la conexión causal entre las acciones y sus efectos. También pueden analizar la cadena de eventos que condujeron al daño, la intención de las personas involucradas y la previsibilidad de las consecuencias.</p>
+<p>En resumen, en el área legal, el análisis de causa y efecto es crucial para determinar la responsabilidad legal, asignar responsabilidades y garantizar resultados justos y equitativos tanto en casos penales como civiles.</p>
+<h2 id="shorcuts">Shorcuts.</h2>
+<p>En el mundo del derecho, existen varios métodos y principios que se utilizan para abordar el problema de la causa y el efecto y llegar a una conclusión. Estos métodos tienen como objetivo asegurar un análisis justo y exhaustivo de las pruebas y evitar resultados injustos o arbitrarios. El Juez debe resolver la causa y no puede esperar a que se resuelva si el mundo exterior existe o no.</p>
+<ol>
+<li>
+<p>Carga de la prueba: La carga de la prueba es el requisito impuesto a la parte que presenta una reclamación para proporcionar pruebas suficientes que respalden su afirmación. En la mayoría de los sistemas legales, la carga de la prueba recae en la parte que alega una conexión causal. Es responsabilidad de dicha parte presentar pruebas que establezcan una relación causal más probable que improbable entre la acción y el efecto. El estándar de prueba puede variar según el tipo de caso (penal o civil) y la jurisdicción.</p>
+</li>
+<li>
+<p>Prueba de causalidad: Los sistemas legales utilizan distintas pruebas para determinar la causalidad, como la <em>teoría de la Equivalencia</em> y la prueba de la &ldquo;causa próxima&rdquo;. La primera se pregunta si, de no ser por la acción del demandado, el daño no habría ocurrido. En contraste, la prueba de la causa próxima considera si el daño fue una consecuencia razonablemente previsible de la acción del demandado.</p>
+</li>
+<li>
+<p>Testimonio de expertos: En casos que implican relaciones complejas de causa y efecto, a menudo se recurre a testigos expertos para proporcionar conocimientos especializados u opiniones relacionadas con la causalidad. Estos expertos pueden tener experiencia en campos como medicina, ingeniería, ciencias forenses o economía, dependiendo de la naturaleza del caso. Su testimonio ayuda al tribunal a comprender y evaluar las conexiones causales en cuestión.</p>
+</li>
+<li>
+<p>Jurisprudencia y precedentes: Los sistemas legales suelen basarse en casos previamente resueltos (precedentes) como guía al determinar la causalidad. Los tribunales pueden considerar precedentes relevantes en los que se examinó y estableció una relación causal similar. Analizar la jurisprudencia contribuye a proporcionar coherencia y previsibilidad en los resultados legales.</p>
+</li>
+<li>
+<p>Negligencia comparativa: En algunos casos, varias partes pueden haber contribuido al daño o evento en cuestión. Los principios de negligencia comparativa buscan asignar la responsabilidad entre estas partes en función de sus respectivas contribuciones. Este enfoque considera el grado de culpa o causalidad atribuible a cada parte involucrada.</p>
+</li>
+</ol>
+<h2 id="from-dawn-till-dusk">From dawn till dusk.</h2>
+<p>No podemos afirmar que el problema de causa y efecto ha sido completamente resuelto en ningún aspecto del conocimiento humano. Aunque entendemos y aplicamos el concepto de causa y efecto en muchas áreas, sigue habiendo desafíos y límites en nuestra comprensión.</p>
+<p>En ciencia, por ejemplo, aunque hemos establecido relaciones causales en muchos fenómenos y procesos, siempre existe espacio para la investigación y el descubrimiento de nuevas causas y efectos. La complejidad de los sistemas naturales y la aparición de nuevas tecnologías desafían constantemente nuestra comprensión y nos llevan a revisar y ajustar nuestras explicaciones causales.</p>
+<p>Del mismo modo, en el ámbito social y humano, las relaciones causales suelen ser más complejas y difíciles de establecer de manera concluyente. Los factores culturales, psicológicos y sociales pueden influir en los resultados de una manera que es menos clara y directa que en los fenómenos naturales.</p>
+<p>Además, el problema de la causalidad también involucra desafíos filosóficos. Hay diferentes teorías y enfoques filosóficos sobre la causalidad, como el determinismo, el indeterminismo y las teorías probabilísticas, que cuestionan nuestra comprensión y aplicación del concepto de causa y efecto.</p>
+<p>En  el campo de las matemáticas, el problema la de causa y el efecto se aborda de manera diferente en comparación con otras disciplinas científicas. En matemáticas, se trabaja principalmente en la descripción y comprensión de las relaciones y conexiones. Y no me dejen seguir.</p>
+<h2 id="further-readings">Further readings.</h2>
+<ol>
+<li>
+<p>&ldquo;La estructura de las revoluciones científicas&rdquo;, de Thomas Kuhn - Aunque no se centra totalmente en la causalidad, el influyente libro de Kuhn analiza la naturaleza de las revoluciones científicas y los cambios de paradigma, que pueden influir en nuestra comprensión de las relaciones causa-efecto en la ciencia.</p>
+</li>
+<li>
+<p>&ldquo;Causality: Models, Reasoning, and Inference&rdquo; de Judea Pearl - Este libro explora la inferencia causal desde una perspectiva estadística y computacional, presentando técnicas y modelos para aprender, razonar y hacer inferencias sobre causa y efecto.</p>
+</li>
+<li>
+<p>&ldquo;La gran cadena del ser: A Study of the History of an Idea&rdquo; de Arthur O. Lovejoy - La obra clásica de Lovejoy traza el desarrollo histórico del concepto de causalidad y su relación con otras ideas filosóficas y teológicas.</p>
+</li>
+<li>
+<p>&ldquo;The Book of Why: The New Science of Cause and Effect&rdquo;, de Judea Pearl y Dana Mackenzie - Pearl, pionera en inferencia causal, explica los fundamentos y principios del razonamiento causal, destaca su importancia en diversos ámbitos y analiza el impacto de la comprensión causal en la inteligencia artificial.</p>
+</li>
+</ol>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>&ldquo;The Oxford Handbook of Causation&rdquo;, editado por Helen Beebee, Christopher Hitchcock y Peter Menzies - Este manual ofrece una visión completa de la filosofía y la ciencia de la causalidad, abarcando diversas teorías, debates y aplicaciones.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>&ldquo;Causalidad: A Very Short Introduction&rdquo; de Stephen Mumford - En esta concisa introducción, Mumford explora los conceptos fundamentales de la causalidad, abordando cuestiones clave y examinando diferentes enfoques filosóficos de la causalidad.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Interés compuesto</title>
+      <link>//localhost:1313/es/posts/interes-compuesto/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/interes-compuesto/</guid>
+      <description><![CDATA[<p>Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:</p>
+<blockquote>
+<ol start="695">
+<li>ANATOCISMO: NOCIÓN.- ES la capitalización de los intereses, o interés compuesto, de modo que agregándose tales intereses al capital originario pasan a redituar nuevos intereses.</li>
+</ol>
+</blockquote>
+<p>Esto es notable desde la misma notación de la fórmula. La del interés simple es:</p>
+<p>$$
+I = C \times \Delta t \times ratio
+$$</p>
+<p>Casi intuitivamente conocemos que esos valores constantes &mdash;salvo el tiempo que pasa&mdash; van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:</p>
+<p>Así si partimos desde un</p>
+<p>$$
+C = 100
+$$</p>
+<p>y</p>
+<p>$$
+ratio = 33%
+$$</p>
+<p><img src="https://bafkreiesrcvo2lgml5crzvgzglwyxtxf3fgw2o7ceddxlj7o3htbbtggvi.ipfs.nftstorage.link/" alt="IntSimple"></p>
+<p>Una ecuación de primera grado siempre genera rectas.</p>
+<p>La del interés compuesto es:</p>
+<p>$$
+V_f  = V_n (1 + i/f)^{(f n)}
+$$</p>
+<p>Nótese que en la fórmula no se trata de hallar el interés de cierto período de tiempo porque aunque la ratio del mismo  se mantiene constante, el <em>principal</em> crece de momento a momento &mdash;por lo tanto el valor del interés crece de momento a momento, sino de hallar el <strong>valor final</strong> del principal a partir del <strong>valor inicial</strong>.</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>$$V_f$$</td>
+          <td>;</td>
+          <td>es el valor final.</td>
+      </tr>
+      <tr>
+          <td>$$V_n$$</td>
+          <td>;</td>
+          <td>es el valor de un periodo determinado</td>
+      </tr>
+      <tr>
+          <td>$$i$$</td>
+          <td>;</td>
+          <td>es la ratio del interés</td>
+      </tr>
+      <tr>
+          <td>$$n$$</td>
+          <td>;</td>
+          <td>son los periodos</td>
+      </tr>
+      <tr>
+          <td>$$f$$</td>
+          <td>;</td>
+          <td>es la frecuencia de actualización</td>
+      </tr>
+  </tbody>
+</table>
+<p>Ello asumiendo que la frecuencia es un número finito. <em>Tout court:</em> es decir que la frecuencia es un numero que podemos computar mediante una aritmética sencilla: enseguida se verá el caso en que ya no es así.</p>
+<p>No hace falta estimar valor alguno para darse cuenta de que esa ecuación &mdash;la del interés compuesto&mdash; es una exponencial. En el plano no nos dibujará una recta: Veamos.</p>
+<p>$$
+V_f  = V_n (1 + i/f)^{(f n)}
+$$</p>
+<p>$$
+V_f = 100 \cdot \left(1 + \dfrac{0.36}{{1}}\right)^{6 \times 1}
+$$</p>
+<p>$$
+V_f = 100 \times 1.36 ^ {6 \times 1}
+$$</p>
+<p>$$
+V_f = 100 \times 6.32 = 632
+$$</p>
+<p><img src="https://bafkreig7rjd4wbrtcbfhmunorxkvywbn4ktryvqmdy72kjgafelwyrdjyq.ipfs.nftstorage.link/" alt="Interes Compuesto"></p>
+<p>O sea que el llamado &ldquo;interés francés&rdquo; es en realidad un interés compuesto que, además, se capitaliza de instante a instante.</p>
+<p>¿Es legal esto? Sí, claro. Siempre y cuando la llamada <em>tasa efectiva</em> no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.</p>
+<p>Y siempre y cuando la persona a cuyo favor se generan tales intereses no sea un banco o financiera.</p>
+<p>La orgánica del BCP decía antes:</p>
+<blockquote>
+<p>El interés a partir de la mora, denominado interés moratorio, será la misma tasa pactada originalmente. No podrán capitalizarse intereses moratorios por períodos inferiores a 30 (treinta) días.</p>
+</blockquote>
+<p>Pero una modificación posterior borró toda posibilidad de que se capitalicen intereses.</p>
+<p>Ahora bien, la frecuencia por supuesto que impacta en el valor final, es por eso que la ley anterior decía que no podía hacerse sino cada 30 días&hellip; pero ¿significaba un cambio sustancial en el monto que tenía que pagarse por intereses? La verdad no. Si uno hace los cálculos &mdash;que no mostraré ahora pero que prometo hacerlo de manera detallada más tarde&mdash; una capitalización trimestral es apenas <em>mejor</em> que una diaria.</p>
+<p>¿Y que tal si la capitalización se realiza en frecuencias cada vez más cortas? Digamos cada hora, digamos cada minuto, digamos cada segundo&hellip; Menos, cada instante. Asumamos que el tiempo se puede dividir por siempre: es cuando la frecuencia <em>tiende</em> a cero.</p>
+<p>Entonces tenemos lo que los libros de matemáticas llaman capitalización compuesta contínua. Su fórmula es  &mdash;prometí no entrar en detalles por lo que me saltaré operaciones intermedias y escribiré solo la el resultado de ellas:</p>
+<p>$$
+\delta = n \mbox{ln} \left( 1 + \frac{r}{n} \right),
+$$</p>
+<p>La <em>delta</em> minúscula es el ratio de interés <em>cambiante</em> por decirlo de una forma, y <em>r</em> es el interés pactado y <em>n</em> su frecuencia.</p>
+<p>Esta fórmula nos parece familiar ya&hellip; Sí, ¿no es la fórmula del interés francés?</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Caducidad de instancia.</title>
+      <link>//localhost:1313/es/posts/caducidad-de-instancia/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/caducidad-de-instancia/</guid>
+      <description><![CDATA[<h1 id="esquemas-de-interpretación-jurídica">Esquemas de interpretación jurídica.</h1>
+<p>Dejando de lado la norma como hecho gramatical &mdash;en efecto, las normas estan escritas en un determinado idioma y como tal sujeta a los avatares que la misma impone a cualquier otro texto, por lo que la <em>i. gramatical</em> no es un modelo de interpretación jurídica sino más bien el indicador de que es necesaria una&mdash; los esquemas de interpretación jurídica se aglomeran en torno a tres topicos:  (1) la congruencia de la misma con la legislación histórica, es decir la que ya no esta vigente, (2) la articulación con la vigente; en efecto ninguna norma puede ser considerada un hecho aislado, (3) sus posibilidades teleologicas.</p>
+<p>Estos tres esquemas son racionales y prácticos, pero claro, no están exentos de todo descontrol.</p>
+<p>Atraen un sinfín de denominaciones cuya enumeracion es legión.  Tales, y su capacidad de servir al entendimiento, escapan al objeto del presente artículo, y en especial al interés de quien lo escribe.</p>
+<p>Así que abierta la instancia de la interpretación jurídica, mediante lo que los ingleses denominan <em>mischief rule</em> las preguntas son:</p>
+<ol>
+<li>
+<p>¿La materia de esta norma vigente fue alguna vez practicada por otra ya no vigente y en que sentido?</p>
+</li>
+<li>
+<p>¿Cómo entender esta norma teniendo en cuenta el contexto de las demás?</p>
+</li>
+<li>
+<p>¿Existe un motivo por la cual la norma fue dictada, que es ajena a su texto y pertenece a los lineamientos políticos generales de un Estado?</p>
+</li>
+</ol>
+<p>El segundo polo es el que más asemeja a una interpretación: ninguna norma es discernible de manera atómica, sino en relación con las demás, que son su contexto &mdash;al menos en parte.</p>
+<p>Los otros dos no parecen sino procedimientos para <em>usar</em> la norma y justificar su uso. No digo que deban ser deshechadas, sí que deben ser puestos en un cómodo segundo plano.</p>
+<h1 id="dies-irae">Dies irae</h1>
+<p>Las personas que ya han leído  algunos de mis  escritos  en este mismo sitio  pudieron haberse encontrado con la demostración  &mdash;que pretende ser  estrictamente lógica&mdash;  del instituto de la caducidad de instancia.  El punto quizás merezca  alguna que otra aclaración,  porque  el único problema que conlleva  es,  al igual, que todos los demás problemas que incluyen la cuenta de plazos: el <em>dies-a-quem</em>.</p>
+<p>Los plazos  son muy fáciles de decir.  Son muy fáciles de aprender. Usualmente  se pide en los exámenes que se los exprese.  Esos plazos &mdash;que son cinco, seis, siete, ocho días, tres meses&mdash; significan nada.  Porque lo que a veces no se puede determinar es desde qué momento se los cuenta&hellip;  Lo demás son números  que están anotados en los códigos a los cuales podemos recurrir  siempre.</p>
+<p>Los trabajos  que he leído sobre caducidad de instancia siempre se refieren a ella  usando la tradición jurídica  que principalmente  nos viene de Argentina.  Su ley es ligeramente distinta sobre el caso, si bien se la puede asimilar en muchos puntos. Pero este movernos hacia los libros argentinos es sintómatico: no hallamos la respuesta en nuestra base de datos, en nuestro código, luego, se lo preguntamos a otro. Tal procedimiento es inútil: los demás tampoco saben.</p>
+<p>¿Ahora bien,  podemos determinar  el <em>dies-aquem</em> de la caducidad de distancia basándonos exclusivamente  en lo que dice nuestro Código Procesal Civil?</p>
+<p>La pregunta es más bien retórica: debemos hacerlo.  Porque así es como  manda la Constitución.  No podemos pensar en recurrir,  ni siquiera en instrumentos  internacionales,  sin antes  agotar las posibilidades lógicas  que son, al fin, las posibilidades del lenguaje  que nos brinda nuestra propia legislación.  Dicho  esto, podemos pasar a intentarlo.</p>
+<p>Uno podría pensar  que lo que acá se dice  es natural  común,  esperable  y que no brinda ningún tipo de información,  ya que si uno quiere conocer las leyes,  debe recurrir a los códigos.  Hay algo, sin embargo, que se interpone  entre los códigos  y  el lector.  Y es el idioma español. El idioma español, como cualquier otro idioma,  trata de establecer  relaciones entre distintos objetos  que  rememoran  al pensamiento.  En ese sentido,  quizá habría que decir que son como remanentes del pensamiento.  En muchos momentos,  se parecen  a las conclusiones  lógicas.  Parecen que siguen el mapa de las conclusiones lógicas  o parece que siguen el mapa que traza la lógica.  Sin embargo,  no solamente en el español,  también en otros idiomas, uno  no puede fiarse estrictamente de la lógica para guiarse en su expresividad. Un ejemplo sencillo y harto repetido: en lógica una doble negación podría que sea casi siempre una afirmación. En español pueden existir expresiones como la siguiente: &ldquo;no tiene sentido nada de los que dices&rdquo;, es un desperdicio de palabras, es un inútil énfasis pero todo el mundo entiende que no tiene sentido nada de lo que dices, a pesar del &ldquo;doble-no&rdquo;. Quizás sea porque no tiene sentido nada de lo que dices, es decir, quizas se deba al &laquo;entorno&raquo;.</p>
+<p>Así que tenemos tres artículos dentro del Código Procesal Civil que se refieren a una misma cosa,  peor aún,  como es común en estos casos, se refieren a la misma cosa utilizando palabras diversas.  Aparentemente, las leyes  pasan por algo como una comisión de estilo. Al redactar cualquier texto, conviene que no repitamos la misma palabra  muy pronto.  Pero si simplemente  utilizamos un sinónimo en vez de él, quiere decir que lo estamos pensando mal,  no que estamos escribiendo mal. Bien,  tenemos tres artículos entonces pegados uno al otro  y que se refieren a la misma cosa utilizando una diversa denominación.  Cómo conciliarlos.</p>
+<h1 id="entonces-vi-al-cordero-romper-el-primer-sello">Entonces vi al Cordero romper el primer sello.</h1>
+<p>Entonces, los supuestos de la caducidad de instancia son, además del plazo de seis meses, los requisitos que se señalan como:</p>
+<ol>
+<li>
+<blockquote>
+<p>cuando no se instare su curso</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p>cuando no se verificare acto que tuviere por objeto impulsar el procedimiento</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p>cuando hubiere inactividad de las partes</p>
+</blockquote>
+</li>
+</ol>
+<p>Antes que nada ¿qué es esa palabra &laquo;objeto&raquo; que figura en el 173?: ¿significa la plena realización del impulso o significa la mera intención de realizarla?</p>
+<p>Si busco en el diccionario &mdash;la interpretación semántica muchas veces se extravía en el léxico&mdash; hallo:</p>
+<blockquote>
+<p>&laquo;Debe recordarse, en particular, que la mayor parte de las palabras son ambiguas, y que todas las palabras son vagas, esto es, que su campo de referencia es indefinido, pues consiste en un núcleo o zona central y un nebuloso círculo exterior de incertidumbre; y que el significado preciso de una palabra en una situación específica está siempre en función de la unidad total o entidad: la expresión como tal, el contexto y la situación.</p>
+<p>Por lo tanto, es erróneo creer que la interpretación semántica comienza por establecer el significado de las palabras individuales y llega al de la expresión por la suma de los significados parciales. El punto de partida es la expresión como un todo con su contexto, y el problema del significado de las palabras individuales está siempre unido a este contexto.&raquo;</p>
+</blockquote>
+<pre tabindex="0"><code class="language-objeto" data-lang="objeto">
+Del lat. obiectus.
+
+1. m. Todo lo que puede ser materia de conocimiento o sensibilidad de parte del sujeto, incluso este mismo.
+
+2. m. Aquello que sirve de materia o asunto al ejercicio de las facultades mentales.
+
+3. m. Término o fin de los actos de las potencias.
+
+4.
+</code></pre><p>Sólo como tercera acepción aparecer el &laquo;término o fin&raquo;, antes, objeto es sólo &laquo;materia o asunto&raquo;. Por lo tanto, podría decir, postulándolo <em>ex-hipothesi</em> de que, por lo menos para el 173 la intención es suficiente, no el impulso, y que, por ende, según este postulado, que enseguida nos develará su fracaso, cualquier acto que siquiera tenga alguna relación con la marcha del proceso servirá como impulso procesal.</p>
+<p>Notamos enseguida que los supuestos del 172 y del 173 no coinciden, pero tampoco se contradicen. Si hubiera que graficarlo se lo podría hacer con dos círculos que se intersecan.</p>
+<p>Hasta ahí nuestra hipótesis parece funcionar. ¿Pero qué pasa cuando consideramos el 174?</p>
+<p>El 174 excluye toda acción.</p>
+<p>Dicho de otro modo.</p>
+<p>Según nuestra hipótesis de trabajo en la cual &laquo;objeto&raquo; no es la realización del fin sino sólo alguna intención en ese sentido, el 172, no excluye al 173. Es dable pensar que existan actos del procedimiento que tengan como objeto impulsar el procedimiento pero que no logren impulsar el procedimiento.</p>
+<p>Pero, al considerar el 174, se nota que en ese nivel de anális, el conjunto de definiciones ha perdido sentido:	El 174 no se puede combinar con la estructura que se ha hecho, necesito dibujarlo fuera, secante a cualquiera de los círculos que he trazado &mdash;quod est absurdum.</p>
+<p>Lo que es absurdo, porque es imposible negar que (a) los artículos 172, 173 y 174 tratan de un mismo instituto procesal y que (b) la ley admite redundancias en el sentido de que son como distintas maneras de acercarnos a un mismo objeto.</p>
+<p>La única manera de lograr cierta univocidad en estos artículos es admitiendo un análisis semántico tal cual lo expuse antes en el cual la palabras &laquo;objeto&raquo; tome su tercera acepción de &laquo;término o fin de los actos o potencias&raquo; y la palabra inactividad tome el de inactividad en la medida en que la actividad desplegada se inútil para la marcha del procedimiento.</p>
+<p>Y como el 172 y el 173 no hablan de distintos institutos. Por supuesto que la única manera de coordinar los tres supuestos es admitiendo que para que se logre el impulso se debe alcanzar el fin.</p>
+<p>Y entonces, ninguno de estos artículos se contradicen, todos ellos se acercan a la idea de la caducidad de instancia.</p>
+<p>Si se habrá de aceptar que los artículos 172, 173 y 174 se refieren a un mismo instituto, forzoso es admitir que habrá que interpretarlos unos por otros y admitir lo siguiente:</p>
+<ol>
+<li>
+<p>que la palabra &laquo;objeto&raquo; del artículo 173 del  significa no medio sino fin.</p>
+</li>
+<li>
+<p>que la palabra &laquo;inactividad&raquo; del artículo 174 del  significa inactividad en la medida en que la actividad desplegada se inútil para la marcha del procedimiento.</p>
+</li>
+</ol>
+<p>Sólo así se tendrá tres artículos que sin coincidir exactamente uno con otro acercan a la idea del instituto del que se ocupan.</p>
+<p>Tras de análisis no hay solamente lógica sino cierto  pragmatismo que ha guiado a mi lógica hacia cierto punto, cierta intención: al que se evite que los juicios duren eternamente.</p>
+<p>Los jueces suelen hacer eso, sólo que en la operación de interpretar no declaran cual es la volición que los guía. Así que es mejor que compruebe si en este caso la intención de que los juicios no duren para siempre es también la de los jueces y doctrinarios.</p>
+<p>&laquo;la interpretación pragmática puede ser especificadora, restrictiva o extensiva.</p>
+<p>a) La interpretación especificadora tiene lugar cuando las consideraciones pragmáticas son decisivas para la elección entre varias interpretaciones, todas ellas posibles y razonables dentro del &laquo;significado lingüístico natural&raquo; del texto. La elección puede referirse a dudas interpretativas de naturaleza sintáctica, lógica o semántica; las últimas pueden consistir en ambigüedad o en vaguedad.&raquo;[][142]ross</p>
+<p>Se necesita conocer para qué existe el instituto de la caducidad instancia para entender si he obrado bien.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Una conversación.</title>
+      <link>//localhost:1313/es/posts/a-conversation/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/a-conversation/</guid>
+      <description><![CDATA[<h1 id="la-siguiente-es-una-trascripción-anotada-de-una-conversación-entre-un-postulante-a-ministro-de-la-corte-suprema-de-justicia-del-paraguay-y-un-su-entrevistador">La siguiente es una trascripción anotada de una conversación entre un postulante a Ministro de la Corte Suprema de Justicia del Paraguay y un su entrevistador.</h1>
+<p>Postulante:</p>
+<p>&laquo;De llegar al meollo de la cuestión cual es  básicamente tratar de hacer un esfuerzo denodado en pos de un mejoramiento  global de la justicia paraguaya esto implica tener posicionamientos teóricos, filosóficos, argumentativos, de axiología jurídica, epistemología&hellip; aunque esto parezca para el ciudadano común algo muy raro y que sea de muy difícil comprensión.&raquo;</p>
+<blockquote>
+<blockquote>
+<p>Esto es algo de lo que carecen las <em>ciencias blandas</em> en general. No estoy diciendo que el Derecho, así con esa mayúscula inexplicable, sea una <em>ciencia blanda</em> ni siquiera es una ciencia. Las aspiraciones científicas buscan normar el discurso del derecho, lo cual no es poco. Pero el postulante no podría estar más en lo cierto.</p>
+</blockquote>
+</blockquote>
+<p>&laquo;Pero técnicamente yo creo que cuando estamos hablando de la administración de justicia, tenemos que poner en tela de juicio todo lo que implica los valores que van a ser propendidos dentro del sistema. Y si no tenemos un sistema que este donde solamente estamos hablando de morosidad que no estamos dando en el meollo de la cuestión.&raquo;</p>
+<blockquote>
+<blockquote>
+<p>Quién pudiera estar en desacuerdo. La morosidad es un producto residual de la ceguera.</p>
+</blockquote>
+</blockquote>
+<p>&laquo;Yo sí, es cierto. Se paro incluso en las exposiciones y digo la morosidad judicial es parte de lo que nosotros denominamos esta gran carencia que tenemos a nivel nacional y a nivel de la judicatura, que es la gestión judicial, el gran problema paraguay es la gestión judicial más más que la morosidad y objeciones todo lo que rodea al proceso para que éste pueda tener un andamiaje correcto. Y luego está el segundo puntal básico. Y para mí, más importante que definitivamente tenemos que comenzar a tener calidad de resoluciones judiciales. A lo mejor no tantas, pero sí.  Resoluciones judiciales que tiendan a una profundización del derecho y dejar clarificada determinadas zonas que para nosotros son muy oscuras dentro del ámbito de la juricidad paraguaya.&raquo;</p>
+<p>Entrevistador:</p>
+<p>&laquo;No puedo estar más de acuerdo contigo, Pablo. Por que no hay ninguna chance. Yo quiero aprovechar el tiempo que tenemos que siempre es corto y limitado para plantearte tres cuestiones que yo por lo menos tengo como una preocupación  principalísima en el curso de acción que yo hago a travez del micrófono y compañía. Mi querido Pablo, a mí me preocupa el avance y yo voy a hacer calificaciones  descriptivas. Ni te pido que las compartas, ni nada, te pido que me las permitas usar a los efectos de referir la perspectiva que yo tengo. Sí. Entonces yo creo que acá en nuestro país nosotros estamos siendo víctimas de un avance sostenido de una interpretación fascista del derecho. Y este avance sostenido de la interpretación fascista del Derecho  viene justamente ocultado por discusiones ridículas como el tema de la morosidad, que son inanes, que no tiene ningún impacto en la filosofía del derecho, porque los fascistas están pagando para que efectivamente no se discuta su avance.  Y yo escribí un artículo antes para referirme a ello; porque quiero poner bien la cuestión en perspectiva, mi querido Pablo, donde menciono dos nombres  porque lastimosamente en nuestro país, pero no sólo en nuestro país. Pretenden  que el derecho es una especie de  religión y que tienen unos profetas y que estos profetas son intocable indiscutible. Y que cuando se menciona a estos profetas, ya tenemos todos que rendirnos y mencioné a Triboniano y a Carl Schmitt. ¿Por qué? Porque ambos uno con Justiniano en el año, no sé cuánto, y otro con Hitler en el año&hellip; y tanto; son una conexión única de un derecho nazi fascista autoritario  que propende y pretende y expone y expande la protección del poder en detrimento del derecho del ciudadano. Y entonces nos vienen acá muchos profesores, doctores argentino, particularmente así, no, pero fulano de tal y perengano de tal. Y el doctor Fulano y el doctor perengano como si el argumento de autoridad fuera un argumento legítimo, el punto de vista, la lógica a plantearnos que hay que permitir el avance del fascismo. Y tengo tres puntos y Pablo terminó para que vos puedas contestar que quiero particularmente señalar y yo señalo siempre uno el principio de ponderación que un avance grotesco en contra de Kelsen,  la regla de Armonización, que pretende.  Degradar los derechos de rango constitucional  y la doctrina la lucha contra la impunidad de la perspectiva de género que pretende expandir el poder del Estado con la excusa de la defensa preventiva de algunas situaciones en contra la presunción de inocencia y en contra la libertad de prensa. Estas tres cuestiones están operando en nuestro sistema de derecho, en nuestro sistema judicial, en el Ministerio Público, impulsadas por las ong fascistas de la Unión Europea. Y resulta que todos tenemos que callarnos y en el debate para integrar a los ministros de la corte. Estamos hablando estupideces como la morosidad pablo.&raquo;</p>
+<p>Postulante:</p>
+<p>&laquo;Perdóname, para mí está la cuestión  es muy interesante planta Enrique.  Si me preguntas a mí, yo creo que también habrían temas mucho más relevantes que plantear cuando estábamos eligiendo un ministro de corte, sobre todo porque a partir de ahí  tendremos el condicionamiento y la preparación filosófica que tiene el individuo que va a ejercer el día de mañana, la más alta magistratura la nación con seguridad hay temas muy interesantes como por ejemplo, siempre suelo decir en el año &hellip; los paraguayos hemos dado un avance increíble en materia de tutela de derechos con la Constitución.  El problema grave de paraguay fue que redactamos una Constitución, desde mi perspectiva,  de primera, de primera línea, en algunos aspectos, sobre todo en materia de derechos fundamentales, pero no lo hemos podido concretar en la práctica.&raquo;</p>
+<blockquote>
+<blockquote>
+<p>Ps: <a href="https://corte.cm.gov.py/perfilbase.aspx?postulante=29234">Villalba Bernie</a> no tiene chance alguna de llegar a Ministro de la Corte, al menos no esta vez. El Consejo está empantanado de <em>pedidos.</em></p>
+<p>Su legajo es tan grande: 1,2 Gb. que es mejor usar el <a href="https://bafybeih5wm5bveczw3o4rnc6uir6yeonpdpmkgsukc5gq6ejsdu7akgar4.ipfs.nftstorage.link/ipfs/bafybeih5wm5bveczw3o4rnc6uir6yeonpdpmkgsukc5gq6ejsdu7akgar4/29234.pdf.torrent">torrent</a></p>
+</blockquote>
+</blockquote>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Ya deja de decir acción causal.</title>
+      <link>//localhost:1313/es/posts/deja-de-decir-accion-causal/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/deja-de-decir-accion-causal/</guid>
+      <description><![CDATA[<h1 id="qué-es-acción-causal">¿Qué es acción causal?</h1>
+<p>Bien, aparentemente es la acción que no es cambiaria pero que sin embargo de alguna u otra manera incluye dentro de la documental presentada algún título valor que o ha dejado de ser un título valor o bien no es un título valor. En ambos casos, no es un título valor porque algo que fué <em>x</em> no es <em>x</em> y algo que no ha llegado a ser <em>x</em> no es <em>x</em>.</p>
+<p>Lo que insisten en llamar acción causal no es sino una acción ordinaria.</p>
+<p>En este caso está sujeta a los avatares de una acción ordinaria.</p>
+<p>Estimo que la confusión viene generada por el hecho de que la acción cambiaria se puede ejercer mediante el juicio ordinario. En cuyo caso es una acción cambiaria ordinaria. Y está sujeta a los avatares de la acción cambiaria.</p>
+<p>End of conversation.</p>
+<p>Bueno, la verdad no. Desde quizás 1970 los titulos valores &mdash;los llamo así porque no hallo otra manera de referirme a ellos&mdash; vienen perdiendo literalidad y autonomía elementos que antes eran consustanciales con ellos. Si uno lee la jurisprudencia de la época uno encuentra discusiones en torno a si la acción ordinaria implica algún tipo de diferencia con respecto a la acción ejecutiva. Nada más. Es decir, si un título ya no puede ser demandado por la acción ejecutiva, conserva la acción cambiaria ordinaria. Naturalmente que no. Pero la discusión empieza a insinuarse.</p>
+<p>Hoy tenemos la <em>Ley del Consumidor</em> que es un <em>game changer</em> en toda regla. La Argentina hace 20 años que lo tiene. Pero tabién se encuentra inmersa en la confusión que convoca el giro <em>acción causal</em>. Prueba de ello es la cantidad de leyes cada vez con menos sentido que se ha dictado desde entonces.</p>
+<p>Emitir, por ejemplo, un pagaré, implica la noción de que somos individuos y de que <a href="https://bacn.gov.py/archivos/9580/CONSTITUCION_ORIGINAL_FIRMADA.pdf#page=5">podemos hacer lo que queramos siempre y cuando la ley no nos lo niegue</a>.</p>
+<p><img src="https://bafkreiedjzycgirlauxdagqg6x3uekdnkl5gxs26eh3bw656bvt3u3m4ne.ipfs.nftstorage.link/" alt=""></p>
+<p>Proteger mis derechos como consumidor implica necesariamente coartar la libertad que tengo de obligarme como se me antoje.</p>
+<p>Ahora bien, no sólo el Estado es culpable de estos procesos turbios, de hecho el capitalismo tiende a quebrantar la misma economía que la sustenta. Y su actividad desvastadora empuja al Estado &mdash;que tampoco necesita tanto empuje, vamos&mdash;  a crear estas leyes que parecen que protegen pero coartan.</p>
+<p>Cada día que pasa es más un día que pasa, y significa que estamos perdiendo nuestra individualidad. No tengo nada en contra de los sistemas colectivistas; de hecho no he vivido nunca uno. Y sé que la Reserva Federal regula el <em>clearing</em> interbancario cada mes y medio casi en una de las economías más florecientes hasta el momento en que estoy escribiendo estas líneas.</p>
+<p>Pero estamos lejos de esa clase de discusiones. Sólo queremos entender mediante qué vía puedo reclamar la acción cambiaria y son dos:</p>
+<ol>
+<li>La vía ejecutiva</li>
+<li>La via ordinaria</li>
+</ol>
+<p>En ambos casos estoy sujeto a las condiciones de la acción cambiaria.</p>
+<p>Las demás acciones que no son esas acciones no es deseable que se las llame <em>acciones causales</em> en tanto que en nada se diferencia de cualquiera otra acción ordinaria.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Interés francés.</title>
+      <link>//localhost:1313/es/posts/interes-frances/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/interes-frances/</guid>
+      <description><![CDATA[<h2 id="interés-francés">Interés Francés.</h2>
+<p>Los americanos llaman <em>french fries</em>  a las papas fritas. Los franceses, por primera vez, no tienen nada que ver con esa aberración.</p>
+<p>El interés francés es un interés compuesto, uno de sus tantos sabores. En este, la frecuencia de composición no es de un mes como en la ley de Bancos Primigenia, ni es diaria. La composición sucede instante trás instante. <a href="https://gateway.ipfs.io/ipfs/bafykbzacec6lmuzgqtxld2y6keega5i2l6xmu3hd6neok4nt3lmtk4etegtxo#page=16">Su fórmula</a> es, ya desprovista de la breve formulación de función cuando <em>x</em> tiende a <em>infinito</em>:</p>
+<p>$$
+A = P e^{rt}
+$$</p>
+<p>donde <em>e</em> es la base de los logaritmos naturales y equivale aproximandamente a 2,71.</p>
+<p>¿Quién usa esta herramienta que desde todo punto de vista parece ilegal?</p>
+<p>¿Las cooperativas?</p>
+<p><img src="https://bafybeihbdk2pk5gken6plh46djz2ikexqfamv4dm2cwppfptjngitjnv7q.ipfs.w3s.link/shylock.png" alt=""></p>
+<p>La declaración de que se utiliza el sistema francés es explícita.</p>
+<p>Hum. Nadie va y solicita G. 371.115.330 de crédito, a menos que necesite urgentemente calderilla &mdash;<em>small change</em>.</p>
+<p>Como es natural en las obligaciones de plazo cierto, en el principal ya se encuentran embebidos los intereses corrientes, por esa razón es que aparece el guarismo que he mencionado. Además en el ultimo párrafo copiado se señala eso en caso de que no hubiera quedado claro.</p>
+<p>Así que tenemos un <em>valor final</em> y cierta cantidad de cuotas 72. Y el ratio de los intereses que son del orden de 21% anual.</p>
+<p>¿Cuánto es lo que en realidad recibió este <a href="https://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&amp;Scope=entire&amp;pleasewait=1&amp;msg=pl">Antonio</a>?.</p>
+<p>Usemos la fórmula del interés compuesto contínuamente; es la misma que la del <em>interés francés</em>.</p>
+<p>$$
+A = P \cdot e^{rt}
+$$</p>
+<p>lo que para nuestro caso es &mdash;en adelante uso cifras aproximativas:</p>
+<p>$$
+371.115.330 \approx P \cdot 2,718281828459045^{0,21 \times 6}
+$$</p>
+<p>$$
+371.115.330 \approx P \cdot 2,718281828459045^{0,21 \times 6}
+$$</p>
+<p>$$
+371.115.330 \approx P \cdot 2,718281828459045^{1,26}
+$$</p>
+<p>$$
+371.115.330 \approx P \cdot 3,525421487365382
+$$</p>
+<p>$$
+P \approx \frac{371.115.330}{3,525421487365382}
+$$</p>
+<p>$$
+P \approx 105.268.357,65029104
+$$</p>
+<p>La persona prestó G. 100 millones. Esos 5 más son el IVA.</p>
+<h2 id="y-cuál-es-el-problema">¿Y cuál es el problema?</h2>
+<p>Ninguno en realidad, salvo la disposición de la ley que prohibe hacer la operación. Me siento, al terminar de hacer estas suputaciones &mdash;no las he hecho antes así que disculpen si incurro en errores&mdash; como la vez en que un cliente me preguntó &laquo;¿es esto justo?&raquo;.</p>
+<p>Yo no sé de esas cosas. Me parece bueno que la gente acceda a creditos baratos y me parece que está mal que se disfrace innecesariamente al interés compuesto bajo otra formula también estacocástica como es la del interés francés. Sería mejor informar al cliente, en vez de decirle que es 21%, indicarle que es del 24%&hellip; No creo que en nuestro caso vaya más de allá.</p>
+<p>En cuanto lo demás, no se puede &laquo;arreglar&raquo; las tasas de interés. No se puede &laquo;arreglar&raquo; la economía, ni el dinero, ni el Estado, ni el Derecho&hellip; Porque forman parte de una larga cadena de explotación. Un sistema en el cual, queramos o no, confiamos todos.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>¿Que debe saber un juez?</title>
+      <link>//localhost:1313/es/posts/que-debe-saber-un-juez/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/que-debe-saber-un-juez/</guid>
+      <description><![CDATA[<p><em>Antes de leer este post, es mejor leer el de interés compuesto.</em></p>
+<h2 id="saber-común">Saber común.</h2>
+<p>Usualmente ello está contenido dentro de lo que el Código llama los hechos notoriamente conocidos.</p>
+<p>¿Por ejemplo? ¿Literatura? Tal vez no. Tal vez no sepan ubicar la cita:</p>
+<pre tabindex="0"><code>&lt;&lt;A tí también, en lejanas playas de oro,
+Te aguarda incorruptible tu tesoro,
+La vasta vaga populosa muerte.&gt;&gt;
+</code></pre><p>Pero debería saber que es un terceto porque&hellip; ¿no pasaron por la secundaria?</p>
+<p>Y tal vez no sea necesario que sepan demostrar que $$\sqrt{2}$$ es, en efecto un número irracional. Pero deberían saber lo que es uno si no falsificaron su diploma de bachiller.</p>
+<p>Y es ahí donde quiero llegar.</p>
+<p>Matemáticas. Los abogados suelen presumir de no saber matemáticas. Que es más o menos que una persona sorda te diga que nunca necesitó  de la música. Realmente no. Pero al hacer los cálculos de cualquier obligación dineraria, y sólo de eso se encarga la ley, en realidad, es imposible no articularla de tal forma.</p>
+<p>Y quién lo evalúa, el Juez&hellip;  ¿Deberían conocer, por ejemplo, la fórmula del interés compuesto? ¿Deberían saber que es una simplificación de la <em>real</em> fórmula? El Mec entiende que es cuestión del <a href="https://www.mec.gov.py/cms_v2/adjuntos/13208">Primer Año de la Media</a></p>
+<p>Cuando digo <em>real</em> formula me refiero  a que la capitañizaxion al tipo de interés compuesto continuo también se conoce como tipo efectivo anual (TEA o EAR por sus siglas en inglés).</p>
+<h2 id="el-interés-francés">El interés francés.</h2>
+<p>En esta <em>método</em> los pagos de capital e intereses es la siguiente:</p>
+<p>$$
+a = \frac{C}{a_{|\overline{{n}}i}}
+$$</p>
+<p>Donde:</p>
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>$$a$$</td>
+          <td>,</td>
+          <td>es el término amortizativo del préstamo, en este caso, meses.</td>
+      </tr>
+      <tr>
+          <td>$$C$$</td>
+          <td>,</td>
+          <td>es el capital prestado.</td>
+      </tr>
+      <tr>
+          <td>$$i$$</td>
+          <td>,</td>
+          <td>es el tipo de interés del préstamo.</td>
+      </tr>
+      <tr>
+          <td>$$n$$</td>
+          <td>,</td>
+          <td>es el número de meses que dura el préstamo.</td>
+      </tr>
+  </tbody>
+</table>
+<p>$$
+a_{|\overline{{n}}i} = \frac{(1+i)^n - 1}{i \times (1+i)^n}
+$$</p>
+<p>Luego:</p>
+<p>$$
+a = \dfrac{C}{\dfrac{(1+i)^n - 1}{i \times (1+i)^n}} \rightarrow a = C \times \dfrac{i \times (1+i)^n}{(1+i)^n - 1}
+$$</p>
+<p>Como se observa, el interés va incluido en las cuotas desde el inicio de manera que el capital vaya amortizándose en razón de</p>
+<p>$$
+(i+1)
+$$</p>
+<p>Y el resto se inpute a intereses. El <em>sistema francés</em> quizás no es incompatible con la forma de inputar intereses del Código Civil.</p>
+<p>Es incompatible solamente con la Ley del Banco Central.</p>
+<blockquote>
+<p>El interés moratorio será calculado sobre el saldo de la deuda vencida y en ningún caso podrán capitalizarse intereses sobre los intereses moratorios ni punitorios.</p>
+</blockquote>
+<p>Dice la <a href="https://www.bacn.gov.py/leyes-paraguayas/5034/ley-n-2339-modifica-el-articulo-44-de-la-ley-n-48995-organica-del-banco-central-del-paraguay">LEY N° 2339 QUE MODIFICA EL ARTICULO 44 DE LA LEY N° 489/95 “ORGANICA DEL BANCO CENTRAL DEL PARAGUAY”.</a></p>
+<p>Se lo puede hallar en el excelente sitio del Congreso de la Nación (en serio lo extrañe mientras suspendieron el servicio durante casi un mes).</p>
+<p><em>Ps:</em> volvió a caer, este es el link del <a href="http://webcache.googleusercontent.com/search?q=cache:https://www.bacn.gov.py/leyes-paraguayas/5034/ley-n-2339-modifica-el-articulo-44-de-la-ley-n-48995-organica-del-banco-central-del-paraguay&amp;strip=1&amp;vwsrc=0">cache de google</a>.</p>
+<div id="graphcomment"></div>
+   <script type="text/javascript">
+   
+      
+   
+     var __semio__params = {
+       graphcommentId: "villalba", 
+   
+       behaviour: {
+         
+         
+       },
+   
+       
+   
+     }
+   
+      
+   
+     function __semio__onload() {
+       __semio__gc_graphlogin(__semio__params)
+     }
+   
+   
+     (function() {
+       var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+       gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+     })();
+     
+   
+   </script>
+
+<hr>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Sobre Regulación de Honorarios</title>
+      <link>//localhost:1313/es/posts/regulacion-de-honorarios/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/regulacion-de-honorarios/</guid>
+      <description><![CDATA[<p><strong>Regulación de honorarios.</strong></p>
+<p>No hay forma de avenir los irreconciliables 32 y 21 de la Ley de Honorarios.</p>
+<p><strong>Lo cual quiere decir.</strong></p>
+<p>Se supone que es un regla de proporción, no sé como llamarlo de otra forma.</p>
+<p>A mayor monto, menor honorarios.</p>
+<p>Nuestros jueces, ya es mucho decir, lo toman como una regla de tres. O algo que se le asemeja o recuerda. No creo que lleguen a tanto.</p>
+<p>Imaginemos que sí llegan.</p>
+<p>$$
+\Delta h \Longrightarrow     x
+$$</p>
+<p>$$
+x \Longrightarrow \dfrac{1}{h}
+$$</p>
+<p>$$\Delta h$$ porque los honorarios están acotados: 5% y 20%.</p>
+<p>Pero la otra variable no lo está. Como consecuencia esta regla de tres es mera fantasía y no significa mayor cosa. Si lo escribimos de manera simplificada se vería así. &mdash;En realidad no es así, se trata de una serie telescópica, pero por un momento olvidemos eso:</p>
+<p>$$
+\lim_{n \rightarrow \infty} a_{n} = 0
+$$</p>
+<p>Paciello objeta: pero si pienso en una suma, siempre podré pensar en una mayor. Sin querer quizás, está dando la precisión de lo que es una serie no acotada. Lo cual, para el caso, no tiene sentido. Los honorarios tenderian al mínimo eternamente no importa que tan alto bajo sea el monto o tan alto sea éste y la responsabilidad asumida en consecuencia.</p>
+<p>Torres K. dice que no es mas que una repeticion que se debe resolver en conjunto con el artículo 21, lo cuál, además de ser una solución razonable no deja de tener elegancia. Notable, los que llegamos a conocerle, la simpática, directa, elegancia del profesor Torres Kirmser.</p>
+<p>Es decir, el 21 establece los criterios {a, b , c, d}. Uno de ellos es el monto del juicio, el cual, prudentemente le asigna un valor de promedio. No esta mal. Tiene sentido. Aparte de su justificacion, que no enuncia pero que necesariamente es la de Alexy: no siempre una norma repetida deroga a la otra, muchas veces se <em>complementa</em> con la otra, encuentro otra: el monto mayor es el doble del valor del juicio. Lo cual no tiene asidero ni en la ley ni en su pobre matematica, pero si en la practica de la justicia.</p>
+<p>Es decir, la justicia está compelida a dar cada uno la parte que le corresponde. Si son dos, la mitad si así se acordó. Si son varios, la prorrata, etc.</p>
+<p>Propone siempre un monto que equidista del total tanto para uno como para otro: ambos se benefician o perjudican de igual manera. Si son dos las partes y concurren con un derecho similar, digamos:</p>
+<p>¿Pero qué si no tenemos sino la primera porción? ¿Qué razón aplicar?</p>
+<p>Allí es donde Torres K. señala: si no conocemos sino la porción primera la porción la mayor porción será tal que la suma de ambas porciones represente la mayor. Hipótesis, que si pudiéramos enunciar de manera genérica, podríamos recurrir en un montón de casos imagino.</p>
+<p>$$
+x = 2 x_0
+$$</p>
+<p>Si un juicio es de 100 millones el total representado por ese monto más el que desconocemos será 200 millones. Y si es de 2 millones sera apenas de 4 millones. A la justicia le gusta la razon: equilibrar la balanza, dar a cada uno lo que es suyo, etc. Asi que su solución puede ser considerada no solo justa, inteligente, al no meterse donde no le importa, y bella porque coincide con los valores de justicia.</p>
+<p>Entonces, claro, no solucionamos el problema porque ahora <strong>el mayor monto</strong> simplemente fué desplazado a un descriptor del 21. Cierto, pero ya no es gran problema. Es el cuarto de un problema, se tendrá que considerar junto con otros y su impacto de falsa proporción será menor.</p>
+<p>He aquí un escrito <a href="https://bafybeibmndx5knezrt4hpj2l3bewi2gktwqal4gf2jbbdunj6wx5wv4ug4.ipfs.nftstorage.link/">reciente</a>.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<hr>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>¿Cuál es el valor del Juicio?</title>
+      <link>//localhost:1313/es/posts/sobre-el-valor-del-juicio/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/sobre-el-valor-del-juicio/</guid>
+      <description><![CDATA[<p>Primariamente, el monto base para el justiprecio es el capital reclamado.</p>
+<p>Pero la demanda es por ese monto y por sus intereses, los cuáles no
+pueden dejar de tenerse en cuenta. En ningún caso. Ni si la actora logra
+éxito, tanto como si no. Ese hecho le es ajeno a la estipulación del monto del juicio. -</p>
+<blockquote>
+<p>&lt;&lt;Corresponde considerar, a los fines de resarcirtorio de los
+honorarios de la abogada patrocinante, la demandada, la suma reclamada
+y todos los accesorios que la actora hubiera logrado si hubiera
+triunfado en sus pretensiones, ya que esa ha sido su petición en el
+escrito inicial de demanda, de conformidad a la norma contenida en el
+inciso a del artículo 26 de la Ley 1306/88. Auto interlocutorio Número
+40 del 18 de octubre de 1993 dictado por el Tribunal de Apelación
+Civil y Comercial Tercera Sala.&gt;&gt;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+</blockquote>
+<p>Totalmente natural lo señalado por el Dr. Torres K. si consideramos que
+una cosa es una suma ilíquida y otra cosa una liquidable . Así un fallo
+reciente:-</p>
+<blockquote>
+<p>&lt;&lt;la acción ejecutiva requiere de un título ejecutivo, que existe
+cuando exterioriza una obligación de dar suma de dinero, liquida o
+fácilmente liquidable y exigible (CNCiv., esta Sala, Septiembre 7 de
+1981, ED 96584); es preciso que el título se baste a sí mismo,
+surgiendo de él una obligación pura y simple por suma líquida y
+exigible (CNCom., Sala C, Diciembre 15 de 1960; ED 1755)&gt;&gt;, el
+tribunal consideró que &lt;&lt;la suma es líquida cuando de las
+constancias del título ejecutivo permiten calcularla sin dificultad,
+(CNCiv., Sala C, Setiembre 16 de 1963, ED, 824)&gt;&gt;<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+</blockquote>
+<p>Al igual que un fallo local: -</p>
+<blockquote>
+<p>&lt;&lt;Con respecto al requisito de la liquidez, si bien en el documento
+no se encuentra una obligación liquida, es liquidable por medio de una
+mera operación aritmética, en este caso, la suma. Tras efectuar la
+suma corroboramos que efectivamente el monto demandado es el expresado
+por la actora en su escrito inicial,&hellip;&gt;&gt;<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></p>
+</blockquote>
+<p>Además, el artículo 29 lo explicita: -</p>
+<blockquote>
+<p>&lt;&lt;Art. 29.- Una vez concluido el juicio, y determinados los valores
+exactos y el vencedor, el profesional tendrá derecho a que se le
+regulen complementariamente los honorarios que no hubiese percibido.
+En todos los casos, ya sea que el profesional perciba
+proporcionalmente sus honorarios o prefiriera exigirlos al término del
+juicio o de la causa, [los valores deberán ajustarse al tiempo en que
+se los regula].&gt;&gt;</p>
+</blockquote>
+<p>Suma líquida, pues, no difiere mucho conceptualmente de una
+liquidable.-</p>
+<p>$$
+\mbox{suma líquida} \approx \mbox{suma liquidable}
+$$</p>
+<p>En el caso que me ocupaba, el documento presentado reclamaba intereses del
+orden del 1.5% mensual más el 30% del mismo en orden de los intereses
+punitorios, los cuales no se encuentran fuera del rango que suelen fijar
+los juzgados.-</p>
+<p>Es decir</p>
+<p>$$
+\dfrac{30}{100} + \dfrac{30}{100} \times \dfrac{30}{100}  \approx 4\%
+$$</p>
+<p>Como los mismos hubieran corrido desde la emisión del título, los mismos
+son &lt;&lt;fácilmente liquidables&gt;&gt;. -</p>
+<p>Desde su presentación habían pasado 41 meses.-</p>
+<p>$$
+4\% \times 41 = 164\%
+$$</p>
+<p>Los cálculos pues se pueden ordenar de la siguiente manera bajo el supuesto de que el mismo sea de mil millones:</p>
+<p>$$
+1 000 000 000 + 1 000 000 000 \times 41  \times 4\% = &hellip;
+$$</p>
+<p>En principio ese sería el valor del juicio, sin los gastos y honorarios,
+etc.</p>
+<hr>
+<p>Los detalles de la Bibliografía están en: <a href="https://bafkreifcdukgode5jwmgqvesjvovtrqfkf2ondculuxmnj7deoqlkubjwm.ipfs.nftstorage.link/">derecho.bib</a></p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+<hr>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>[@torres 156].&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>[Cfr. @fallo:monto-demanda].&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>[@fallo:albertini].&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Acompáñeme a conocer esta triste historia.</title>
+      <link>//localhost:1313/es/posts/acompanieme/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/acompanieme/</guid>
+      <description><![CDATA[<p>Trataré de hacerlo lo menos novelesco posible. Esa cualidad le es intríseca.</p>
+<p>Hacie finales del 2022 la señora Ciríaca Medina, una cliente, me indicó que deseaba donar una porción de su inmueble al Estado Paraguayo, que la está demandando dicho sea de paso, y quería que le arreglara la papelería. Su intención era que en el lugar se erigiera una escuela.</p>
+<p>La siguiente es una trasncripción del poder especial que me otorgó, si lo leen pueden tener una mejor noción de lo que pasó:</p>
+<blockquote>
+<p>…{Mención de los documentos habilitantes} …Y LA COMPARECIENTE DICE: Que confiere PODER ESPECIAL PARA DONAR a favor del abogado WILSON ROBERTO VILLALBA ARÉVALOS, con Matrícula de la Corte Suprema de Justicia Nº 7.407, con con Cédula de Identidad Nº 1 275 062, correo electrónico <em>page at wilson dot villalba dot is</em>, domiciliado en la calle Mariscal López 893 de la Ciudad de Asunción. La comparaciente declara que, (a) habida cuenta la necesidad imperiosa que tiene su comunidad Karanda&rsquo;y ty de contar con una Escuela y que (b) el Ministerio de Educación de Ciencias ha manifestado que no cuenta con un terreno para levantar tal edificio por lo que solo podria hacerlo de contar con una donación, (c) teniendo ella una propiedad en la zona, (d) teniendo también en cuenta que la Supervisión educacional area 17-2 de Fuerte Olimpo, Alto Paraguay, mediante el dictamente Nº 1/200 ha expresado que: &laquo;Dando respuesta a la petición de los padres de la apertura de aulas extensivas para sus hijos en edad escolar del primero al sexto grados de la EEB en la zona denominada Karanda&rsquo;yty, distrito de Fuerte Olimpo, Departamento Alto Paraguay que dista aproximadamente de la Ciudad Capital 220 km y de la población más cercana Toro Pampa 180 km, en donde funciona una Escuela de Area: Esc. Básica Nº 5868 Doctor Andres Rivarola Queirolo, El Supervisor Educacional de Area 17-2 Lic. Enrique Arias Jara y el Director Departamental de Educación Lic. Victor Manuel Maidana, se hicieron presente en la denominada población para relevar datos precisos que apoyen favorablemente el pedido en cuestión. Se pudo apreciar que en la zona denominada Karanda&rsquo;yty viven más de 30 familias asentadas, pequeños ganaderos y peones de Grandes Estancias del lugar. La población no cuenta con caminos levantados, sólo sorteando senderos entre montes, picadas y cariadones se llega al lugar. Hasta la fecha actual algunos padres por querer sacar adelante a sus hijos le llevan a un internado que dista 160 km que lleva 2 a 3 dias a caballo sin la posibilidad de visitar y acompañar periodicamente por la distancia y más aún en tiempo de lluvia en que el accesa se inunda totalmente. Otras familias deciden llevar a sus niños hacia el Departamento Boquerón especificamente Filadelfia, Loma Plata, Cruce Boquerón o Villa Choferes ya sea en casa de parientes o familias de buena voluntad, en ambos casos ocasiona enormes gastos tanto el traslado como la estadia y comida durante el año lectivo. A esto se le puede sumar el desarraigo de los hijos en tan temprana edad para el nivel inicial, primer y segundo ciclos. Yendo a los datos numéricos constatamos que existen numerosos niños en edad escolar en la zona para primer y iegundo ciclos que justifican plenamente la atención urgente al pedido de las aulas extensivas que podrian depender de La Escuela Cabecera de Toro Pampa hasta tanto se sueda gestionar para que funcione una escuela independiente en el lugar mencionado va jue conversando con los padres están dispuestos a ceder un pedazo de sus tierras al MEC para facilitar la Apertura de una Escuela Oficial. Teniendo en cuenta las razones nencionadas: situación geográfica de la población, falta de caminos de accesos en tiempo de lluvias, cantidad de niños en edad escolar, escasos recursos de muchas familias, desarraigo familiar, El Supervisor Educacional Area 17-2 de Distrito de Fuerte Olimpo: DICTAMINA favorablemente la Apertura de aulas extensivas para primer y segundo ciclos de la EEB hasta tanto se pueda gestionar el funcionamiento de una Escuela Oficial con todas las reglamentaciones exigidas por el MEC. Dada en Fuerte Olimpo, a los 18 dias del mes de enero de 2022. Lic Enrique Arias Jara. Supervisor Educational. Area 17 - 02 - Fuerte Olimpo. Mat 40336&raquo; texto que la compareciente se limita a expresar de viva voz y a presentar una copia simple sin aportar otro documento, y finalmente (d) que si bien la compareciente &mdash;señora Ciríaca María Cabañas Adorno&mdash; se halla atravesando un momento financiero inestable que ha devenido en embargos sobre el total de su terreno, los que declara que, según el Código Civil, no se transfiere ni en todo ni en parte sobre la porción que habrá de ser donada, luego de haberlo sopesado, consiente, meditadada, libre y voluntariamente, ha dispuesto donar una superficie de terreno delimitada dentro de otra mayor de su propiedad al Ministerio de Educación y Ciencias, con cargo de que el Organismo Educativo instale en ella una Escuela dentro del plazo de un año de realizada la presente donación. La construcción del edificio, así como la disposición de todo lo necesario para que la Escuela empiece sus tareas, correrán enteramente a cargo del Ministerio de Educación y Ciencias. Para el caso en que la Escuela no se encuentre funcionando regularmente dentro de ese plazo, la misma será revertida de pleno derecho según lo dispuesto por el Código Civil, sin perjuicio de, en su caso, de solicitar los daños que le irrogó la operación, y (e) que hallándose lejos de la Ciudad de Asunción no puede sino hacerlo mediante un mandatario, que es el señalado al principio. El inmueble que habrá de donar el Abogado Wilson Villalba se limita a la porcion menor delimitada por la arista noroeste de la propiedad, la cual linda al Norte con la Marilda para Ruta Norte y al Este con los derechos de Julio Zoilan. El lindero Norte mide 250 m y el lindero Este mide 200 m. Superficie 5 Has. Tal inmueble es parte de superficie mayor, situado en el Chaco Paraguayo, distrito de Puerto Olimpo, lugar denominado Puerto Guaraní. El objeto de la donación que habrá de hacerse consiste en una superficie de 5,00 Has (cinco hectareas). Esta fracción menor, está delimitada dentro de otra mayor propiedad de la señora Ciriaca María Cabañas Adorno, fracción mayor esta individualizado como fracción &ldquo;F&rdquo;, cuyas dimensiones y linderos son: fracción &ldquo;B&rdquo;, del lado 15 - 35 con rumbo S 88º 36&rsquo; 58&rsquo;&rsquo; W mide 2.749,29 m. y linda con derechos del INDERT y linda con derechos del INDERT. Lado 35 - 48 con rumbo N 01º 35&rsquo; 19&rsquo;&rsquo; W mide 2167,77 m. y linda con la fracción &ldquo;H&rdquo; (ocupada por Miguel Zoilán). Lado 48 - 52 con rumbo N 88º 36&rsquo; 58&rsquo;&rsquo; E  mide 92,82 m. y linda con la fracción &ldquo;P&rdquo; (ocupación de Ana B. Ríos). Lado 52 - 36 con rumbo N 01º 35&rsquo; 20&rsquo;&rsquo; W mide 1423,49 m. y linda con la fracción &ldquo;P&rdquo; (ocupación de Ana B. Ríos). Lado 36 - 34 con rumbo N 88º 12&rsquo; 52&rsquo;&rsquo; E mide 2645,29 metros y linda con la fracción &ldquo;A&rdquo; (libre de ocupación, propiedad del señor Roberto Eaton Kent). Lado 34 - 15 con rumbo S 01º  45&rsquo; 56&rsquo;&rsquo; E  mide 3609,86 m y linda con la fracción ocupada de Julio Zoilán. Superficie del polígono 974 Has 5786 m2 6572 cm2. Referencia del inmueble: &laquo;El valor del mojón Nº 34 de la presente mensura fue determinado con el método de medición GPS y tiene coordenadas planas UTM del sistema de proyecciones WGS84 N=7 638 239,805 (siete millones seiscientos treinta y ocho mil doscientos treinta y nueve metros con ochocientos cinco centímetros E=284.369,813 (doscientos ochenta y cuatro mil trescientos sesenta y nueve metros con ochocientos trece centímetros. El mojón número 15 de la presente mensura se encuentra a una distancia de 3609.86 m con rumbo N 01º 45&rsquo; 57&rsquo;&rsquo; W del mojón número 34 que fuera determinado por el método anteriormente mencionado. Es mi informe. Licenciado Filemón Melgarejo Zayas. Corresponde a la propietaria dicha fracción por compra que le hiciera a la señora Dila Avelma Estigarribia de Eaton según escritura Número diez otorgada en la Ciudad de  de Asunción,  República del Paraguay, el 18 de junio del 2010 ante la N.P. Marta Brun Zucolillo de Pérez, con Registro Notarial Nº 539. La compareciente se limita a expresar estos datos de viva voz sin agregar mayor documentación que copias simples. A tal efecto la compareciente faculta al citados profesional a que se presenten ante ls autoridades del Ministerio de Educación y Cultura a realizar lo que mediante este poder se le faculta, con sus restricciones y cargas, las cuales fueron descritas. Accesoriamente, y en cumplimiento estricto del mandato, le faculta a presentarse ante los jueces, tribunales, Corte Suprema de Justicia y demás autoridades judiciales de cualquier fuero, jurisdicción y circunscripción de la República del Paraguay, a fin de promover, intervenir y/o proseguir, hasta su total terminación y/o ejecución, la demanda que es objeto del poder especial, reconvenir y contestar reconvenciones; presentar, solicitar, impugnar, tachar toda clase de escritos, escrituras públicas, documentos, pruebas, testigos, o informaciones sumarias; prestar o diferir juramentos, recusar jueces, miembros de los Tribunales de Apelación, de cualquier fuero, jurisdicción y circunscripción judicial del país, a los miembros del Tribunal de Cuentas, a los Ministros de la Corte Suprema de Justicia y a los Representantes del Ministerio Público, de la Sindicatura General de Quiebras y demás auxiliares de Justicia; prorrogar o declinar jurisdicciones; asistir a juicios orales, comparendos, sumarios administrativos, cotejo de documentos, reconocimientos de firmas y exámenes periciales; poner y absolver posiciones; oponer y contestar excepciones e incidentes de todo tipo; solicitar ante las autoridades respectivas, a favor de las comparecientes, todos los derechos y garantías constitucionales correspondientes, por vía de la acción y/o la excepción; plantear la inconstitucionalidad de las leyes, decretos, reglamentos, ordenanzas, y demás instrumentos normativos, así como también de las sentencias definitivas, autos interlocutorios y demás resoluciones judiciales contrarias a la Constitución ante la Corte Suprema de Justicia de la República del Paraguay u otros organismos; pedir embargos preventivos y ejecutivos, inhibiciones y cualquier otra medida cautelar de conservación y seguridad; constituir a las mandantes en depositarias judiciales; percibir sumas de dinero en sus nombres y expedir los correspondientes recibos; intimar desalojos y lanzamientos o desahucios; comprometer las causas a juicios de árbitros y amigables componedores; proponer la designación de administradores de bienes, escribanos públicos, rematadores, oficiales de justicia, médicos forenses, peritos tasadores contadores, partidores, calígrafos, traductores y otros, y objetar si fuere necesario sus conclusiones; solicitar compulsas de libros de contabilidad; aceptar o impugnar jurisdicciones o consignaciones; deducir tercerías; demandar por daños y perjuicios, intereses e indemnizaciones; pedir declaratoria de quiebra de cualquier deudor de las otorgantes; intervenir en convocatorias de acreedores y en dicho contexto, asistir a juntas de acreedores, aceptar, modificar o rechazar concordatos, novaciones, quitas, esperas, y cualquier otro tipo de arreglo judicial o extrajudicial; verificar créditos y su graduación; abrir sucesiones e intervenir en aquellas en las que las otorgantes sean acreedoras o por cualquier motivo tengan interés legítimo; aprobar y/o rechazar inventarios y avalúos; reclamar o renunciar a derechos adquiridos en virtud de prescripciones o de otras causas; hacer modificaciones o denuncias de bienes; solicitar intervención en los juicio de particiones de condominios, mensuras, deslindes y amojonamientos; otorgar o exigir fianzas, cauciones, arraigos y demás garantías reales o personales; solicitar y/o evacuar diligencias, exhortos, oficios, declaraciones de todo tipo, mandamientos, intimaciones y citaciones judiciales; formular protestos y protestas; protocolizar documentos sujetos a esta formalidad; ratificar, rectificar, aclarar, conferir y registrar instrumentos públicos relativos a actos jurídicos y contratos que deban ser presentados en juicio; hacer constataciones de hechos; desistir de la instancia y de la acción en toda clase de procesos judiciales y administrativos; desistir de incidentes, excepciones y recursos; concurrir a oficinas administrativas a interponer recursos de reposición y/o apelación; peticionar y/o reclamar a las autoridades administrativas; demandar en lo contencioso administrativo; solicitar certificados, rúbrica de libros, inscripciones y legalizaciones; formular consultas y reclamos, deducir nulidad parcial o total; redargüir de falsedad documentos y/o firmas; apelar resoluciones judiciales o desistir de este derecho; solicitar intimaciones, actas y/o constataciones notariales; asistir a audiencias, comparendos y remates; allanarse a demandas, peticiones, sumarios administrativos y a otros actos o pretensiones judiciales o administrativos; solicitar nombramientos y/o cambios de depositarios, secuestro de bienes inmuebles, muebles y semovientes, llevarlos a remate o solicitar su adjudicación a nombre de las comparecientes o de la persona que éstas designen; otorgar, aceptar y firmar todos los instrumentos públicos y privados que para mejor cumplimiento de este mandato sean necesarios; y en fin, practicar todos los actos, gestiones, trámites y diligencias que sean convenientes para la buena defensa de los intereses y derechos de las otorgantes, ante los Juzgados, Tribunales, Corte Suprema de Justicia y Autoridades Administrativas de la Nación, sean éstas Municipales, Ministerios, Secretarias, Organismos Recaudadores, Banco Central del Paraguay, en general empresas y reparticiones públicas, entes autónomos, autárquicos, etc., sin limitación alguna, salvo las establecidas expresamente en el presente mandato y en la ley, todo ello con relevación de costas, costos y demás gastos judiciales o extrajudiciales y la obligación de tener por firme y subsistente cuanto hiciere en mérito de este poder y dentro de sus límites.  Leída la escritura por mí a la compareciente de quién recibí personalmente la declaración de voluntad y enterado de los términos de la presente escritura, previa ratificación y, aceptación, así otorga y… {Etcétera}</p>
+</blockquote>
+<blockquote>
+<p>Asunción, 2023-02-25.</p>
+</blockquote>
+<hr>
+<p>La Escribana me miraba con desconfianza mientras copiaba y pegaba el texto en su sistema. Yo traté de que mi historia pareciera razonable. No la pude consolar. Sentí que de alguna manera la había herido en lo vivo.</p>
+<p>Envié una primera misiva, luego otra.</p>
+<p>Contacté con una agrimensor del ente poco despues de enviar la segunda:</p>
+<hr>
+<blockquote>
+<p>Señor Ministro</p>
+<p><code>placeholder</code></p>
+<p>Ministerio de Educación y Ciencias</p>
+<p><em>Ref: Reiterar oferta de Donación de un inmueble al Ministerio de
+Educación y Ciencias con el fin de que se construya una escuela. Exp: Nº
+227.471 - 2022</em></p>
+<p>Su Excelencia:</p>
+<p>Tengo el placer de dirigirme al Sr. Ministro a fin de <strong>reiterarle</strong>
+cuanto sigue:</p>
+<p>La señora Ciríaca María Cabañas Adorno me ha otorgado poder especial, el
+que acompaño a esta presentación, para donar al Ministerio de Educación
+y Ciencias con RUC Nº 80005190-4 con dirección en 15 de Agosto entre
+Gral. Díaz y Haedo de la Ciudad de Asunción, una porción determinada de
+un bien inmueble a fin de que se erija allí una escuela, oferta que
+ahora traslado al Ministerio de Educación y Ciencias.</p>
+<p>Al tiempo, me manifestó la necesidad imperiosa que tiene su comunidad
+Karanda&rsquo;y ty de contar con una Escuela y que el Ministerio de Educación
+de Ciencias ha manifestado que no cuenta con un terreno para levantar
+tal edificio por lo que solo podría hacerlo de contar con una donación.</p>
+<p>Dado que la señora Ciríaca María Cabañas Adorno tiene una propiedad,
+decidió donar una parte de ella con la condición de que el Ministerio de
+Educación y Ciencias instale allí una escuela dentro del plazo de un año
+cuanto más.</p>
+<p>La urgencia es real: la Supervisión Educacional Área 17-2 de Fuerte
+Olimpo, Alto Paraguay, mediante el dictamen Nº 1/200 ha expresado que:</p>
+<blockquote>
+<p>&laquo;Dando respuesta a la petición de los padres de la apertura de
+aulas extensivas para sus hijos en edad escolar del primero al sexto
+grados de la EEB en la zona denominada Karanda&rsquo;yty, distrito de Fuerte
+Olimpo, Departamento Alto Paraguay que dista aproximadamente de la
+Ciudad Capital 220 km y de la población más cercana Toro Pampa 180 km,
+en donde funciona una Escuela de Area: Esc. Básica Nº 5868 Doctor
+Andres Rivarola Queirolo, El Supervisor Educacional de Area 17-2 Lic.
+Enrique Arias Jara y el Director Departamental de Educación Lic.
+Victor Manuel Maidana, se hicieron presente en la denominada población
+para relevar datos precisos que apoyen favorablemente el pedido en
+cuestión. Se pudo apreciar que en la zona denominada Karanda&rsquo;yty viven
+más de 30 familias asentadas, pequeños ganaderos y peones de Grandes
+Estancias del lugar. La población no cuenta con caminos levantados,
+sólo sorteando senderos entre montes, picadas y cañadones se llega al
+lugar. Hasta la fecha actual algunos padres por querer sacar adelante
+a sus hijos le llevan a un internado que dista 160 km que lleva 2 a 3
+dias a caballo sin la posibilidad de visitar y acompañar
+periódicamente por la distancia y más aún en tiempo de lluvia en que
+el accesa se inunda totalmente. Otras familias deciden llevar a sus
+niños hacia el Departamento Boquerón específicamente Filadelfia, Loma
+Plata, Cruce Boquerón o Villa Choferes ya sea en casa de parientes o
+familias de buena voluntad, en ambos casos ocasiona enormes gastos
+tanto el traslado como la estadia y comida durante el año lectivo. A
+esto se le puede sumar el desarraigo de los hijos en tan temprana edad
+para el nivel inicial, primer y segundo ciclos. Yendo a los datos
+numéricos constatamos que existen numerosos niños en edad escolar en
+la zona para primer y iegundo ciclos que justifican plenamente la
+atención urgente al pedido de las aulas extensivas que podrían
+depender de La Escuela Cabecera de Toro Pampa hasta tanto se pueda
+gestionar para que funcione una escuela independiente en el lugar
+mencionado va jue conversando con los padres están dispuestos a ceder
+un pedazo de sus tierras al MEC para facilitar la Apertura de una
+Escuela Oficial. Teniendo en cuenta las razones mencionadas: situación
+geográfica de la población, falta de caminos de accesos en tiempo de
+lluvias, cantidad de niños en edad escolar, escasos recursos de muchas
+familias, desarraigo familiar, El Supervisor Educacional Area 17-2 de
+Distrito de Fuerte Olimpo: DICTAMINA favorablemente la Apertura de
+aulas extensivas para primer y segundo ciclos de la EEB hasta tanto se
+pueda gestionar el funcionamiento de una Escuela Oficial con todas las
+reglamentaciones exigidas por el MEC. Dada en Fuerte Olimpo, a los 18
+dias del mes de enero de 2022. Lic Enrique Arias Jara. Supervisor
+Educacional. Area 17 - 02 - Fuerte Olimpo. Mat 40336&raquo;</p>
+</blockquote>
+<p>Como abogado de la señora Ciríaca María Cabañas Adorno  sé que ella se
+halla atravesando un momento financiero inestable que ha devenido en
+embargos sobre el total de su terreno, los que declara, desde ya, que,
+según el Código Civil, no se transfiere ni en todo, ni en parte sobre la
+porción que habrá de ser donada y así se hará constar en la escritura.</p>
+<p>La porción a donarse está delimitada dentro de otra mayor de su
+propiedad y ya cuenta con referenciación geoposicional de hecho, el
+informe correspondiente formará parte del texto de la donación.</p>
+<p>El objeto de la donación que habrá de hacerse consiste en una superficie
+de 5,00 Has (cinco hectareas). Esta fracción menor, está delimitada
+dentro de otra mayor propiedad de la señora Ciriaca María Cabañas
+Adorno, fracción mayor esta individualizado como fracción &laquo;F&raquo;,
+cuyas dimensiones y linderos son: fracción &laquo;B&raquo;, del lado 15 - 35
+con rumbo S 88º 36&rsquo; 58&quot; W mide 2.749,29 m y linda con derechos del
+INDERT y linda con derechos del INDERT. Lado 35 - 48 con rumbo N 01º 35'
+19&quot; W mide 2167,77 m y linda con la fracción &laquo;H&raquo; (ocupada por
+Miguel Zoilán). Lado 48 - 52 con rumbo N 88º 36&rsquo; 58&quot; E mide 92,82 m y
+linda con la fracción &laquo;P&raquo; (ocupación de Ana B. Ríos). Lado 52 - 36
+con rumbo N 01º 35&rsquo; 20&quot; W mide 1423,49 m y linda con la fracción
+&laquo;P&raquo; (ocupación de Ana B. Ríos). Lado 36 - 34 con rumbo N 88º 12'
+52&quot; E mide 2645,29 metros y linda con la fracción &laquo;A&raquo; (libre de
+ocupación, propiedad del señor Roberto Eaton Kent). Lado 34 - 15 con
+rumbo S 01º 45&rsquo; 56&quot; E mide 3609,86 m y linda con la fracción ocupada
+de Julio Zoilán. Superficie del polígono 974 Has 5786 m^2 6572 cm^2.</p>
+<p>Referencia del inmueble: &laquo;El valor del mojón Nº 34 de la presente
+mensura fue determinado con el método de medición GPS y tiene
+coordenadas planas UTM del sistema de proyecciones WGS84 N=7 638 239,805
+(siete millones seiscientos treinta y ocho mil doscientos treinta y
+nueve metros con ochocientos cinco centímetros E=284.369,813 (doscientos
+ochenta y cuatro mil trescientos sesenta y nueve metros con ochocientos
+trece centímetros. El mojón número 15 de la presente mensura se
+encuentra a una distancia de 3609.86 m con rumbo N 01º 45&rsquo; 57&quot; W del
+mojón número 34 que fuera determinado por el método anteriormente
+mencionado.&raquo;</p>
+<p>Gracias a estos datos es posible delimitar con exactitud y desde ya el
+terreno que será objeto de la donación.</p>
+<p>Naturalmente que acompañaremos y coadyuvaremos los trabajos que por
+cualquier motivo necesite el Ministerio de Educación y Ciencias y desde
+ya solicitamos que se los realice.</p>
+<p>Sin otro particular y esperando que esta oferta tenga buena acogida y
+reciba una pronta atención, me despido del señor <code>placeholder</code>
+con muestras de mi más alta estima.</p>
+</blockquote>
+<hr>
+<p>El agrimensor regresó, dijo que había estado en el terreno y realizado los planos correspondientes. Se lo agradecí mucho. No conocía aún su trabajo. No se los mostraré; no soy tan cruel.</p>
+<p>Más tarde, otra llamada teléfonica me dió la sensación de que en realidad no estaban interesados.</p>
+<p>Como no podía acompañarlos en espíritu, decidí ir personalmente.</p>
+<p>&laquo;Imagino que la señora va a pagar la escritura&hellip;&raquo;</p>
+<p>&laquo;No&hellip; imagino que no.&raquo;</p>
+<p>&laquo;&hellip;pasa es que el Ministerio no tiene un rubro asignado a eso&hellip; &raquo;</p>
+<p>&laquo;Ah comprendo, quién tendría un rubro para recibir donaciones&hellip;&raquo;</p>
+<p>&laquo;No, no: al contrario, no se construyen escuelas sino es por donación del terreno&raquo;</p>
+<hr>
+<p>Acaba acá, no continúa. Esa es la historia.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

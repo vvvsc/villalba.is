@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>About on villalba.is</title>
+    <link>//localhost:1313/acerca-del-sitio/</link>
+    <description>Recent content in About on villalba.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright><atom:link href="//localhost:1313/acerca-del-sitio/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Acerca del Sitio.</title>
+      <link>//localhost:1313/es/acerca-del-sitio/acerca-del-sitio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/acerca-del-sitio/acerca-del-sitio/</guid>
+      <description><![CDATA[<p>Cualquiera puede usar el contenido del sitio en cuanto lo que se refiere al contenido escrito por mi. Puede hacer citándolo, puede hacerlo sin citar. Modificarlo de cualquier manera o criticarlo de la manera más hórrida.</p>
+<p>Cuando cometa errores por favor:</p>
+<ol>
+<li>
+<p>Envíen un mensaje en el correo cuyo ícono aparece arriba a la derecha o al grupo de telegram que aparece allí mismo.</p>
+</li>
+<li>
+<p>O hagan un push en <a href="https://github.com/FriendsAtDawn/villalba.is.git">https://github.com/FriendsAtDawn/villalba.is.git</a></p>
+</li>
+</ol>
+<p>Les agradecería de corazón.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>LaTeX.</title>
+      <link>//localhost:1313/es/acerca-del-sitio/latex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/acerca-del-sitio/latex/</guid>
+      <description><![CDATA[<p>La razón por la cual los pdfs que se comparten en el sitio se ven de esa manera, como impresos, es porque están escritos en \LaTeX.</p>
+<p>En principio me costaba imaginar una forma de tachar los nombres y demás datos que pudiera considerarse sensibles en los escritos y esa es la única razón por la cual publicaba sólo aquello que de hecho ya estaba publicado en otro sitio.</p>
+<p>Luego escribí el <code>bash</code>  que no son más que dos lineas de grep que selecciona todas las variables de mi plantilla. Y ya.</p>
+<p>\LaTex puede ser difícil de usar las primeras veces y es probable que uno no encuentre ninguna conveniencia cuando está empezando a usarlo. Pero no hay cosa más conveniente en el mundo para un abogado.</p>
+<p>Escribimos trabajos que pueden ser extensos y no queremos equivocar un dato, un nombre, un número de RUC a través de los escritos.</p>
+<p>La mejor forma de empezar es online: <a href="https://www.overleaf.com/">Overleaf</a>. Es probable que muy pronto uno se decante por instalarlo en su máquina.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

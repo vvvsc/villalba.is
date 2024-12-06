@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Sistemas on villalba.is</title>
+    <link>//localhost:1313/tags/sistemas/</link>
+    <description>Recent content in Sistemas on villalba.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/sistemas/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>El Judisoft(TM) es fantástico</title>
+      <link>//localhost:1313/es/de-otros-lados/el-judisoft/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/de-otros-lados/el-judisoft/</guid>
+      <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.51-blue" alt=""></p>
+<h2 id="la-facilidad-y-la-utilidad">La facilidad y la utilidad.</h2>
+<p>Se me puede malentender a veces.</p>
+<p>Como alguna vez he deslizado críticas en torno al Judisoft se puede entender que mis sentimientos en torno no son buenos. Todo lo contrario.</p>
+<p>Señalar las faltas, leves o graves, de un sistema, sea este de archivos o sea filosófico o religioso, es muy sencillo.</p>
+<p>Aún así fundamentar la crítica puede ser muy util. Moore escribió todo ese libro, que es imposible de leer para muchos pero que debo decir que lo leí con dulzura: &laquo;Defensa del Sentido Común&raquo; como una crítica deliberada y que calificaba de fácil a las ideas de Russell. Su crítica abrió una nueva perspectiva. Prueba de ello es que el propio Wittgenstein fue movido a escribir un tomo casi glosándolo.</p>
+<p>No se trata de &laquo;crítica constructiva&raquo; ni nada tan banal como eso.</p>
+<p>Se trata de que cuando se destruye un sistema en realidad no se destruye el sistema.</p>
+<p>En general ningún colega opone resistencia al enorme cambio que significó el Judisoft. Pero hay resistencia. ¿De donde viene?</p>
+<h2 id="el-terrorismo-interno">El terrorismo interno.</h2>
+<p>El J. no es resistido ni atacado desde fuera sino desde dentro. Hay juzgados que rechazan la mera idea del e-documento cuando que cualquiera de los que los integran &mdash;jueces, dactilografos, ujieres&mdash; trafican con ello desde hace tiempo.</p>
+<p>No quieren sino documentos sellados con la tinta azul del siglo XIX, gran siglo dicho sea de paso. Contrarían normas del proceso con tal de que el oficio, que tiene un <em>Quick Response Code</em>, se lleve de manera manual hasta el lugar y se le imprima una firma manual &mdash;no sé si saben de la cera y los sellos de metal: mejor no les doy ideas.</p>
+<p>Desprecian la firma electrónica hasta tal punto que dicen no conocer los tratados que en torno ha firmado la region y la region con Europa, etc.</p>
+<h2 id="justicia-pronta">Justicia Pronta.</h2>
+<p>No me gusta la palabra &ldquo;barata&rdquo;, sé que la CIDH ya no lo usa y lo identifica con otra palabra.</p>
+<p>El Judisoft ha hecho posible muchas cosas. Y es imposible pensar en el desarrollo de Poder Judicial sin él.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

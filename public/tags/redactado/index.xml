@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Redactado on villalba.is</title>
+    <link>//localhost:1313/tags/redactado/</link>
+    <description>Recent content in Redactado on villalba.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/redactado/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Nota no enviada</title>
+      <link>//localhost:1313/es/plra/nota-propuesta/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/plra/nota-propuesta/</guid>
+      <description><![CDATA[<p>Asunción, 2022-11-30.</p>
+<p>Su Excelencia Dr. Jaime Bestard, Presidente E. S. D.</p>
+<p>De nuestra consideración:</p>
+<p>Los que suscriben [redactado] y , representante convencional del PLRA, se dirigen a Su Excelencia con el fin de exponer y solicitar cuanto sigue:</p>
+<p>El PLRA últimamente ha entrado en una espiral de demandas que parece no tener fin. Alguna que otra entidad financiera incluso nos esta demandando dos veces o cobrando dinero sobre el cual ya que ya se había acordado cosa distinta. La representación convencional en ese sentido se está encargando de filiar cada uno de los créditos reclamados y/o cobrados con el fin de accionar judicialmente en contra de las instituciones que hayan cometido algún delito, si ello se diera.</p>
+<p>Sin embargo es innegable que el depende del financiamiento de estas entidades o entidades similares para disponer de fondos durante la campaña electoral. Una administración ordenada no tendría que necesariamente recurrir a ello, pero lidiamos con una realidad distinta a esa. Por lo tanto es interés nuestro de que los créditos que, al menos preliminarmente, aparezcan como verdaderos se les de un tramite distinto en cuanto a la prelación de los mismos en el orden en que actualmente aparecen en la lista de embargos y de esta manera, sean preferidos en cuanto a los embargos que han trabado de manera a que cobren sus haberes cuanto antes sea posible.</p>
+<p>Los créditos en contra de los partidos políticos no se rigen enteramente por el , sino también por el Código Electoral, todo ello por los particulares valores del Códifo como a las atribuciones de la Justicia Electoral de regular, controlar, fiscalizar y garantizar el cumplimiento de la actividad electoral y de sus actores en materia definanciamiento político, así como la necesidad de crear una estructura organizacional acorde a las disposiciones legales vigentes.</p>
+<p>En ese orden de ideas, la solicitud es la siguiente: que las siguientes los embargos de las siguientes entidades de crédito sean satisfechas con preferencias a las demás:</p>
+<ol>
+<li>PROVALOR S.A.C/ PLRA Y OTROS S/ACCION PREPARATORIA DE JUICIO     EJECUTIVO</li>
+<li>MERIDIAN S.A. C/ PARTIDO LIBERAL RADICAL RADICAL AUTENTICO     YOTROS S/ ACCIÓN EJECUTIVA</li>
+<li>FIDEICOMISO DE ADMINISTRACIÓN DE CARTERA CREDITO- BANCOITAPUA 01     C/ PARTIDO LIBERAL RADICAL AUTENTICO Y OTROS S/ ACCIÓN     EJECUTIVAS</li>
+<li>FINEXPAR SOCIEDAD ANONIMA EMISORA DE CAPITAL ABIERTO C/ PARTIDO     LIBERAL RADICAL AUTENTICO Y OTROS S/ACCION EJECUT.</li>
+</ol>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
