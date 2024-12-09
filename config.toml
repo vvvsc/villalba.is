@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://post.villalba.is"
 #theme = "hugo-ficurinia"
 title = "villalba.is"
 languageCode = "en"
