@@ -1,6 +1,9 @@
 ---
 title: "El extraño *kink* de la automutilación."
 description: "Ó: Why do a dog need to be walk."
+articleSummary: "The queerest or the queer."
+image: "https://mymodernmet.com/wp/wp-content/uploads/2020/01/van-gogh-self-portraits-1.jpg"
+comments: true
 draft: false
 date: 2024-01-25
 ---
@@ -14,6 +17,17 @@ El ``JEM`` nunca dejó a ningún particular ser el acusador. La institución sim
 Para ello existía la compuerta lógica que al tiempo en que rechazaba la denuncia, la proseguía de oficio. Ella se asemejaba un poco a la manera en que la Corte Suprema de Justicia trata las acciones de Inconstitucionalidad. Muchas son rechazadas y eliminadas al no cumplir con los requisitos materiales mínimos de una demanda de esta clase; es inútil llevar adelante una pretensión que se sabe no tiene la cualidad primigenia para elaborar una sentencia.
 
 Vuelvo al ``JEM``. Esa cantidad de trabas que le puso al ciudadano para hacer una denuncia realmente surtió efecto. Tales embargos no solamente son legales: no solamente es la insistencia que parte del hartazgo y termina en  terrorismo, sobre las consecuencias de formular una denuncia falsa[^b]. Esas trabas también eran de orden material[^pasado]. Había que juntar documentación que nada tenía que ver con la denuncia y que deberían estar ahí. Y había que hacerlo por los medios tradicionales, es decir, papel, escribano, tal como en el siglo XIX.
+
+El lector puede examinar los siguientes _artifacts_ ---cada uno merecería un largo comentario que no haré:
+
+[Formulario 1](https://www.jem.gov.py/wp-content/uploads/2023/12/FORMULARIO-1-Modelo-de-acusacion-donde-se-acredita-la-solvencia-economica-mencionando-la-condicion-victima-denunciante-procesado-demandante-demandado.docx)
+
+[Formulario 2](https://www.jem.gov.py/wp-content/uploads/2023/12/Formulario-2-Modelo-de-acusacion-donde-se-acredita-la-solvencia-economica-sin-mencionar-la-condicion-inserta-en-el-formulario-1.docx)
+
+[Formulario 3](https://www.jem.gov.py/wp-content/uploads/2023/12/Formulario-3-Modelo-de-acusacion-en-el-cual-se-solicita-la-dispensa-de-la-solvencia-economica-mencionando-la-condicion-victima-denunciante-procesado-demandante-demandado-.docx)
+
+[Formulario 4](https://www.jem.gov.py/wp-content/uploads/2023/12/Formulario-4-Modelo-de-acusacion-en-el-cual-se-solicita-la-dispensa-de-la-solvencia-economica-sin-mencionar-la-condicion-inserta-en-el-formulario-31.docx)
+
 
 Fue así como la institución recibió menos denuncias cada año. Existe un informe elaborado por su misma oficina de estadísticas que da cuenta de ello. Señala que durante el año 2023 se dictaron 17 sentencias definitivas y esa cantidad es la mitad de la cantidad del año anterior.
 
