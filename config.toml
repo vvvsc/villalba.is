@@ -7,7 +7,7 @@ defaultContentLanguage = "es"
 # this will be included in the footer after the current year the site is last
 # built, followed by the (c) symbol
 # you can use markdown inside this field
-copyright = "Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)"
+copyright = "Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)"
 
 paginate = 5  # number of articles per page in the index
 summaryLength = 70  # number of words for article summaries
@@ -19,7 +19,7 @@ summaryLength = 70  # number of words for article summaries
 
     posts = "posts"  # content directory where to find home page posts; default searches in "posts" and "post"
     showPostsLink = true  # show or hide the link to the simple post list
-    extraContentDirs = ["plra", "otros", "acerca-del-sitio", "modelos", "links"]  # other content directories to render similarly to the home page
+    extraContentDirs = ["plra", "otros", "modelos", "acerca-del-sitio", "links"]  # other content directories to render similarly to the home page
     showcaseDir = "showcase"  # create a content directory that shows a special showcase section in the home page
 
     # shows a specified single page as a home page, instead of the traditional articles list
@@ -125,7 +125,7 @@ summaryLength = 70  # number of words for article summaries
     relatedArticlesNum = 2  # how many related articles to show
     randomRelated = false  # sorts related articles in random order (randomized at built time)
 
-# [menu]
+ [menu]
 #     # these links will be added to the main navigation menu, sorted by weight
 #     # other elements in this menu are added automatically from the "pages" folder
 #     # the folder it will look into can be customized with the pages variable
@@ -136,11 +136,11 @@ summaryLength = 70  # number of words for article summaries
 #         url = "/about/"
 #         weight = 10
 #     # these links (menu.icons) will be added as icon links below the main nav
-#     [[menu.icons]]
-#         identifier = "gitlab"
-#         name = "GitLab"
-#         url = "https://gitlab.com/gabmus"
-#         weight = 10
+     [[menu.icons]]
+         identifier = "github"
+         name = "GitHub"
+         url = "https://github.com/vvvsc/villalba.is"
+         weight = 10
 #     [[menu.icons]]
 #         identifier = "gnome"
 #         name = "GNOME GitLab"
