@@ -1,6 +1,6 @@
-title: Notas
+title: Notas acerca de ejercer la abogacía en la ciudad de Asunción, Paraguay
 hugeTitle: false
-subtitle: Notas
+subtitle: ...y otros.
 image: /logo.svg
 imagePosition: left  # values: left, right, top, bottom
 # background: /img/jumbotron_bg.png
@@ -15,6 +15,6 @@ downArrow: false
 whiteText: false  # force white text in the jumbotron
 links:
   - title: About
-    link: /acerca-de
+    link: /about
   - title: Posts
     link: /posts
