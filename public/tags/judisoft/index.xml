@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Judisoft on villalba.is</title>
-    <link>//localhost:1313/tags/judisoft/</link>
+    <link>http://localhost:1313/tags/judisoft/</link>
     <description>Recent content in Judisoft on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/judisoft/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/judisoft/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>¿Cómo referenciar en el e-expediente?</title>
-      <link>//localhost:1313/es/posts/como-referenciar-e-expediente/</link>
+      <link>http://localhost:1313/es/posts/como-referenciar-e-expediente/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/como-referenciar-e-expediente/</guid>
+      <guid>http://localhost:1313/es/posts/como-referenciar-e-expediente/</guid>
       <description><![CDATA[<h2 id="fojas">Fojas.</h2>
 <p>No podemos atarearnos con nada sin nombrarlo. Y el nombre tiene que reunir ciertas características, pero la que nos importa es que sea único dentro del universo de cosas que queremos nombrar, que no dé lugar a equívocos. Un ejemplo famoso es el de Odiseo que se hace nombrar &laquo; Nadie &raquo; en la cueva de Polifemo. De esa manera no importa que este grite que &laquo; Nadie lo mata &raquo;. Nadie acudirá en su auxilio.</p>
 <p>Antes cuando teníamos que nombrar una pieza del expediente &mdash;digamos un escrito que se presentó en autos&mdash; lo único que teníamos que usar era una fórmula tipo &laquo; <em>a</em> fojas <em>x</em> de los autos <em>a</em> | desde fojas <em>x</em> a fojas <em>y</em> &raquo;.</p>
@@ -98,10 +98,10 @@ B8DF0796E86E5B993F99C32EC5D2C
     
     <item>
       <title>El Judisoft(TM) es fantástico</title>
-      <link>//localhost:1313/es/de-otros-lados/el-judisoft/</link>
+      <link>http://localhost:1313/es/de-otros-lados/el-judisoft/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/de-otros-lados/el-judisoft/</guid>
+      <guid>http://localhost:1313/es/de-otros-lados/el-judisoft/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.51-blue" alt=""></p>
 <h2 id="la-facilidad-y-la-utilidad">La facilidad y la utilidad.</h2>
 <p>Se me puede malentender a veces.</p>

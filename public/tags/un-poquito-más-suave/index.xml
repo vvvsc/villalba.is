@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Un Poquito Más Suave on villalba.is</title>
-    <link>//localhost:1313/tags/un-poquito-m%C3%A1s-suave/</link>
+    <link>http://localhost:1313/tags/un-poquito-m%C3%A1s-suave/</link>
     <description>Recent content in Un Poquito Más Suave on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/un-poquito-m%C3%A1s-suave/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/un-poquito-m%C3%A1s-suave/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Una conversación.</title>
-      <link>//localhost:1313/es/posts/a-conversation/</link>
+      <link>http://localhost:1313/es/posts/a-conversation/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/a-conversation/</guid>
+      <guid>http://localhost:1313/es/posts/a-conversation/</guid>
       <description><![CDATA[<h1 id="la-siguiente-es-una-trascripción-anotada-de-una-conversación-entre-un-postulante-a-ministro-de-la-corte-suprema-de-justicia-del-paraguay-y-un-su-entrevistador">La siguiente es una trascripción anotada de una conversación entre un postulante a Ministro de la Corte Suprema de Justicia del Paraguay y un su entrevistador.</h1>
 <p>Postulante:</p>
 <p>&laquo;De llegar al meollo de la cuestión cual es  básicamente tratar de hacer un esfuerzo denodado en pos de un mejoramiento  global de la justicia paraguaya esto implica tener posicionamientos teóricos, filosóficos, argumentativos, de axiología jurídica, epistemología&hellip; aunque esto parezca para el ciudadano común algo muy raro y que sea de muy difícil comprensión.&raquo;</p>

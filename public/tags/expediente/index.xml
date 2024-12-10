@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Expediente on villalba.is</title>
-    <link>//localhost:1313/tags/expediente/</link>
+    <link>http://localhost:1313/tags/expediente/</link>
     <description>Recent content in Expediente on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/expediente/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/expediente/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Expediente Finexpar</title>
-      <link>//localhost:1313/es/plra/expediente-finexpar/</link>
+      <link>http://localhost:1313/es/plra/expediente-finexpar/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/plra/expediente-finexpar/</guid>
+      <guid>http://localhost:1313/es/plra/expediente-finexpar/</guid>
       <description><![CDATA[<p>Aún cuando pudieran existir constancias en <a href="https://finexpar.villalba.is">finexpar.villalba.is</a>, creo que puede ser util la inclusión de <a href="https://bafybeibvkacmhl4s65efme2tm4vwm2ora46pb4vcgchz6tlkpljtqblqcy.ipfs.w3s.link/expediente-ocr.pdf">todo el expediente</a>.</p>
 <p>Las actuaciones de segunda instancia están en archivo separado: <a href="https://bafybeid26adcxvlikj5zoaho2cohqjki3qez5lot5ufitqzbfb6gtj5uqa.ipfs.nftstorage.link/">alzada</a></p>
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
@@ -87,10 +87,10 @@
     
     <item>
       <title>Expediente Meridian</title>
-      <link>//localhost:1313/plra/expediente-meridian/</link>
+      <link>http://localhost:1313/plra/expediente-meridian/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/plra/expediente-meridian/</guid>
+      <guid>http://localhost:1313/plra/expediente-meridian/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeibuj5zm6atxtr64x2rhv2juwoebfb7y6oodtsypa7lndzwh3wab3u.ipfs.nftstorage.link/" 

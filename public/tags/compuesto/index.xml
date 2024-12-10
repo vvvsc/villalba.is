@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Compuesto on villalba.is</title>
-    <link>//localhost:1313/tags/compuesto/</link>
+    <link>http://localhost:1313/tags/compuesto/</link>
     <description>Recent content in Compuesto on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/compuesto/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/compuesto/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Interés compuesto</title>
-      <link>//localhost:1313/es/posts/interes-compuesto/</link>
+      <link>http://localhost:1313/es/posts/interes-compuesto/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/interes-compuesto/</guid>
+      <guid>http://localhost:1313/es/posts/interes-compuesto/</guid>
       <description><![CDATA[<p>Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:</p>
 <blockquote>
 <ol start="695">

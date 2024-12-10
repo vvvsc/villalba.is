@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>notas on villalba.is</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in notas on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Timestampi, qu&#39;est-ce que c&#39;est?</title>
-      <link>//localhost:1313/es/posts/la-firma-e-esta-rota/</link>
+      <link>http://localhost:1313/es/posts/la-firma-e-esta-rota/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/la-firma-e-esta-rota/</guid>
+      <guid>http://localhost:1313/es/posts/la-firma-e-esta-rota/</guid>
       <description><![CDATA[<p>Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.</p>
 <ol>
 <li>
@@ -84,10 +84,10 @@
     
     <item>
       <title>Error Material.</title>
-      <link>//localhost:1313/es/posts/gazapo/</link>
+      <link>http://localhost:1313/es/posts/gazapo/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/gazapo/</guid>
+      <guid>http://localhost:1313/es/posts/gazapo/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.5-blue" alt=""></p>
 <h2 id="gazapo">Gazapo</h2>
 <p>Gazapo. Gazapo es una palabra que la verdad es muy poco usada ya en la acepción que suelo usarla. La DRAE guarda esa acepción en una <a href="https://dle.rae.es/gazapo">caja en el altillo.</a> Esa es la razón por la cual yo fui la única persona que rió cuando un amigo llamó ingeniosamente a una aplicación popular que desdeño y no uso, <em>wazapo</em>.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
@@ -187,10 +187,10 @@ Dictada Por La DINAPI&raquo;. Expt. de la C.S.J. Nro. 48/20 . Acuerdo y Sentenci
     
     <item>
       <title>¿Cómo referenciar en el e-expediente?</title>
-      <link>//localhost:1313/es/posts/como-referenciar-e-expediente/</link>
+      <link>http://localhost:1313/es/posts/como-referenciar-e-expediente/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/como-referenciar-e-expediente/</guid>
+      <guid>http://localhost:1313/es/posts/como-referenciar-e-expediente/</guid>
       <description><![CDATA[<h2 id="fojas">Fojas.</h2>
 <p>No podemos atarearnos con nada sin nombrarlo. Y el nombre tiene que reunir ciertas características, pero la que nos importa es que sea único dentro del universo de cosas que queremos nombrar, que no dé lugar a equívocos. Un ejemplo famoso es el de Odiseo que se hace nombrar &laquo; Nadie &raquo; en la cueva de Polifemo. De esa manera no importa que este grite que &laquo; Nadie lo mata &raquo;. Nadie acudirá en su auxilio.</p>
 <p>Antes cuando teníamos que nombrar una pieza del expediente &mdash;digamos un escrito que se presentó en autos&mdash; lo único que teníamos que usar era una fórmula tipo &laquo; <em>a</em> fojas <em>x</em> de los autos <em>a</em> | desde fojas <em>x</em> a fojas <em>y</em> &raquo;.</p>
@@ -274,10 +274,10 @@ B8DF0796E86E5B993F99C32EC5D2C
     
     <item>
       <title>Sobre la ejecución de Sentencia</title>
-      <link>//localhost:1313/es/posts/ejecucion-sentencia/</link>
+      <link>http://localhost:1313/es/posts/ejecucion-sentencia/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/ejecucion-sentencia/</guid>
+      <guid>http://localhost:1313/es/posts/ejecucion-sentencia/</guid>
       <description><![CDATA[<ol>
 <li>
 <p>En principio, por la virtud de la cosa juzgada, el mismo juez no podría modificar su sentencia.</p>
@@ -329,10 +329,10 @@ B8DF0796E86E5B993F99C32EC5D2C
     
     <item>
       <title>La Ley de Enjuiciamiento y la Recusación de los jueces</title>
-      <link>//localhost:1313/es/posts/causales-de-recusacion/</link>
+      <link>http://localhost:1313/es/posts/causales-de-recusacion/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/causales-de-recusacion/</guid>
+      <guid>http://localhost:1313/es/posts/causales-de-recusacion/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.51-blue" alt=""></p>
 <p>Considérese lo siguiente:</p>
 <ol>
@@ -437,10 +437,10 @@ B8DF0796E86E5B993F99C32EC5D2C
     
     <item>
       <title>Causalidad</title>
-      <link>//localhost:1313/es/posts/causa-efecto/</link>
+      <link>http://localhost:1313/es/posts/causa-efecto/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/causa-efecto/</guid>
+      <guid>http://localhost:1313/es/posts/causa-efecto/</guid>
       <description><![CDATA[<p>&laquo;Creo que la ley de la causalidad, como muchas de las cosas que pasan la prueba entre los filósofos, es una reliquia de una época pasada, sobreviviendo, como la monarquía, sólo porque se supone erróneamente que no hace daño.&raquo;</p>
 <p>Russell.</p>
 <h2 id="un-antiguo-problema-como-todos-los-demás">Un antiguo problema&hellip; como todos los demás.</h2>
@@ -556,10 +556,10 @@ B8DF0796E86E5B993F99C32EC5D2C
     
     <item>
       <title>Interés compuesto</title>
-      <link>//localhost:1313/es/posts/interes-compuesto/</link>
+      <link>http://localhost:1313/es/posts/interes-compuesto/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/interes-compuesto/</guid>
+      <guid>http://localhost:1313/es/posts/interes-compuesto/</guid>
       <description><![CDATA[<p>Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:</p>
 <blockquote>
 <ol start="695">
@@ -694,10 +694,10 @@ $$</p>
     
     <item>
       <title>Caducidad de instancia.</title>
-      <link>//localhost:1313/es/posts/caducidad-de-instancia/</link>
+      <link>http://localhost:1313/es/posts/caducidad-de-instancia/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/caducidad-de-instancia/</guid>
+      <guid>http://localhost:1313/es/posts/caducidad-de-instancia/</guid>
       <description><![CDATA[<h1 id="esquemas-de-interpretación-jurídica">Esquemas de interpretación jurídica.</h1>
 <p>Dejando de lado la norma como hecho gramatical &mdash;en efecto, las normas estan escritas en un determinado idioma y como tal sujeta a los avatares que la misma impone a cualquier otro texto, por lo que la <em>i. gramatical</em> no es un modelo de interpretación jurídica sino más bien el indicador de que es necesaria una&mdash; los esquemas de interpretación jurídica se aglomeran en torno a tres topicos:  (1) la congruencia de la misma con la legislación histórica, es decir la que ya no esta vigente, (2) la articulación con la vigente; en efecto ninguna norma puede ser considerada un hecho aislado, (3) sus posibilidades teleologicas.</p>
 <p>Estos tres esquemas son racionales y prácticos, pero claro, no están exentos de todo descontrol.</p>
@@ -826,10 +826,10 @@ Del lat. obiectus.
     
     <item>
       <title>Una conversación.</title>
-      <link>//localhost:1313/es/posts/a-conversation/</link>
+      <link>http://localhost:1313/es/posts/a-conversation/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/a-conversation/</guid>
+      <guid>http://localhost:1313/es/posts/a-conversation/</guid>
       <description><![CDATA[<h1 id="la-siguiente-es-una-trascripción-anotada-de-una-conversación-entre-un-postulante-a-ministro-de-la-corte-suprema-de-justicia-del-paraguay-y-un-su-entrevistador">La siguiente es una trascripción anotada de una conversación entre un postulante a Ministro de la Corte Suprema de Justicia del Paraguay y un su entrevistador.</h1>
 <p>Postulante:</p>
 <p>&laquo;De llegar al meollo de la cuestión cual es  básicamente tratar de hacer un esfuerzo denodado en pos de un mejoramiento  global de la justicia paraguaya esto implica tener posicionamientos teóricos, filosóficos, argumentativos, de axiología jurídica, epistemología&hellip; aunque esto parezca para el ciudadano común algo muy raro y que sea de muy difícil comprensión.&raquo;</p>
@@ -863,10 +863,10 @@ Del lat. obiectus.
     
     <item>
       <title>Ya deja de decir acción causal.</title>
-      <link>//localhost:1313/es/posts/deja-de-decir-accion-causal/</link>
+      <link>http://localhost:1313/es/posts/deja-de-decir-accion-causal/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/deja-de-decir-accion-causal/</guid>
+      <guid>http://localhost:1313/es/posts/deja-de-decir-accion-causal/</guid>
       <description><![CDATA[<h1 id="qué-es-acción-causal">¿Qué es acción causal?</h1>
 <p>Bien, aparentemente es la acción que no es cambiaria pero que sin embargo de alguna u otra manera incluye dentro de la documental presentada algún título valor que o ha dejado de ser un título valor o bien no es un título valor. En ambos casos, no es un título valor porque algo que fué <em>x</em> no es <em>x</em> y algo que no ha llegado a ser <em>x</em> no es <em>x</em>.</p>
 <p>Lo que insisten en llamar acción causal no es sino una acción ordinaria.</p>
@@ -928,10 +928,10 @@ Del lat. obiectus.
     
     <item>
       <title>Interés francés.</title>
-      <link>//localhost:1313/es/posts/interes-frances/</link>
+      <link>http://localhost:1313/es/posts/interes-frances/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/interes-frances/</guid>
+      <guid>http://localhost:1313/es/posts/interes-frances/</guid>
       <description><![CDATA[<h2 id="interés-francés">Interés Francés.</h2>
 <p>Los americanos llaman <em>french fries</em>  a las papas fritas. Los franceses, por primera vez, no tienen nada que ver con esa aberración.</p>
 <p>El interés francés es un interés compuesto, uno de sus tantos sabores. En este, la frecuencia de composición no es de un mes como en la ley de Bancos Primigenia, ni es diaria. La composición sucede instante trás instante. <a href="https://gateway.ipfs.io/ipfs/bafykbzacec6lmuzgqtxld2y6keega5i2l6xmu3hd6neok4nt3lmtk4etegtxo#page=16">Su fórmula</a> es, ya desprovista de la breve formulación de función cuando <em>x</em> tiende a <em>infinito</em>:</p>
@@ -1016,10 +1016,10 @@ $$</p>
     
     <item>
       <title>¿Que debe saber un juez?</title>
-      <link>//localhost:1313/es/posts/que-debe-saber-un-juez/</link>
+      <link>http://localhost:1313/es/posts/que-debe-saber-un-juez/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/que-debe-saber-un-juez/</guid>
+      <guid>http://localhost:1313/es/posts/que-debe-saber-un-juez/</guid>
       <description><![CDATA[<p><em>Antes de leer este post, es mejor leer el de interés compuesto.</em></p>
 <h2 id="saber-común">Saber común.</h2>
 <p>Usualmente ello está contenido dentro de lo que el Código llama los hechos notoriamente conocidos.</p>
@@ -1131,10 +1131,10 @@ $$</p>
     
     <item>
       <title>Sobre Regulación de Honorarios</title>
-      <link>//localhost:1313/es/posts/regulacion-de-honorarios/</link>
+      <link>http://localhost:1313/es/posts/regulacion-de-honorarios/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/regulacion-de-honorarios/</guid>
+      <guid>http://localhost:1313/es/posts/regulacion-de-honorarios/</guid>
       <description><![CDATA[<p><strong>Regulación de honorarios.</strong></p>
 <p>No hay forma de avenir los irreconciliables 32 y 21 de la Ley de Honorarios.</p>
 <p><strong>Lo cual quiere decir.</strong></p>
@@ -1208,10 +1208,10 @@ $$</p>
     
     <item>
       <title>¿Cuál es el valor del Juicio?</title>
-      <link>//localhost:1313/es/posts/sobre-el-valor-del-juicio/</link>
+      <link>http://localhost:1313/es/posts/sobre-el-valor-del-juicio/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/sobre-el-valor-del-juicio/</guid>
+      <guid>http://localhost:1313/es/posts/sobre-el-valor-del-juicio/</guid>
       <description><![CDATA[<p>Primariamente, el monto base para el justiprecio es el capital reclamado.</p>
 <p>Pero la demanda es por ese monto y por sus intereses, los cuáles no
 pueden dejar de tenerse en cuenta. En ningún caso. Ni si la actora logra
@@ -1341,10 +1341,10 @@ etc.</p>
     
     <item>
       <title>Acompáñeme a conocer esta triste historia.</title>
-      <link>//localhost:1313/es/posts/acompanieme/</link>
+      <link>http://localhost:1313/es/posts/acompanieme/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/acompanieme/</guid>
+      <guid>http://localhost:1313/es/posts/acompanieme/</guid>
       <description><![CDATA[<p>Trataré de hacerlo lo menos novelesco posible. Esa cualidad le es intríseca.</p>
 <p>Hacie finales del 2022 la señora Ciríaca Medina, una cliente, me indicó que deseaba donar una porción de su inmueble al Estado Paraguayo, que la está demandando dicho sea de paso, y quería que le arreglara la papelería. Su intención era que en el lugar se erigiera una escuela.</p>
 <p>La siguiente es una trasncripción del poder especial que me otorgó, si lo leen pueden tener una mejor noción de lo que pasó:</p>

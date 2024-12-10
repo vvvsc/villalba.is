@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Jem on villalba.is</title>
-    <link>//localhost:1313/tags/jem/</link>
+    <link>http://localhost:1313/tags/jem/</link>
     <description>Recent content in Jem on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/jem/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/jem/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>La Ley de Enjuiciamiento y la Recusación de los jueces</title>
-      <link>//localhost:1313/es/posts/causales-de-recusacion/</link>
+      <link>http://localhost:1313/es/posts/causales-de-recusacion/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/causales-de-recusacion/</guid>
+      <guid>http://localhost:1313/es/posts/causales-de-recusacion/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.51-blue" alt=""></p>
 <p>Considérese lo siguiente:</p>
 <ol>

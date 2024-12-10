@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Nota on villalba.is</title>
-    <link>//localhost:1313/tags/nota/</link>
+    <link>http://localhost:1313/tags/nota/</link>
     <description>Recent content in Nota on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/nota/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nota/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>La Ley de Enjuiciamiento y la Recusación de los jueces</title>
-      <link>//localhost:1313/es/posts/causales-de-recusacion/</link>
+      <link>http://localhost:1313/es/posts/causales-de-recusacion/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/causales-de-recusacion/</guid>
+      <guid>http://localhost:1313/es/posts/causales-de-recusacion/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.51-blue" alt=""></p>
 <p>Considérese lo siguiente:</p>
 <ol>
@@ -119,10 +119,10 @@
     
     <item>
       <title>Nota Final En Financiera Río</title>
-      <link>//localhost:1313/es/plra/bye-bye-love/</link>
+      <link>http://localhost:1313/es/plra/bye-bye-love/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/plra/bye-bye-love/</guid>
+      <guid>http://localhost:1313/es/plra/bye-bye-love/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeifzfegmemloxiupl7ijnyg7ls3n2tvgmiivmp2ggxbg7d65yl6u4u.ipfs.nftstorage.link/" 
@@ -173,10 +173,10 @@
     
     <item>
       <title>Nota Inusual</title>
-      <link>//localhost:1313/es/plra/un-escrito-inusual/</link>
+      <link>http://localhost:1313/es/plra/un-escrito-inusual/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/plra/un-escrito-inusual/</guid>
+      <guid>http://localhost:1313/es/plra/un-escrito-inusual/</guid>
       <description><![CDATA[<h1 id="comisión-por-omisión-impropia">Comisión por omisión impropia.</h1>
 <p>Dado que por el Art. 15 del CP existe el &laquo;deber de evitar el resultado&raquo; &mdash;lo cual me parece cuanto menos arriesgado, pero no soy penalista&mdash; tuve que redactar la siguiente nota a un Juez que al parecer, por todas las trazas, presumiblemente, más bien cierto que falso, recibió una orden de arriba: quiero decir de Dios.</p>
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
@@ -229,10 +229,10 @@
     
     <item>
       <title>Nota WVPLRA-001</title>
-      <link>//localhost:1313/es/plra/notas_en_torno_a_revocacion/</link>
+      <link>http://localhost:1313/es/plra/notas_en_torno_a_revocacion/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/plra/notas_en_torno_a_revocacion/</guid>
+      <guid>http://localhost:1313/es/plra/notas_en_torno_a_revocacion/</guid>
       <description><![CDATA[<h4 id="revocación">Revocación.</h4>
 <p>Quiero informar que se me ha revocado el poder que me había otorgado el PLRA para defenderlo en las causas judiciales; y, en la medida en que me lo permitía el CC, a todas las demás personas demandadas con él.</p>
 <p>Fue un trabajo muy arduo, insumió muchas horas de análisis y escritura pero ni uno sólo de los casos que se me encomendaron pudieron avanzar en sus trámites. En  alguno  pude desandar el camino del proceso, evitando el embargo de los sueldos de los legisladores.</p>
@@ -303,10 +303,10 @@
     
     <item>
       <title>Nota no enviada</title>
-      <link>//localhost:1313/es/plra/nota-propuesta/</link>
+      <link>http://localhost:1313/es/plra/nota-propuesta/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/plra/nota-propuesta/</guid>
+      <guid>http://localhost:1313/es/plra/nota-propuesta/</guid>
       <description><![CDATA[<p>Asunción, 2022-11-30.</p>
 <p>Su Excelencia Dr. Jaime Bestard, Presidente E. S. D.</p>
 <p>De nuestra consideración:</p>
@@ -362,10 +362,10 @@
     
     <item>
       <title>Informe Anterior</title>
-      <link>//localhost:1313/es/plra/parte-del-informe-anterior/</link>
+      <link>http://localhost:1313/es/plra/parte-del-informe-anterior/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/plra/parte-del-informe-anterior/</guid>
+      <guid>http://localhost:1313/es/plra/parte-del-informe-anterior/</guid>
       <description><![CDATA[<h1 id="informe-sobre-las-dos-ejecuciones-contra-el-partido-liberal-radical-autentico-que-hasta-el-momento-me-tocó-contener">Informe sobre las dos ejecuciones contra el PARTIDO LIBERAL RADICAL AUTENTICO que hasta el momento me tocó contener.</h1>
 <p>Dos causas fueron las que se empecinaron con los sueldos de los legisladores y sólo dos:</p>
 <ul>

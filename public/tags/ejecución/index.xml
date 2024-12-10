@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Ejecución on villalba.is</title>
-    <link>//localhost:1313/tags/ejecuci%C3%B3n/</link>
+    <link>http://localhost:1313/tags/ejecuci%C3%B3n/</link>
     <description>Recent content in Ejecución on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ejecuci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ejecuci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Iniciar Ejecución</title>
-      <link>//localhost:1313/es/modelos/iniciar-ejecucion/</link>
+      <link>http://localhost:1313/es/modelos/iniciar-ejecucion/</link>
       <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/modelos/iniciar-ejecucion/</guid>
+      <guid>http://localhost:1313/es/modelos/iniciar-ejecucion/</guid>
       <description><![CDATA[<h2 id="1">1</h2>
 <p><strong>Objeto</strong>: Acreditar cumplimiento de condición de la providencia de
 fecha 17 de Abril de 2023, . Iniciar ejecución de la Sentencia
@@ -246,10 +246,10 @@ Concordado. Asunción,2009. La Ley Paraguaya. p. 972.-&#160;<a href="#fnref:1" c
     
     <item>
       <title>Ejecución en base a cheques</title>
-      <link>//localhost:1313/es/modelos/promover-ejecucion-cheques/</link>
+      <link>http://localhost:1313/es/modelos/promover-ejecucion-cheques/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/modelos/promover-ejecucion-cheques/</guid>
+      <guid>http://localhost:1313/es/modelos/promover-ejecucion-cheques/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeibwmnegv6igm4cjpvf42bs6tw56qnosimnye2ufrropeuonyj5p6u.ipfs.nftstorage.link/" 

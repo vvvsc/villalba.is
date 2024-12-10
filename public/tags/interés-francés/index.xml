@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Interés Francés on villalba.is</title>
-    <link>//localhost:1313/tags/inter%C3%A9s-franc%C3%A9s/</link>
+    <link>http://localhost:1313/tags/inter%C3%A9s-franc%C3%A9s/</link>
     <description>Recent content in Interés Francés on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/inter%C3%A9s-franc%C3%A9s/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/inter%C3%A9s-franc%C3%A9s/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Interés francés.</title>
-      <link>//localhost:1313/es/posts/interes-frances/</link>
+      <link>http://localhost:1313/es/posts/interes-frances/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/interes-frances/</guid>
+      <guid>http://localhost:1313/es/posts/interes-frances/</guid>
       <description><![CDATA[<h2 id="interés-francés">Interés Francés.</h2>
 <p>Los americanos llaman <em>french fries</em>  a las papas fritas. Los franceses, por primera vez, no tienen nada que ver con esa aberración.</p>
 <p>El interés francés es un interés compuesto, uno de sus tantos sabores. En este, la frecuencia de composición no es de un mes como en la ley de Bancos Primigenia, ni es diaria. La composición sucede instante trás instante. <a href="https://gateway.ipfs.io/ipfs/bafykbzacec6lmuzgqtxld2y6keega5i2l6xmu3hd6neok4nt3lmtk4etegtxo#page=16">Su fórmula</a> es, ya desprovista de la breve formulación de función cuando <em>x</em> tiende a <em>infinito</em>:</p>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Superintendencia on villalba.is</title>
-    <link>//localhost:1313/tags/superintendencia/</link>
+    <link>http://localhost:1313/tags/superintendencia/</link>
     <description>Recent content in Superintendencia on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/superintendencia/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/superintendencia/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Demanda por daños</title>
-      <link>//localhost:1313/es/modelos/la-inconclusa/</link>
+      <link>http://localhost:1313/es/modelos/la-inconclusa/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/modelos/la-inconclusa/</guid>
+      <guid>http://localhost:1313/es/modelos/la-inconclusa/</guid>
       <description><![CDATA[<p>Demanda que tuve que abandonar. Mis colegas compañeros no se sentían cómodo con él.</p>
 <hr>
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
@@ -67,10 +67,10 @@
     
     <item>
       <title>Denuncia ante la Superintendencia</title>
-      <link>//localhost:1313/es/modelos/denuncia-ante-la-si/</link>
+      <link>http://localhost:1313/es/modelos/denuncia-ante-la-si/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/modelos/denuncia-ante-la-si/</guid>
+      <guid>http://localhost:1313/es/modelos/denuncia-ante-la-si/</guid>
       <description><![CDATA[<p>Son varios los casos en los cuales últimamente tuve que recurrir a la Superintendencia. Esto antes no pasaba, al menos no con la frecuencia actual. Pasa muchas veces que no hay suficientes jueces y los mismo son interinados porque la Corte ya no puede nombrar Jueces desde el 1992.</p>
 <p>El sistema se va volviendo cada vez más complejo en detrimento del servicio. Eso algo que <a href="https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster">siempre sucede</a>.</p>
 <hr>

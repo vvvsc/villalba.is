@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>MP on villalba.is</title>
-    <link>//localhost:1313/tags/mp/</link>
+    <link>http://localhost:1313/tags/mp/</link>
     <description>Recent content in MP on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/mp/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mp/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Denuncia ante el Ministerio Público</title>
-      <link>//localhost:1313/es/modelos/denuncia-penal/</link>
+      <link>http://localhost:1313/es/modelos/denuncia-penal/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/modelos/denuncia-penal/</guid>
+      <guid>http://localhost:1313/es/modelos/denuncia-penal/</guid>
       <description><![CDATA[<p>1</p>
 <hr>
 <p>Objeto: Formular denuncia penal contra persona innominada por hechos que

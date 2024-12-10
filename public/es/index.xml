@@ -1,22 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Wilson Villalba on villalba.is</title>
-    <link>//localhost:1313/es/</link>
+    <link>http://localhost:1313/es/</link>
     <description>Recent content in Wilson Villalba on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/es/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Contacto</title>
-      <link>//localhost:1313/es/contact/</link>
+      <link>http://localhost:1313/es/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/contact/</guid>
+      <guid>http://localhost:1313/es/contact/</guid>
       <description><![CDATA[<p>Gracias por los comentarios. Ellos no se publican en la página directamente. En cualquier caso en que desee publicarlo, lo haré sin indicar el remitente, a menos que el mismo me lo autorice en el cuerpo del mensaje o de cualquier otra manera.</p>
 <p>Las consultas serán evacuadas mediante el email, a menos que desee hacerlo en <a href="https://t.me/habermas">telegram</a></p>
+
+
+<div style="background-color: white;">
+<form
+  action="https://formspree.io/f/mpzeozgl"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <br />
+  <label>
+    Your message:
+    <textarea name="message" rows="4" cols="100%"></textarea>
+  </label>
+  
+  <button type="submit">Send</button>
+</form>
+</div>
 ]]></description>
       
     </item>

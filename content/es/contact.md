@@ -1,7 +1,5 @@
 ---
 title: Contacto
-featured_image: '/images/cover.jpg'
-omit_header_text: true
 description: We'd love to hear from you
 type: page
 menu: main
@@ -13,4 +11,4 @@ Gracias por los comentarios. Ellos no se publican en la página directamente. En
 
 Las consultas serán evacuadas mediante el email, a menos que desee hacerlo en [telegram](https://t.me/habermas)
 
-
+{{< formspree >}}
