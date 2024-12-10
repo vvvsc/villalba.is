@@ -1,5 +1,4 @@
-baseURL = "https://post.villalba.is"
-#theme = "hugo-ficurinia"
+baseURL = "/"
 title = "villalba.is"
 languageCode = "en"
 defaultContentLanguage = "es"
