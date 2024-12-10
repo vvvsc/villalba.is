@@ -138,7 +138,7 @@ summaryLength = 70  # number of words for article summaries
      [[menu.icons]]
          identifier = "github"
          name = "GitHub"
-         url = "https://github.com/vvvsc/villalba.is"
+         url = "https://github.com/vvvsc/cf-post"
          weight = 10
 #     [[menu.icons]]
 #         identifier = "gnome"
