@@ -5,7 +5,7 @@
     <description>Recent content in Links on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
     <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/links/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
@@ -21,6 +21,8 @@
 <p><a href="https://excalidraw.com/">https://excalidraw.com/</a> lo hace. Tiene más fans que las peliculas de terror.</p>
 <p>Exporta a SVG  y a PNG y aunque puede ser que el primero suene un poco extraño a muchos, el segundo no.</p>
 <p>Se podría decir que <code>excd</code>,  deforma de propósito  los trazos que hacen a  los gráficos,  y uno podría pensar si eso es bueno.  Yo tengo para mí  que  los gráficos  que parecen hecho a mano  están como inacabados,  no totalmente resueltos. Y que de alguna manera eso empuja al lector  a acercarse más  al mismo  que un  dibujo hecho con trazos coincidentes  y ya resueltos.  En este segundo caso,  entiendo que la aproximación de la persona que ve la coincidencia, no será la misma, debido a que  su participación  ya no es necesaria.</p>
+<p>La interacción quizás es importante en el proceso de comunicación. Cuando un gráfico presenta trazos imperfectos, el lector puede verse motivado a reflexionar sobre el contenido, cuestionar su significado y buscar conexiones más profundas. Esto contrasta con gráficos más estandarizados y resueltos, donde la claridad visual puede llevar a una comprensión pasiva, limitando así el nivel de compromiso del lector.</p>
+<p>Ahora sé que usa capas y que tiene miles de funcionalidades distintas a las que tenía cuando escribi el primer borrador de esta entrada. Pro tip: lo podes correr en tu máquina.</p>
 <div id="graphcomment"></div>
 <script type="text/javascript">
 

@@ -56,3 +56,5 @@ Así que no hace falta conclusión alguna.
 [^JEM]: https://jem.gov.py
 
 [^pasado]: Imposible no pensar en pretérito imperfecto.
+
+{{< graphcomment >}}

@@ -1,0 +1,15 @@
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+
+<div id="{{ .Get "id" }}"></div>
+
+<script>
+initComments({
+    node: document.getElementById("{{ .Get "id" }}"),
+    defaultHomeserverUrl: '{{ .Site.Params.cactusCommentsHomeserver | safeURL }}',
+    serverName: '{{ .Site.Params.cactusCommentsServerName | default "cactus.chat" }}',
+    siteName: "{{ .Site.Params.cactusCommentsSiteName }}",
+    commentSectionId: "{{ .Get "commentSectionId" }}"
+});
+console.log("Default Homeserver URL:", '{{ .Site.Params.cactusCommentsHomeserver | safeURL }}');
+</script>
+

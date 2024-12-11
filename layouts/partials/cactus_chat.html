@@ -6,10 +6,11 @@
 <script>
 initComments({
     node: document.getElementById("ficurinia-cactus-comments"),
-    defaultHomeserverUrl: '{{ site.Params.cactusCommentsHomeserver | default "https://matrix.cactus.chat:8448" }}',
+    defaultHomeserverUrl: '{{ site.Params.cactusCommentsHomeserver | safeURL }}',
     serverName: '{{ site.Params.cactusCommentsServerName | default "cactus.chat" }}',
     siteName: "{{ site.Params.cactusCommentsSiteName }}",
     commentSectionId: "{{ .File.UniqueID }}"
-})
+});
+console.log("Default Homeserver URL:", '{{ site.Params.cactusCommentsHomeserver | safeURL }}');
 </script>
 {{ end }}

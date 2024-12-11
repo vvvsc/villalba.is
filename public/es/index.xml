@@ -5,7 +5,7 @@
     <description>Recent content in Wilson Villalba on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
     <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
@@ -19,22 +19,22 @@
 <p>Las consultas serán evacuadas mediante el email, a menos que desee hacerlo en <a href="https://t.me/habermas">telegram</a></p>
 
 
-<div style="background-color: white;">
+<div>
 <form
   action="https://formspree.io/f/mpzeozgl"
   method="POST"
 >
   <label>
-    Your email:
-    <input type="email" name="email">
+    E-mail:
+    <input type="email" name="email" placeholder="micorreo@dominio.ltd">
   </label>
   <br />
   <label>
-    Your message:
-    <textarea name="message" rows="4" cols="100%"></textarea>
+    Mensaje:
+    <textarea name="message" rows="4" cols="100%" placeholder="Mensaje"></textarea>
   </label>
   
-  <button type="submit">Send</button>
+  <button type="submit">Enviar</button>
 </form>
 </div>
 ]]></description>

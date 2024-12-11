@@ -5,7 +5,7 @@
     <description>Recent content in Otros on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Algunos derechos reservados - [GPL3.0](https://note.villalba.is/license)</copyright>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/otros/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
     
     
@@ -215,6 +215,39 @@
 <p>No hace mucho –quien lee esto esta leyendo la primera versión de este documento— la <code>CSJ</code> —muy a lo <em>Madison vs. Marbury</em>— decidió que no podía tener injerencia sobre lo decido por otro poder del estado pero sí sobre el procedimiento impuesto a esa decisión. A ver, como te quedó eso ojo. Como se nota, esta es la manera en que el poder se ejerce.</p>
 <p>Yo trabajo para barra con barra tras el Poder Judicial. Así que adquiera poder, me beneficia al final. El <code>JEM</code> acaba de dejar un espacio vacío y la <code>CSJ</code> tiene facultades disciplinarias suficientes.</p>
 <p>Así que no hace falta conclusión alguna.</p>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+   
+
+  var __semio__params = {
+    graphcommentId: "villalba", 
+
+    behaviour: {
+      
+      
+    },
+
+    
+
+  }
+
+   
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+  
+
+</script>
+
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
