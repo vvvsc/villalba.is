@@ -3,7 +3,7 @@ title: "Mi vieja firma ya no es la que era."
 description: "El algoritmo de la confusión."
 tags: ["derecho", "ciencia", "ciencias suaves", "un poquito más suave", "brujería"]
 draft: false
-date: 2024-01-20
+date: 2025-01-20
 ---
 
 Estos son comentarios sobre un post local sobre la firma electrónica que está tan mal que uno no puede sino replicar un poco. No voy a señalar la fuente a menos que me lo indiquen.
