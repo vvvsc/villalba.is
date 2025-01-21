@@ -18,6 +18,8 @@ Estos son comentarios sobre un post local sobre la firma electrónica que está 
 
 Eh, claro creo que sí podríamos inquirir en la ley que se ocupa de la firma electrónica y de sus multiples variaciones, si tal tipo es legalmente válido; es decir, sigue siendo una pregunta lícita.
 
+## Sé importante.
+
 > Según lo establecido en el Art 39 de La LSC, tiene validez para efectos jurídicos, procedimientos privados, judiciales y administrativos, pero no se equipara a una firma manuscrita.
 
 Es acá donde quería llegar porque esto es fundamentalmente falso. Y peligroso. Cualquiera puede crear un certificado SSL con un nombre del tipo _La Mejor Certificadora Mundial_ y generar una firma digital con la cual firmar sus documentos. No importa cuán graciosa o no sea el nombre de su certificadora de mentirillas, si hay forma de enlazar esa firma con el firmante ---por ejemplo lo publica en su sitio web, lo usa para firmar su blog, lo que sea--- si hay forma de hacerlo, la firma es tan valida como cualquiera otra.
@@ -27,6 +29,8 @@ Naturalmente que poca gente creería en mi certificadora, pero yo que la cree no
 > Por otro lado, la Firma Electrónica Cualificada tiene efecto jurídico equivalente al de una firma manuscrita. Esta se genera mediante un dispositivo idóneo de creación de firmas electrónicas, fundado en un certificado acreditado.
 
 Una firma manuscrita puede ser discutida de _n_ formas. Y si recurrimos a la pericia, cualquiera sabe que ello es una brujería que se paga. Bueno, bastante más difícil sería negar una firma electrónica cualificada o no. Para el caso de los que utiliza la Corte, implicaría el relato de la manera en que el funcionario perdió su _token_ ---es decir su llave privada--- y como fue que contó a muchas personas su contraseña para que en caso de olvidarla, se la recordasen.
+
+## Sé exacto.
 
 > Con respecto a la celebración de contratos por medios telemáticos, de acuerdo con el Art 67 de la LSC, las partes tienen la posibilidad de indicar su oferta y aceptación mediante documentos electrónicos, a menos que hayan convenido lo contrario.
 
