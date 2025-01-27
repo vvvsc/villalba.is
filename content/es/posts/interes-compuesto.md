@@ -73,9 +73,9 @@ $$
 
 ![Interes Compuesto](https://bafkreig7rjd4wbrtcbfhmunorxkvywbn4ktryvqmdy72kjgafelwyrdjyq.ipfs.nftstorage.link/)
 
-O sea que el llamado "interés francés" es en realidad un interés compuesto que, además, se capitaliza de instante a instante.
+O sea que el llamado _interés francés_ es en realidad un **interés compuesto** que, además, se capitaliza de instante a instante.
 
-¿Es legal esto? Sí, claro. Siempre y cuando la llamada *tasa efectiva* no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.
+¿Es legal esto? Lo era... siempre y cuando la llamada *tasa efectiva* no superara los límites usurarios. En el caso, lo hace.
 
 Y siempre y cuando la persona a cuyo favor se generan tales intereses no sea un banco o financiera.
 
@@ -83,7 +83,7 @@ La orgánica del BCP decía antes:
 
 > El interés a partir de la mora, denominado interés moratorio, será la misma tasa pactada originalmente. No podrán capitalizarse intereses moratorios por períodos inferiores a 30 (treinta) días.
 
-Pero una modificación posterior borró toda posibilidad de que se capitalicen intereses.
+**Pero una modificación posterior borró toda posibilidad de que se capitalicen intereses.**
 
 Ahora bien, la frecuencia por supuesto que impacta en el valor final, es por eso que la ley anterior decía que no podía hacerse sino cada 30 días... pero ¿significaba un cambio sustancial en el monto que tenía que pagarse por intereses? La verdad no. Si uno hace los cálculos ---que no mostraré ahora pero que prometo hacerlo de manera detallada más tarde--- una capitalización trimestral es apenas _mejor_ que una diaria.
 
