@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Error on villalba.is</title>
-    <link>http://localhost:1313/tags/error/</link>
+    <link>//localhost:1313/tags/error/</link>
     <description>Recent content in Error on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/error/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/error/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Error Material.</title>
-      <link>http://localhost:1313/es/posts/gazapo/</link>
+      <link>//localhost:1313/es/posts/gazapo/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/posts/gazapo/</guid>
+      <guid>//localhost:1313/es/posts/gazapo/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.5-blue" alt=""></p>
 <h2 id="gazapo">Gazapo</h2>
 <p>Gazapo. Gazapo es una palabra que la verdad es muy poco usada ya en la acepción que suelo usarla. La DRAE guarda esa acepción en una <a href="https://dle.rae.es/gazapo">caja en el altillo.</a> Esa es la razón por la cual yo fui la única persona que rió cuando un amigo llamó ingeniosamente a una aplicación popular que desdeño y no uso, <em>wazapo</em>.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>

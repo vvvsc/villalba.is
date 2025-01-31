@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Wilson Villalba on villalba.is</title>
-    <link>http://localhost:1313/en/</link>
+    <link>//localhost:1313/en/</link>
     <description>Recent content in Wilson Villalba on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>How to deal with infected Judisoft(TM) pdfs.</title>
-      <link>http://localhost:1313/en/de-otros-lados/infeccion/</link>
+      <link>//localhost:1313/en/de-otros-lados/infeccion/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/de-otros-lados/infeccion/</guid>
+      <guid>//localhost:1313/en/de-otros-lados/infeccion/</guid>
       <description><![CDATA[<p>Document status: 0.5</p>
 <p>It is not my intention to discredit Judisoft(TM) with these brief lines, which even the modest epithet <em>article</em> loosely fits. The implementation of the system is by far the most important leap forward in access to justice and a major contributor to cost reduction. It is a success in every sense of the word.</p>
 <h2 id="frequency-tfrac1t">Frequency: $$\tfrac{1}{t}$$</h2>

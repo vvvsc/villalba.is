@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Sources:ongoing on villalba.is</title>
-    <link>http://localhost:1313/tags/sourcesongoing/</link>
+    <link>//localhost:1313/tags/sourcesongoing/</link>
     <description>Recent content in Sources:ongoing on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sourcesongoing/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/sourcesongoing/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Caducidad de instancia.</title>
-      <link>http://localhost:1313/es/posts/caducidad-de-instancia/</link>
+      <link>//localhost:1313/es/posts/caducidad-de-instancia/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/posts/caducidad-de-instancia/</guid>
+      <guid>//localhost:1313/es/posts/caducidad-de-instancia/</guid>
       <description><![CDATA[<h1 id="esquemas-de-interpretación-jurídica">Esquemas de interpretación jurídica.</h1>
 <p>Dejando de lado la norma como hecho gramatical &mdash;en efecto, las normas estan escritas en un determinado idioma y como tal sujeta a los avatares que la misma impone a cualquier otro texto, por lo que la <em>i. gramatical</em> no es un modelo de interpretación jurídica sino más bien el indicador de que es necesaria una&mdash; los esquemas de interpretación jurídica se aglomeran en torno a tres topicos:  (1) la congruencia de la misma con la legislación histórica, es decir la que ya no esta vigente, (2) la articulación con la vigente; en efecto ninguna norma puede ser considerada un hecho aislado, (3) sus posibilidades teleologicas.</p>
 <p>Estos tres esquemas son racionales y prácticos, pero claro, no están exentos de todo descontrol.</p>

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/gmk/Desktop/villalba.is",
+	"sourceRoot": "/home/pac/Public/villalba.is",
 	"sources": [
 		"assets/scss/style.scss"
 	],

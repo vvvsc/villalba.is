@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Escritos on villalba.is</title>
-    <link>http://localhost:1313/tags/escritos/</link>
+    <link>//localhost:1313/tags/escritos/</link>
     <description>Recent content in Escritos on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/escritos/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/escritos/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Manifestaciones</title>
-      <link>http://localhost:1313/es/modelos/manifestaciones/</link>
+      <link>//localhost:1313/es/modelos/manifestaciones/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/manifestaciones/</guid>
+      <guid>//localhost:1313/es/modelos/manifestaciones/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/QmPAygjxM2Ky2wfPFKn8edKr5P8FDv4WgRbySyr8Si46KU" 
@@ -65,10 +65,10 @@
     
     <item>
       <title>Incidentes</title>
-      <link>http://localhost:1313/es/modelos/incidentes/</link>
+      <link>//localhost:1313/es/modelos/incidentes/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/incidentes/</guid>
+      <guid>//localhost:1313/es/modelos/incidentes/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/actualizado-16-03-2024-blue" alt=""></p>
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
@@ -454,10 +454,10 @@ añadido al anterior.</p>
     
     <item>
       <title>Recusaciones</title>
-      <link>http://localhost:1313/es/modelos/recusaciones/</link>
+      <link>//localhost:1313/es/modelos/recusaciones/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/recusaciones/</guid>
+      <guid>//localhost:1313/es/modelos/recusaciones/</guid>
       <description><![CDATA[<pre tabindex="0"><code>COUTURE distingue las causas que provocan una incapacidad absoluta del juez
 (.”Iudex inhabilis”) para intervenir en los asuntos de su competencia de  las
 que  sólo  provocan  una  sospecha  o  temor  de  parcialidad
@@ -567,10 +567,10 @@ que  sólo  provocan  una  sospecha  o  temor  de  parcialidad
     
     <item>
       <title>Demanda C-A</title>
-      <link>http://localhost:1313/es/modelos/demanda-contencioso-administrativa/</link>
+      <link>//localhost:1313/es/modelos/demanda-contencioso-administrativa/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/demanda-contencioso-administrativa/</guid>
+      <guid>//localhost:1313/es/modelos/demanda-contencioso-administrativa/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeidvytcwbusymaundpii46ejxi277zf2xxfk3b5upo6v4l7kxinxwi.ipfs.nftstorage.link/" 
@@ -588,10 +588,10 @@ que  sólo  provocan  una  sospecha  o  temor  de  parcialidad
     
     <item>
       <title>Demanda por daños</title>
-      <link>http://localhost:1313/es/modelos/la-inconclusa/</link>
+      <link>//localhost:1313/es/modelos/la-inconclusa/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/la-inconclusa/</guid>
+      <guid>//localhost:1313/es/modelos/la-inconclusa/</guid>
       <description><![CDATA[<p>Demanda que tuve que abandonar. Mis colegas compañeros no se sentían cómodo con él.</p>
 <hr>
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
@@ -644,10 +644,10 @@ que  sólo  provocan  una  sospecha  o  temor  de  parcialidad
     
     <item>
       <title>Iniciar Ejecución</title>
-      <link>http://localhost:1313/es/modelos/iniciar-ejecucion/</link>
+      <link>//localhost:1313/es/modelos/iniciar-ejecucion/</link>
       <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/iniciar-ejecucion/</guid>
+      <guid>//localhost:1313/es/modelos/iniciar-ejecucion/</guid>
       <description><![CDATA[<h2 id="1">1</h2>
 <p><strong>Objeto</strong>: Acreditar cumplimiento de condición de la providencia de
 fecha 17 de Abril de 2023, . Iniciar ejecución de la Sentencia
@@ -879,10 +879,10 @@ Concordado. Asunción,2009. La Ley Paraguaya. p. 972.-&#160;<a href="#fnref:1" c
     
     <item>
       <title>Denuncia ante el Ministerio Público</title>
-      <link>http://localhost:1313/es/modelos/denuncia-penal/</link>
+      <link>//localhost:1313/es/modelos/denuncia-penal/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/denuncia-penal/</guid>
+      <guid>//localhost:1313/es/modelos/denuncia-penal/</guid>
       <description><![CDATA[<p>1</p>
 <hr>
 <p>Objeto: Formular denuncia penal contra persona innominada por hechos que
@@ -1234,10 +1234,10 @@ antecede.</p>
     
     <item>
       <title>Denuncia ante la Superintendencia</title>
-      <link>http://localhost:1313/es/modelos/denuncia-ante-la-si/</link>
+      <link>//localhost:1313/es/modelos/denuncia-ante-la-si/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/denuncia-ante-la-si/</guid>
+      <guid>//localhost:1313/es/modelos/denuncia-ante-la-si/</guid>
       <description><![CDATA[<p>Son varios los casos en los cuales últimamente tuve que recurrir a la Superintendencia. Esto antes no pasaba, al menos no con la frecuencia actual. Pasa muchas veces que no hay suficientes jueces y los mismo son interinados porque la Corte ya no puede nombrar Jueces desde el 1992.</p>
 <p>El sistema se va volviendo cada vez más complejo en detrimento del servicio. Eso algo que <a href="https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster">siempre sucede</a>.</p>
 <hr>
@@ -1486,10 +1486,10 @@ estima.</p>
     
     <item>
       <title>Solicitar suspensión</title>
-      <link>http://localhost:1313/es/modelos/solicitar-suspension/</link>
+      <link>//localhost:1313/es/modelos/solicitar-suspension/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/solicitar-suspension/</guid>
+      <guid>//localhost:1313/es/modelos/solicitar-suspension/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeibwmnegv6igm4cjpvf42bs6tw56qnosimnye2ufrropeuonyj5p6u.ipfs.nftstorage.link/" 
@@ -1540,10 +1540,10 @@ estima.</p>
     
     <item>
       <title>Fundar Recursos</title>
-      <link>http://localhost:1313/es/modelos/fundar-recurso/</link>
+      <link>//localhost:1313/es/modelos/fundar-recurso/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/fundar-recurso/</guid>
+      <guid>//localhost:1313/es/modelos/fundar-recurso/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeigsexoaqh36erw7tht4eqomlvth5cyg5dzqyq5vgynjvyyrpxgk2a.ipfs.nftstorage.link/" 
@@ -1594,10 +1594,10 @@ estima.</p>
     
     <item>
       <title>Ejecución en base a cheques</title>
-      <link>http://localhost:1313/es/modelos/promover-ejecucion-cheques/</link>
+      <link>//localhost:1313/es/modelos/promover-ejecucion-cheques/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/promover-ejecucion-cheques/</guid>
+      <guid>//localhost:1313/es/modelos/promover-ejecucion-cheques/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeibwmnegv6igm4cjpvf42bs6tw56qnosimnye2ufrropeuonyj5p6u.ipfs.nftstorage.link/" 
@@ -1648,10 +1648,10 @@ estima.</p>
     
     <item>
       <title>Diligencias Preparatorias</title>
-      <link>http://localhost:1313/es/modelos/diligencias-preparatorias/</link>
+      <link>//localhost:1313/es/modelos/diligencias-preparatorias/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/diligencias-preparatorias/</guid>
+      <guid>//localhost:1313/es/modelos/diligencias-preparatorias/</guid>
       <description><![CDATA[<p>Escrito que solicita <a href="https://bafybeihsyvzmwva7ys3suuzgwo3wmdnfjjmdrdxzgpovi4ai5lnrg3jlrm.ipfs.nftstorage.link/">diligencias preparatorias</a></p>
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
@@ -1703,10 +1703,10 @@ estima.</p>
     
     <item>
       <title>Regulación de Honorarios</title>
-      <link>http://localhost:1313/es/modelos/regulacion-de-honorarios/</link>
+      <link>//localhost:1313/es/modelos/regulacion-de-honorarios/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/regulacion-de-honorarios/</guid>
+      <guid>//localhost:1313/es/modelos/regulacion-de-honorarios/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeibmndx5knezrt4hpj2l3bewi2gktwqal4gf2jbbdunj6wx5wv4ug4.ipfs.nftstorage.link/" 
@@ -1757,10 +1757,10 @@ estima.</p>
     
     <item>
       <title>Inconstitucionalidades</title>
-      <link>http://localhost:1313/es/modelos/inconstitucionalidades/</link>
+      <link>//localhost:1313/es/modelos/inconstitucionalidades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/inconstitucionalidades/</guid>
+      <guid>//localhost:1313/es/modelos/inconstitucionalidades/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeieswnxcjxowmfdmvxdvxx5anc6azlpqseci3zxmx3l72s4f3bol4a.ipfs.nftstorage.link/" 

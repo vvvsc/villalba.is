@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Interés on villalba.is</title>
-    <link>http://localhost:1313/tags/inter%C3%A9s/</link>
+    <link>//localhost:1313/tags/inter%C3%A9s/</link>
     <description>Recent content in Interés on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/inter%C3%A9s/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/inter%C3%A9s/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Interés compuesto</title>
-      <link>http://localhost:1313/es/posts/interes-compuesto/</link>
+      <link>//localhost:1313/es/posts/interes-compuesto/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/posts/interes-compuesto/</guid>
+      <guid>//localhost:1313/es/posts/interes-compuesto/</guid>
       <description><![CDATA[<p>Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:</p>
 <blockquote>
 <ol start="695">
@@ -92,14 +92,14 @@ $$</p>
 V_f = 100 \times 6.32 = 632
 $$</p>
 <p><img src="https://bafkreig7rjd4wbrtcbfhmunorxkvywbn4ktryvqmdy72kjgafelwyrdjyq.ipfs.nftstorage.link/" alt="Interes Compuesto"></p>
-<p>O sea que el llamado &ldquo;interés francés&rdquo; es en realidad un interés compuesto que, además, se capitaliza de instante a instante.</p>
-<p>¿Es legal esto? Sí, claro. Siempre y cuando la llamada <em>tasa efectiva</em> no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.</p>
+<p>O sea que el llamado <em>interés francés</em> es en realidad un <strong>interés compuesto</strong> que, además, se capitaliza de instante a instante.</p>
+<p>¿Es legal esto? Lo era&hellip; siempre y cuando la llamada <em>tasa efectiva</em> no superara los límites usurarios. En el caso, lo hace.</p>
 <p>Y siempre y cuando la persona a cuyo favor se generan tales intereses no sea un banco o financiera.</p>
 <p>La orgánica del BCP decía antes:</p>
 <blockquote>
 <p>El interés a partir de la mora, denominado interés moratorio, será la misma tasa pactada originalmente. No podrán capitalizarse intereses moratorios por períodos inferiores a 30 (treinta) días.</p>
 </blockquote>
-<p>Pero una modificación posterior borró toda posibilidad de que se capitalicen intereses.</p>
+<p><strong>Pero una modificación posterior borró toda posibilidad de que se capitalicen intereses.</strong></p>
 <p>Ahora bien, la frecuencia por supuesto que impacta en el valor final, es por eso que la ley anterior decía que no podía hacerse sino cada 30 días&hellip; pero ¿significaba un cambio sustancial en el monto que tenía que pagarse por intereses? La verdad no. Si uno hace los cálculos &mdash;que no mostraré ahora pero que prometo hacerlo de manera detallada más tarde&mdash; una capitalización trimestral es apenas <em>mejor</em> que una diaria.</p>
 <p>¿Y que tal si la capitalización se realiza en frecuencias cada vez más cortas? Digamos cada hora, digamos cada minuto, digamos cada segundo&hellip; Menos, cada instante. Asumamos que el tiempo se puede dividir por siempre: es cuando la frecuencia <em>tiende</em> a cero.</p>
 <p>Entonces tenemos lo que los libros de matemáticas llaman capitalización compuesta contínua. Su fórmula es  &mdash;prometí no entrar en detalles por lo que me saltaré operaciones intermedias y escribiré solo la el resultado de ellas:</p>
@@ -149,10 +149,10 @@ $$</p>
     
     <item>
       <title>Interés francés.</title>
-      <link>http://localhost:1313/es/posts/interes-frances/</link>
+      <link>//localhost:1313/es/posts/interes-frances/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/posts/interes-frances/</guid>
+      <guid>//localhost:1313/es/posts/interes-frances/</guid>
       <description><![CDATA[<h2 id="interés-francés">Interés Francés.</h2>
 <p>Los americanos llaman <em>french fries</em>  a las papas fritas. Los franceses, por primera vez, no tienen nada que ver con esa aberración.</p>
 <p>El interés francés es un interés compuesto, uno de sus tantos sabores. En este, la frecuencia de composición no es de un mes como en la ley de Bancos Primigenia, ni es diaria. La composición sucede instante trás instante. <a href="https://gateway.ipfs.io/ipfs/bafykbzacec6lmuzgqtxld2y6keega5i2l6xmu3hd6neok4nt3lmtk4etegtxo#page=16">Su fórmula</a> es, ya desprovista de la breve formulación de función cuando <em>x</em> tiende a <em>infinito</em>:</p>
@@ -237,10 +237,10 @@ $$</p>
     
     <item>
       <title>¿Que debe saber un juez?</title>
-      <link>http://localhost:1313/es/posts/que-debe-saber-un-juez/</link>
+      <link>//localhost:1313/es/posts/que-debe-saber-un-juez/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/posts/que-debe-saber-un-juez/</guid>
+      <guid>//localhost:1313/es/posts/que-debe-saber-un-juez/</guid>
       <description><![CDATA[<p><em>Antes de leer este post, es mejor leer el de interés compuesto.</em></p>
 <h2 id="saber-común">Saber común.</h2>
 <p>Usualmente ello está contenido dentro de lo que el Código llama los hechos notoriamente conocidos.</p>

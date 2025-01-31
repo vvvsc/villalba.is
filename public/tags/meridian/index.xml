@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Meridian on villalba.is</title>
-    <link>http://localhost:1313/tags/meridian/</link>
+    <link>//localhost:1313/tags/meridian/</link>
     <description>Recent content in Meridian on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/meridian/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/meridian/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Expediente Meridian</title>
-      <link>http://localhost:1313/plra/expediente-meridian/</link>
+      <link>//localhost:1313/plra/expediente-meridian/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/plra/expediente-meridian/</guid>
+      <guid>//localhost:1313/plra/expediente-meridian/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeibuj5zm6atxtr64x2rhv2juwoebfb7y6oodtsypa7lndzwh3wab3u.ipfs.nftstorage.link/" 

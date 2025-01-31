@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>About on villalba.is</title>
-    <link>http://localhost:1313/acerca-del-sitio/</link>
+    <link>//localhost:1313/acerca-del-sitio/</link>
     <description>Recent content in About on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright><atom:link href="http://localhost:1313/acerca-del-sitio/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright><atom:link href="//localhost:1313/acerca-del-sitio/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Acerca del Sitio.</title>
-      <link>http://localhost:1313/es/acerca-del-sitio/acerca-del-sitio/</link>
+      <link>//localhost:1313/es/acerca-del-sitio/acerca-del-sitio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/acerca-del-sitio/acerca-del-sitio/</guid>
+      <guid>//localhost:1313/es/acerca-del-sitio/acerca-del-sitio/</guid>
       <description><![CDATA[<p>Cualquiera puede usar el contenido del sitio en cuanto lo que se refiere al contenido escrito por mi. Puede hacer citándolo, puede hacerlo sin citar. Modificarlo de cualquier manera o criticarlo de la manera más hórrida.</p>
 <p>Cuando cometa errores por favor:</p>
 <ol>
@@ -66,10 +66,10 @@
     
     <item>
       <title>LaTeX.</title>
-      <link>http://localhost:1313/es/acerca-del-sitio/latex/</link>
+      <link>//localhost:1313/es/acerca-del-sitio/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/acerca-del-sitio/latex/</guid>
+      <guid>//localhost:1313/es/acerca-del-sitio/latex/</guid>
       <description><![CDATA[<p>La razón por la cual los pdfs que se comparten en el sitio se ven de esa manera, como impresos, es porque están escritos en \LaTeX.</p>
 <p>En principio me costaba imaginar una forma de tachar los nombres y demás datos que pudiera considerarse sensibles en los escritos y esa es la única razón por la cual publicaba sólo aquello que de hecho ya estaba publicado en otro sitio.</p>
 <p>Luego escribí el <code>bash</code>  que no son más que dos lineas de grep que selecciona todas las variables de mi plantilla. Y ya.</p>

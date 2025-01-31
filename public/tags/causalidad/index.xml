@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Causalidad on villalba.is</title>
-    <link>http://localhost:1313/tags/causalidad/</link>
+    <link>//localhost:1313/tags/causalidad/</link>
     <description>Recent content in Causalidad on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/causalidad/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/causalidad/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Causalidad</title>
-      <link>http://localhost:1313/es/posts/causa-efecto/</link>
+      <link>//localhost:1313/es/posts/causa-efecto/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/posts/causa-efecto/</guid>
+      <guid>//localhost:1313/es/posts/causa-efecto/</guid>
       <description><![CDATA[<p>&laquo;Creo que la ley de la causalidad, como muchas de las cosas que pasan la prueba entre los filósofos, es una reliquia de una época pasada, sobreviviendo, como la monarquía, sólo porque se supone erróneamente que no hace daño.&raquo;</p>
 <p>Russell.</p>
 <h2 id="un-antiguo-problema-como-todos-los-demás">Un antiguo problema&hellip; como todos los demás.</h2>

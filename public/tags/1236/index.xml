@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>1236 on villalba.is</title>
-    <link>http://localhost:1313/tags/1236/</link>
+    <link>//localhost:1313/tags/1236/</link>
     <description>Recent content in 1236 on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/1236/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/1236/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Sobre Regulación de Honorarios</title>
-      <link>http://localhost:1313/es/posts/regulacion-de-honorarios/</link>
+      <link>//localhost:1313/es/posts/regulacion-de-honorarios/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/posts/regulacion-de-honorarios/</guid>
+      <guid>//localhost:1313/es/posts/regulacion-de-honorarios/</guid>
       <description><![CDATA[<p><strong>Regulación de honorarios.</strong></p>
 <p>No hay forma de avenir los irreconciliables 32 y 21 de la Ley de Honorarios.</p>
 <p><strong>Lo cual quiere decir.</strong></p>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Redactado on villalba.is</title>
-    <link>http://localhost:1313/tags/redactado/</link>
+    <link>//localhost:1313/tags/redactado/</link>
     <description>Recent content in Redactado on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/redactado/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/redactado/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Nota no enviada</title>
-      <link>http://localhost:1313/es/plra/nota-propuesta/</link>
+      <link>//localhost:1313/es/plra/nota-propuesta/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/plra/nota-propuesta/</guid>
+      <guid>//localhost:1313/es/plra/nota-propuesta/</guid>
       <description><![CDATA[<p>Asunción, 2022-11-30.</p>
 <p>Su Excelencia Dr. Jaime Bestard, Presidente E. S. D.</p>
 <p>De nuestra consideración:</p>

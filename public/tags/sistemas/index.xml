@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Sistemas on villalba.is</title>
-    <link>http://localhost:1313/tags/sistemas/</link>
+    <link>//localhost:1313/tags/sistemas/</link>
     <description>Recent content in Sistemas on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sistemas/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/sistemas/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>El Judisoft(TM) es fantástico</title>
-      <link>http://localhost:1313/es/de-otros-lados/el-judisoft/</link>
+      <link>//localhost:1313/es/de-otros-lados/el-judisoft/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/de-otros-lados/el-judisoft/</guid>
+      <guid>//localhost:1313/es/de-otros-lados/el-judisoft/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/document_v.-0.51-blue" alt=""></p>
 <h2 id="la-facilidad-y-la-utilidad">La facilidad y la utilidad.</h2>
 <p>Se me puede malentender a veces.</p>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Fundar on villalba.is</title>
-    <link>http://localhost:1313/tags/fundar/</link>
+    <link>//localhost:1313/tags/fundar/</link>
     <description>Recent content in Fundar on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fundar/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/fundar/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Manifestaciones</title>
-      <link>http://localhost:1313/es/modelos/manifestaciones/</link>
+      <link>//localhost:1313/es/modelos/manifestaciones/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/manifestaciones/</guid>
+      <guid>//localhost:1313/es/modelos/manifestaciones/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/QmPAygjxM2Ky2wfPFKn8edKr5P8FDv4WgRbySyr8Si46KU" 
@@ -65,10 +65,10 @@
     
     <item>
       <title>Fundar Recursos</title>
-      <link>http://localhost:1313/es/modelos/fundar-recurso/</link>
+      <link>//localhost:1313/es/modelos/fundar-recurso/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/fundar-recurso/</guid>
+      <guid>//localhost:1313/es/modelos/fundar-recurso/</guid>
       <description><![CDATA[<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="https://bafybeigsexoaqh36erw7tht4eqomlvth5cyg5dzqyq5vgynjvyyrpxgk2a.ipfs.nftstorage.link/" 

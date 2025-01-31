@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Recusación on villalba.is</title>
-    <link>http://localhost:1313/tags/recusaci%C3%B3n/</link>
+    <link>//localhost:1313/tags/recusaci%C3%B3n/</link>
     <description>Recent content in Recusación on villalba.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/recusaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/recusaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Incidentes</title>
-      <link>http://localhost:1313/es/modelos/incidentes/</link>
+      <link>//localhost:1313/es/modelos/incidentes/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/incidentes/</guid>
+      <guid>//localhost:1313/es/modelos/incidentes/</guid>
       <description><![CDATA[<p><img src="https://img.shields.io/badge/actualizado-16-03-2024-blue" alt=""></p>
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
@@ -400,10 +400,10 @@ añadido al anterior.</p>
     
     <item>
       <title>Recusaciones</title>
-      <link>http://localhost:1313/es/modelos/recusaciones/</link>
+      <link>//localhost:1313/es/modelos/recusaciones/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/modelos/recusaciones/</guid>
+      <guid>//localhost:1313/es/modelos/recusaciones/</guid>
       <description><![CDATA[<pre tabindex="0"><code>COUTURE distingue las causas que provocan una incapacidad absoluta del juez
 (.”Iudex inhabilis”) para intervenir en los asuntos de su competencia de  las
 que  sólo  provocan  una  sospecha  o  temor  de  parcialidad
