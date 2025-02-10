@@ -3,11 +3,15 @@ title: "Incidentes"
 description: "Incidens"
 draft: false
 tags: ["modelos", "escritos", "recusación"]
-date: 2024-03-16
+date: 2025-02-02
 featured_image: "/images/incidente.png"
 ---
 
 ![](https://img.shields.io/badge/actualizado-16-03-2024-blue)
+
+---
+
+{{< embed-pdf url="https://medical-orange-orangutan.myfilebase.com/ipfs/QmX1YhmgTZ1z4xKFEtbvteN9Wfw1KGnEzZvFccYfJjFhrM/">}}
 
 ---
 
