@@ -15,7 +15,10 @@ Fuente: https://www.bolsadevalores.com.py/wp-content/uploads/2024/08/typing-repo
 
 Archivo: [https://archive.is/Px9yt](https://archive.is/Px9yt)
 
-Bolsa de Valores de Asunción.
+Sitio: [Bolsa de Valores de Asunción](https://www.bolsadevalores.com.py)
+Copyright: [https://www.rugertek.com/es_PY](https://www.rugertek.com/es_PY)
+
+Free candy is free.
 
 ![](https://i.kinja-img.com/gawker-media/image/upload/s--vW-4fA_c--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/y2uu80y17kfptmvpvywb.jpg)
 
