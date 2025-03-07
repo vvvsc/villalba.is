@@ -6,10 +6,17 @@ draft: false
 date: 2025-03-03
 ---
 
+## Un recurso indispensable.
+
+La Corte Suprema de Justicia ha puesto a nuestra disposición una magnífica colección de resolución en [Resoluciones Web][RW]. Pero es difícil usarla. Parte de su dificultad radica en que la fecha por defecto de la búsqueda es el día de hoy. Si no reparamos en ello  y no usamos el increíblemente anodino calendario de la forma en que debe usarse, debemos repetir la búsqueda. Otra dificultad distinta es que busca por frases enteras y de ninguna otra manera. Bien. Eso está del lado de los servidores de la Corte, pero poner la fecha correcta está en nuestro browser. No es algo que suceda fuera de nuestra computadora, somos nosotros, cada uno de los usuarios los que enviamos la petición. Como la procesa, eso no pasa en nuesta pc y nada podemos hacer al respecto. Sin embargo, sí podemos hacer una petición correcta, aún sin usar los artefactos de la página.
+
 ## ¿Por qué es tan dificil?
 
+Por que busca por frases solamente, no por palabras cercanas por ejemplo, o, deliro, `regexp`. La parte buena de esto es que nos obliga a leer un montón de resoluciones antes de llegar a una que realmente discute y resuelve el tópico que buscamos. Aunque esta parte buena aún puede tener una parte mala, ya que el **cer umano ciempre ce keja**, y es que `nos obliga a leer muchas resoluciones` .
 
-Básicamente porque te engaña. Pone una fecha por defecto y la misma no es valida, es la fecha del día. Yo entiendo que lo ponen de esa manera para no sobrecargar la búsqueda. Pero la sobrecarga aún más si consideramos que uno debe repetir un y otra vez la misma busqueda.
+Y en cuanto a la fecha; básicamente porque engaña. Pone una fecha por defecto y la misma no es valida, es la fecha del día. Yo entiendo que lo ponen de esa manera para no sobrecargar la búsqueda. Pero la sobrecarga aún más si consideramos que uno debe repetir un y otra vez la misma búsqueda a veces desconcertados por no saber qué hicimos mal.
+
+Pero esto sucede antes de que enviemos la petición por lo tanto la podemos modificar antes de hacerlo.
 
 ## Solución no general.
 
@@ -17,7 +24,9 @@ Yo uso el siguiente userscripts en [Tampermokey](https://www.tampermonkey.net/) 
 
 Si no conoces algo de [Tampermonkey](https://www.tampermonkey.net/), por favor no lo uses.
 
-Básicaente fija la fecha por defecto en 5 años atras asi no perdemos un año en hacer una.
+Simplemente: no. Esa es la razón por la cual no doy instrucciones detalladas.
+
+Básicaente fija la fecha por defecto en 5 años atras asi no perdemos un año en hacer una. Siéntanse libres de modificarla y mandarlo como mensaje. Quizás luego haga un gist.
 
 ```js
 // ==UserScript==
@@ -65,6 +74,8 @@ Básicaente fija la fecha por defecto en 5 años atras asi no perdemos un año e
 })();
 
 ```
+
+[RW]:<https://www.csj.gov.py/ResolucionesWeb>
 
 {{< graphcomment >}}
 
