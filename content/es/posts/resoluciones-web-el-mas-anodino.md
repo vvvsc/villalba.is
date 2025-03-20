@@ -18,7 +18,8 @@ Parte de su dificultad radica en que la fecha por defecto de la búsqueda es el 
 
 Por que busca por frases solamente, no por palabras cercanas por ejemplo, o, deliro, `regexp`. La parte buena de esto es que nos obliga a leer un montón de resoluciones antes de llegar a una que^ realmente discute y resuelve el tópico que buscamos. Aunque esta parte buena aún puede tener una parte mala, ya que el **cer umano ciempre ce keja**[^w], y es que `nos obliga a leer muchas resoluciones` .
 
-[^w]: El lector interesado en esta precisión puede consultar "El malestar en la Cultura", Sigmund Freud.
+[^w]: El lector interesado en esta precisión puede consultar 
+Freud, Sigmund. 2017. El Malestar En La Cultura. Translated by Alfredo Brotons Muñoz. [Madrid, Spain]: Ediciones Akal. http://www.digitaliapublishing.com/a/50881/.
 
 Y en cuanto a la fecha; básicamente porque engaña. Pone una fecha por defecto y la misma no es valida, es la fecha del día. Yo entiendo que lo ponen de esa manera para no sobrecargar la búsqueda. Pero la sobrecarga aún más si consideramos que uno debe repetir un y otra vez la misma búsqueda a veces desconcertados por no saber qué hicimos mal.
 
