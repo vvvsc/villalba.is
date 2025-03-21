@@ -78,4 +78,4 @@ Yo no sé de esas cosas. Me parece bueno que la gente acceda a creditos baratos 
 
 En cuanto lo demás, no se puede <<arreglar>> las tasas de interés. No se puede <<arreglar>> la economía, ni el dinero, ni el Estado, ni el Derecho... Porque forman parte de una larga cadena de explotación. Un sistema en el cual, queramos o no, confiamos todos.
 
-{{< graphcomment >}}
+

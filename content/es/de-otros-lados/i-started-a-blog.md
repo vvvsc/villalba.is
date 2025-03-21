@@ -21,4 +21,3 @@ No pienso en publicar un libro sobre Derecho, pero sí publicaré uno en breve.
 
 Estas manos, que ustedes no ven, saben cocinar, saben coser, saben hablar hablar hablar.
 
-{{< graphcomment >}}

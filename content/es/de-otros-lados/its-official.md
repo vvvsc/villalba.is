@@ -11,4 +11,3 @@ _Means..._ Habrán por el momento algunas diferencias hasta que la sincronizaci�
 
 Se espera que esta página sea más rápida que su principal.
 
-{{< graphcomment >}}

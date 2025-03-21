@@ -12,4 +12,4 @@ Este es el resultado de una primera aproximación.
 
 {{< embbed url="https://bafkreiems2nbk4enujweqfrtobqs3jv6es4ddhzgveyww7neggnb6opqkq.ipfs.nftstorage.link/" >}}
 
-{{< graphcomment >}}
+

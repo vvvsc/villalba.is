@@ -95,4 +95,4 @@ En  el campo de las matemáticas, el problema la de causa y el efecto se aborda 
 
 [^2]: "Causalidad: A Very Short Introduction" de Stephen Mumford - En esta concisa introducción, Mumford explora los conceptos fundamentales de la causalidad, abordando cuestiones clave y examinando diferentes enfoques filosóficos de la causalidad.
 
-{{< graphcomment >}}
+

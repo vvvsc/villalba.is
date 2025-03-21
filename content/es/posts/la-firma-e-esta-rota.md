@@ -39,4 +39,4 @@ Sin una marca de tiempo para los documentos legalmente vinculantes, como los con
 
 El sellado de tiempo es esencialmente un testigo independiente. Proporciona las pruebas necesarias para demostrar que el documento no ha cambiado desde que se envió el hash del documento a la TSA en el momento de la firma.
 
-{{< graphcomment >}}
+

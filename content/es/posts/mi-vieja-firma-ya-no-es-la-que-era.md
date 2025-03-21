@@ -1,7 +1,7 @@
 ---
 title: "Mi vieja firma ya no es la que era."
 description: "El algoritmo de la confusión."
-tags: ["derecho", "ciencia", "ciencias suaves", "un poquito más suave", "brujería"]
+tags: ["firma", "electrónica", "wrong", "brujería"]
 draft: false
 date: 2025-01-20
 ---

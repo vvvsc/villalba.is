@@ -22,4 +22,3 @@ La interacción quizás es importante en el proceso de comunicación. Cuando un 
 
 Ahora sé que usa capas y que tiene miles de funcionalidades distintas a las que tenía cuando escribi el primer borrador de esta entrada. Pro tip: lo podes correr en tu máquina.
 
-{{< graphcomment >}}

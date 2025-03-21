@@ -96,4 +96,4 @@ But... there is a complaint form that is made in ```Google Form```; if there is 
 
 [^1]: And as far as I know, no one has used the Transparency Act to request Judisoft's source code.
 
-{{< graphcomment >}}
+

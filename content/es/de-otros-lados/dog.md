@@ -28,8 +28,13 @@ El lector puede examinar los siguientes _artifacts_ ---cada uno merecería un la
 
 [Formulario 4](https://www.jem.gov.py/wp-content/uploads/2023/12/Formulario-4-Modelo-de-acusacion-en-el-cual-se-solicita-la-dispensa-de-la-solvencia-economica-sin-mencionar-la-condicion-inserta-en-el-formulario-31.docx)
 
+[Archivo](https://archive.is/hqDxv) de la página que los contiene, no de los documentos en sí.
+
+Torrents de los archivos: [1](https://blog.villalba.is/jemtorrents) realizados mediante GitHub de manera a que conste en ellos las urls y los timestamps.
 
 Fue así como la institución recibió menos denuncias cada año. Existe un informe elaborado por su misma oficina de estadísticas que da cuenta de ello. Señala que durante el año 2023 se dictaron 17 sentencias definitivas y esa cantidad es la mitad de la cantidad del año anterior.
+
+_Posdata: 2024: 1 (uno, one, une)_
 
 Se puede decir, como lo diría la _octavilla de la calle Market_, que la ciudadanía ha perdido con todo esto. Yo soy un tanto liberal así que mi respuesta es no: nadie pierde por tener menos estado.
 
@@ -57,4 +62,4 @@ Así que no hace falta conclusión alguna.
 
 [^pasado]: Imposible no pensar en pretérito imperfecto.
 
-{{< graphcomment >}}
+

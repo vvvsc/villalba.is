@@ -57,7 +57,7 @@ Estas caracterizaciones apuntan a indicar que el error no está en la volición 
 
 $$ \dfrac{e_{juicio}}{1} = \dfrac{1}{e_{material}} $$
 
-{{< graphcomment >}}
+
 
 [af]: <https://dictionary.apa.org/freudian-slip>
 [gRAE]: <https://dle.rae.es/gazapo>

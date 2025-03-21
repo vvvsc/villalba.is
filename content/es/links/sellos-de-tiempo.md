@@ -12,4 +12,3 @@ He encontrado en este sitio una manera muy sencilla de producir las entradas de 
 
 Básicamente uno puede ingresar el ISBN del libro y obtener todas las entradas.
 
-{{< graphcomment >}}

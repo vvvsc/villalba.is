@@ -195,4 +195,3 @@ Por tanto, a V.S. peticiono:
 [^1]: CASCO PAGANO, Hernán. Código Procesal Civil Comentado y
     Concordado. Asunción,2009. La Ley Paraguaya. p. 972.-
 
-{{< graphcomment >}}

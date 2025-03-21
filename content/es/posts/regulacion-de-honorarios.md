@@ -61,7 +61,7 @@ Entonces, claro, no solucionamos el problema porque ahora **el mayor monto** sim
 
 He aquí un escrito [reciente](https://bafybeibmndx5knezrt4hpj2l3bewi2gktwqal4gf2jbbdunj6wx5wv4ug4.ipfs.nftstorage.link/).
 
-{{< graphcomment >}}
+
 
 
 

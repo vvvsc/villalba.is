@@ -16,4 +16,3 @@ Cuando cometa errores por favor:
 Les agradecería de corazón.
 
 
-{{< graphcomment >}}

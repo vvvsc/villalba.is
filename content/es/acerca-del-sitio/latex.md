@@ -16,4 +16,3 @@ Escribimos trabajos que pueden ser extensos y no queremos equivocar un dato, un 
 
 La mejor forma de empezar es online: [Overleaf](https://www.overleaf.com/). Es probable que muy pronto uno se decante por instalarlo en su máquina.
 
-{{< graphcomment >}}

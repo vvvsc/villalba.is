@@ -72,7 +72,7 @@ En cuanto a la ignorancia de la leyes, la dice que debe efectuarse de manera rep
 
 [^6]: Esta es una definición. Uno puede optar por ella o por su alternativa: ninguna. El hecho de que se propongan "lagunas legales" como invalidantes de la misma es un tanto pueril. No es que se pretenda que la realidad no pueda presentar pasmo y sorpresa ante un conjunto muy estrecho de enunciados más o menos ordenados en nuestra aún más estrecha mente ---y la tuya, querido lector---, sino que si llegara a ocurrir tal acaso, el mismo sería reparado _on the fly_.
 
-{{< graphcomment >}}
+
 
 
 

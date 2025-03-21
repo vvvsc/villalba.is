@@ -110,6 +110,6 @@ Pero... hay un formularios de denuncias que están hechos en ```Google Form```; 
 
 Posdata: Hace unas semanas, no pude postearlo en su momento, recibí un email de la C.G.T.: estaba tan lleno de cosas extrañas que el mismo Judisoft no podía aceptarlo. No sé si colocarlo en el blog. Debe ser, para un usuario de Win, muy peligroso.
 
-{{< graphcomment >}}
+
 
 
