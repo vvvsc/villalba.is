@@ -3,6 +3,7 @@ title: "¿Te hackearon o te hackeaste a vos mismo?"
 description: "Hackaton"
 draft: false
 date: 2023-05-07
+lastmod: 
 ---
 
 Cuando los medios periodísticos o los medios masivos o, en general, aquellos que se dominan _mass media_ pronuncian hoy en día la palabra <<tecnología>> se refieren en realidad a la tecnología que nos han traído las computadoras, la electrónica. Cualquier producto humano capaz de generar una situación nueva, sea esta grandes o pequeña ---nunca se sabe cuáles serán los resultados--- las llamamos tecnología; así, por ejemplo, en algún momento de nuestra historia, dejamos de cazar para vivir y parte de nosotros se asentó en lugares que halló propicios; en vez de mudarse cuando la tierra ya no rendía frutos, elegían quedarse en ella y cultivarla. Esa nueva tecnología, la agricultura, con el tiempo probó ser mejor que la anterior. Si bien los cazadores de las estepas seguían rondando estas poblaciones, muy pronto se dieron cuenta de que no podían contra ellas.

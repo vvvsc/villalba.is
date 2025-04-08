@@ -4,10 +4,9 @@ description: "My husband is not my husband"
 tags: ["derecho", "error"]
 draft: false
 date: 2024-03-15
-featured_image: "images/errormaterial.png"
+image: "https://bibwp.s3.amazonaws.com/img/2017/03/12101825/correccion-de-errores-materiales.jpg"
 ---
 
-![](https://img.shields.io/badge/document_v.-0.5-blue)
 
 ## Gazapo
 

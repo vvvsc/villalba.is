@@ -4,7 +4,7 @@ description: "O, dicho de otro modo: ¿Qué se supone que sabe?."
 tags: ["saber", "matemáticas", "interés", "hechos notorios"]
 draft: false
 date: 2023-02-07
-featured_image: "/images/que.png"
+image: "/images/que.png"
 ---
 
 *Antes de leer este post, es mejor leer el de interés compuesto.*
@@ -30,7 +30,7 @@ Y es ahí donde quiero llegar.
 
 Matemáticas. Los abogados suelen presumir de no saber matemáticas. Que es más o menos que una persona sorda te diga que nunca necesitó  de la música. Realmente no. Pero al hacer los cálculos de cualquier obligación dineraria, y sólo de eso se encarga la ley, en realidad, es imposible no articularla de tal forma.
 
-Y quién lo evalúa, el Juez...  ¿Deberían conocer, por ejemplo, la fórmula del interés compuesto? ¿Deberían saber que es una simplificación de la _real_ fórmula? El Mec entiende que es cuestión del [Primer Año de la Media](https://www.mec.gov.py/cms_v2/adjuntos/13208)
+Y quién lo evalúa, el Juez...  ¿Deberían conocer, por ejemplo, la fórmula del interés compuesto? ¿Deberían saber que es una simplificación de la _real_ fórmula? El Mec entiende que es cuestión del [Primer Año de la Media](https://www.mec.gov.py/cms_v2/adjuntos/13208). Post: [https://web.archive.org/web/20231115210445/https://www.mec.gov.py/cms_v2/adjuntos/13208](https://web.archive.org/web/20231115210445/https://www.mec.gov.py/cms_v2/adjuntos/13208)
 
 Cuando digo _real_ formula me refiero  a que la capitañizaxion al tipo de interés compuesto continuo también se conoce como tipo efectivo anual (TEA o EAR por sus siglas en inglés).
 
@@ -76,7 +76,7 @@ Dice la [LEY N° 2339 QUE MODIFICA EL ARTICULO 44 DE LA LEY N° 489/95 “ORGANI
 
 Se lo puede hallar en el excelente sitio del Congreso de la Nación (en serio lo extrañe mientras suspendieron el servicio durante casi un mes).
 
-_Ps:_ volvió a caer, este es el link del [cache de google](http://webcache.googleusercontent.com/search?q=cache:https://www.bacn.gov.py/leyes-paraguayas/5034/ley-n-2339-modifica-el-articulo-44-de-la-ley-n-48995-organica-del-banco-central-del-paraguay&strip=1&vwsrc=0).
+_Ps:_ volvió a caer, este es el link del [Archivo](https://web.archive.org/web/20240810102057/https://www.bacn.gov.py/leyes-paraguayas/5034/ley-n-2339-modifica-el-articulo-44-de-la-ley-n-48995-organica-del-banco-central-del-paraguay).
 
 
 

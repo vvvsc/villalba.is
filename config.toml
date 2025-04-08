@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "villalba.is"
+title = "post.villalba.is"
 languageCode = "en"
 defaultContentLanguage = "es"
 
@@ -41,7 +41,7 @@ summaryLength = 70  # number of words for article summaries
     showRss = true  # show the link for the RSS feed; default true
 
     imageInArticlePreview = true  # show images in article preview; default false
-    fitImageInArticlePreview = false  # make article preview images fit the article preview instead of getting cropped
+    fitImageInArticlePreview = true  # make article preview images fit the article preview instead of getting cropped
     articleSummary = true  # show a summary in article preview; default true
     
     fontFamily = "JetBrains Mono"  # changes the font, default "JetBrains Mono"
