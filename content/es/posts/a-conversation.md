@@ -2,7 +2,7 @@
 title: "Una conversación."
 description: "Lo que nos pasa es que no tenemos ni siquiera la idea de lo que es una ciencia y las maestrías no nos enseñaron ni hacer el p-hacking."
 tags: ["derecho", "ciencia", "ciencias suaves", "un poquito más suave", "brujería"]
-draft: false
+draft: true
 date: 2023-03-15
 ---
 

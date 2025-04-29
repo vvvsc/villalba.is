@@ -37,11 +37,29 @@ Una opción válida es usar una carpeta en la red y espejear allí los documento
 
 ## Dime si hay alguna esperanza.
 
+### Storage
+
 Así que no sería malo tener un dominio y una carpeta en la red. Publicidad sigue: en [interserver](https://www.interserver.net/vps/?id=910602) cuesta 3 USD por mes 200M de 'storage' sencillos y claros, pero es muy caro si un lo compara con B2 que por ese precio ---pero pagado por año--- otorga 1 Terabyte, pero quien necesita un Terabyte de almacenamiento en B2? Además, les advierto que usarlo no es algo sencillo de hacer.
 
 Así que la referencia quedaría << $palabras .. cuya copia obra en https://_el-dominio-chungo-que-me-dieron_/caso/34556.pdf >>.
 
 Claro que uno puede adquirir uno propio, por ejemplo: el-segundo-mejor-abogado.com.
+
+### IPFS
+
+Acá olvida dominios.
+
+En el mismo orden de cosas se encuentran los espacios de la IPFS. Todos los `pdfs` del sitio están en la red IPFS, como ven: Algunas veces están caídos. Es porque me excedo en mi cuota. Por lo general, tienen cuotas más que accesibles y las cuentas vienen con espacio gratuito que para nuestro uso profesional es suficiente. Ojo: algun tipo de conocimiento específico es aún necesario:
+
+| 4EVERLAND | FILEBASE |
+| ---- | ---- |
+| [{{< imgwidth src="https://minimum-tomato-hamster.myfilebase.com/ipfs/QmcG2s1MKy3Joi1DH9Dy3DUz8MPdR4oeQsPMXnYurYupJb/" width="200px" >}}](https://dashboard.4everland.org?invite=ZYIDXZL0)| [{{< imgwidth src="https://console.filebase.com/assets/logo-white-no-background-d9d98f812cad5c5ea23cf7da98a35a12ef0b6ccc7f3e8ad91233aa0e23ddc7d3.svg/" width="200px" >}}](https://console.filebase.com/signup?ref=d3981dab17bd) |
+
+Son los dos recomendaria por su facilidad de uso.
+
+### Tradicional
+
+El tradicional web-hosting es usualmente uno que tiene aceso limitada a un servidor Apache y php. Pero el php` corre de manera bastante ilimitada. Actualment existe versiones pagas de esta clase de hosting y en cantidades muchas.
 
 ## Más datos.
 
