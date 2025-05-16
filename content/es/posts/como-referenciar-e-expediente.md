@@ -80,7 +80,9 @@ B8DF0796E86E5B993F99C32EC5D2C
 
 Es fácil ver que no es sino 6E5B993F99C32EC5D2C61AB8DF0796E8 que se repite una y otra vez. ¿Qué es? Si alguien sabe que me lo cuente. Probablemente es un [hash](https://cau.sci.uma.es/faq/index.php?action=artikel&cat=60&id=181&artlang=es), pero de qué. Sí sé para qué sirve aunque no recuerdo la manera en que llegué a ello. Ese número valida nuestra presentación. Si se fijan en la '''e-Acordada''', la misma habla de una cosa así.
 
-[6E5B993F99C32EC5D2C61AB8DF0796E8](https://www.csj.gov.py/appseguridad/sello/home/validador/?code=6E5B993F99C32EC5D2C61AB8DF0796E8)
+> Postdata urgente!
+> Bajo ninguna circunstancia se debe volver a usar el link validador. El Servidor lo reporta como ataque! 
+> [6E5B993F99C32EC5D2C61AB8DF0796E8](https://villalba.is)
 
 El link que produce nos muestra algunos datos de nuestra presentación, no nuestro escrito. Esto merece un comentario, pero si desean conocer detalles pueden escribir en la caja de abajo.
 

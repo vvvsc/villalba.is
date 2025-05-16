@@ -4,6 +4,7 @@ description: "El algoritmo de la confusión."
 tags: ["firma", "electrónica", "wrong", "brujería"]
 draft: false
 date: 2025-01-20
+slug: "my-old-gray-mare"
 ---
 
 Estos son comentarios sobre un post local sobre la firma electrónica que está tan mal que uno no puede sino replicar un poco. No voy a señalar la fuente a menos que me lo indiquen.

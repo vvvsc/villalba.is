@@ -3,7 +3,11 @@ title: "Mafia."
 tags: ["titulos", "valores", "32"]
 draft: false
 date: 2025-04-02
+slug: "magia-de-los-pagares"
 ---
+
+> Disclaimer: Esta nota fue redactada, se dice en su texto, antes de que me enterara de qué iba todo. En realidad, no se trata del tráfico normal de los papeles de comercio sino de unas pocas firmas relacionadas entre sí que probablemente se cebaban en los más indefensos.
+
 
 ## Que parezca un accidente.
 
