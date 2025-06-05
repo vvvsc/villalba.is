@@ -4,7 +4,8 @@ description: "¿Qué hay detrás de un nombre?"
 tags: ["e-expediente", "fojas", "math", "judisoft", "qr"]
 draft: false
 date: 2024-03-10
-featured_image: "images/papers.png"
+featured_featured_image: "images/papers.png"
+slug: "como-referenciar-en-el-expedienté-electronico"
 ---
 
 ## Fojas.

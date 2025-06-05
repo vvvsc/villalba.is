@@ -4,6 +4,7 @@ description: "Algunas palabras sobre el misterioso artículo 32."
 tags: ["32", "regulación", "1236"]
 draft: false
 date: 2023-01-11
+featured_image: "images/002.png"
 ---
 
 **Regulación de honorarios.**

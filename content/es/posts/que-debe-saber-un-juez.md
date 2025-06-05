@@ -4,7 +4,8 @@ description: "O, dicho de otro modo: ¿Qué se supone que sabe?."
 tags: ["saber", "matemáticas", "interés", "hechos notorios"]
 draft: false
 date: 2023-02-07
-image: "/images/que.png"
+featured_image: "/images/004.png"
+slug: "que-debe-saber-un-juez"
 ---
 
 *Antes de leer este post, es mejor leer el de interés compuesto.*

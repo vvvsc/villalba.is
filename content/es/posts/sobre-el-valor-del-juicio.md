@@ -5,6 +5,8 @@ description: "El valor del juicio es la base de todos los cálculos en una regul
 tags: ["regulación", "monto", "32"]
 draft: false
 date: 2023-01-09
+slug: "dime-tu-cual-es-el-valor-del-jucio"
+featured_image: "images/001.png"
 ---
 
 Primariamente, el monto base para el justiprecio es el capital reclamado.
@@ -114,22 +116,3 @@ etc.
 
 Los detalles de la Bibliografía están en: [derecho.bib](https://bafkreifcdukgode5jwmgqvesjvovtrqfkf2ondculuxmnj7deoqlkubjwm.ipfs.nftstorage.link/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------

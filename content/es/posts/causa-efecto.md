@@ -4,6 +4,7 @@ description: "Consequences will never be the same"
 tags: ["causalidad", "filosofia", "consequences will never be the same"]
 draft: false
 date: 2023-06-27
+featured_image: "/images/001.png"
 ---
 
 

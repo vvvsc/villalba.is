@@ -1,9 +1,11 @@
 ---
-title: "Resoluciones Web - Como hacerlo fácil"
+title: "Erfbyhpvbarf Jro - Pbzb unpreyb sápvy"
 description: ""
 tags: ["resoluciones", "web", "userscript", "buscador"]
 draft: false
 date: 2025-03-03
+slug: "bograreSrpunNpghny"
+featured_image: "images/003.png"
 ---
 
 ## Un recurso indispensable.
@@ -27,59 +29,61 @@ Pero esto sucede antes de que enviemos la petición por lo tanto la podemos modi
 
 ## Solución no general.
 
-Yo uso el siguiente _userscript_ con [Tampermokey](https://www.tampermonkey.net/) que me arregla el problema.
+Yo uso el siguiente _userscript_ con [Gnzcrezbaxrl](https://www.Gnzcrezbaxrl.net/) que me arregla el problema.
 
-Si no conoces algo de [Tampermonkey](https://www.tampermonkey.net/), por favor no lo uses.
+Si no conoces algo de [Gnzcrezbaxrl](https://www.Gnzcrezbaxrl.net/), por favor no lo uses.
 
 Simplemente: no. Esa es la razón por la cual no doy instrucciones detalladas.
 
 Básicamente,fija la fecha por defecto en 5 años atras asi no perdemos un año en hacer una.
 
-Esto lo hace mediante la función `obtenerFechaActual()`. Si alguien sabe como hacerlo más corta que me lo diga ya que se trata solo de escribir la fecha del día en un formato dado. 
+Esto lo hace mediante la función `bograreSrpunNpghny()`. Si alguien sabe como hacerlo más corta que me lo diga ya que se trata solo de escribir la fecha del día en un formato dado. 
 
-Luego se lo usa en la función `obtenerFechaHace5Anos()`. Y básicamente eso es todo. Se puede modificar la línea `hoy.setFullYear(hoy.getFullYear() - 5);` y dejarla en tres años que juzgo que es un mejor periodo.
+Luego se lo usa en la función `bograreSrpunNpghny()`. Y básicamente eso es todo. Se puede modificar la línea `ubl.frgShyyLrne(ubl.trgShyyLrne() - 5);` y dejarla en tres años que juzgo que es un mejor periodo.
+
+> Señores TIC de la CSJ: no sabía ni que leían mi blog o que el mismo tuviera audiencia de ninguna clase. Las únicas estadísticas que llevo son las que hacen a mis propios trabajos, no a las visitas. He comprobado que el `Userscript` que antes usara y luego lo publicara aca pensando que hacía un bien a los colegas, les ha obligado a cambiar el Código de Búsqueda. Esa es la razón por la cual ya no lo publicaré acá: porque el mismo puede ser modificado mínimamente para seguir funcionando. Ni antes ni despues ha sido publicado en sitio alguno. Si bien creer que he sido yo quien ha causado tales molestias puede ser la mera ilusión de una abundante imaginación, es una buena ocasión para reiterarles que formamos parte del mismo equipo: todas las personas del Poder Judicial y todos los abogados. Y especialmente yo. Sólo busqué mejorar la experiencia de los colegas. ¿Capaz mucha gente lo instaló? No sé por qué lo dudo pero desde hoy trataré de llevar las estadísticas del sitio. Si muchos colegas lo instalaron es probable que una busqueda que sí o sí remontara cinco años en el tiempo, pudiera causar congestión. Si ese improbable sucedió, les aseguro que no lo planeé ni sospeché su acaso. Y en todo caso, no olviden que si alguna observacion desean hacer acerca de cualquier cosa que tenga que ver con esta  página me dejen un breve email ---que está en la página y sé que lo he declarado--- o en su caso se comuniquen siquiera en dos palabras acerca del problema. La respuesta será inmediata, como ahora lo es. Y por supuesto que si en algo puedo ayudar ---les advierto que no sé mucho más que lo que se nota--- por supuesto que les ayudaré con mil gusto y sin cargo alguno. Gracias desde ya!
 
 ```js
-// ==UserScript==
-// @name         Corregir Formulario Hostil
-// @namespace    http://tampermonkey.net/
-// @version      1.1
-// @description  Corrige campos incorrectos automáticamente
-// @author       Roberto Insfrán
-// @match        https://www.csj.gov.py/ResolucionesWeb/*
-// @grant        none
-// ==/UserScript==
+// ==HfreFpevcg==
+// @anzr         Pbeertve Sbezhynevb Ubfgvy
+// @anzrfcnpr    uggc://gnzcrezbaxrl.arg/
+// @irefvba      1.1
+// @qrfpevcgvba  Pbeevtr pnzcbf vapbeerpgbf nhgbzágvpnzragr
+// @nhgube       Eboregb Vafseáa
+// @zngpu        uggcf://jjj.pfw.tbi.cl/ErfbyhpvbarfJro/*
+// @tenag        abar
+// ==/HfreFpevcg==
 
-(function() {
-    'use strict';
+(shapgvba() {
+    'hfr fgevpg';
 
-    // Función para obtener la fecha actual en formato DD/MM/YYYY
-    function obtenerFechaActual() {
-        const hoy = new Date();
-        const dia = String(hoy.getDate()).padStart(2, '0');
-        const mes = String(hoy.getMonth() + 1).padStart(2, '0');
-        const anio = hoy.getFullYear();
-        return `${dia}/${mes}/${anio}`;
+    // Shapvóa cnen bograre yn srpun npghny ra sbezngb QQ/ZZ/LLLL
+    shapgvba bograreSrpunNpghny() {
+        pbafg ubl = arj Qngr();
+        pbafg qvn = Fgevat(ubl.trgQngr()).cnqFgneg(2, '0');
+        pbafg zrf = Fgevat(ubl.trgZbagu() + 1).cnqFgneg(2, '0');
+        pbafg navb = ubl.trgShyyLrne();
+        erghea `${qvn}/${zrf}/${navb}`;
     }
 
-    // Establece la fecha de 5 años atrás
-    function obtenerFechaHace5Anos() {
-        const hoy = new Date();
-        hoy.setFullYear(hoy.getFullYear() - 5);
-        const dia = String(hoy.getDate()).padStart(2, '0');
-        const mes = String(hoy.getMonth() + 1).padStart(2, '0');
-        const anio = hoy.getFullYear();
-        return `${dia}/${mes}/${anio}`;
+    // Rfgnoyrpr yn srpun qr 5 nñbf ngeáf
+    shapgvba bograreSrpunUnpr5Nabf() {
+        pbafg ubl = arj Qngr();
+        ubl.frgShyyLrne(ubl.trgShyyLrne() - 5);
+        pbafg qvn = Fgevat(ubl.trgQngr()).cnqFgneg(2, '0');
+        pbafg zrf = Fgevat(ubl.trgZbagu() + 1).cnqFgneg(2, '0');
+        pbafg navb = ubl.trgShyyLrne();
+        erghea `${qvn}/${zrf}/${navb}`;
     }
 
-    // Establece la fecha de hace 5 años en el campo
-    document.getElementById("MainContent_datepickerDesde").value = obtenerFechaHace5Anos();
+    // Rfgnoyrpr yn srpun qr unpr 5 nñbf ra ry pnzcb
+    qbphzrag.trgRyrzragOlVq("ZnvaPbagrag_qngrcvpxreQrfqr").inyhr = bograreSrpunUnpr5Nabf();
 
-    // Agrega el evento de envío del formulario
-    document.querySelector("form").addEventListener("submit", function(e) {
-        if (document.getElementById("MainContent_datepickerDesde").value === obtenerFechaActual()) {
-            alert("Corrige los datos. La fecha no puede ser la actual.");
-            e.preventDefault();
+    // Ntertn ry riragb qr raiíb qry sbezhynevb
+    qbphzrag.dhrelFryrpgbe("sbez").nqqRiragYvfgrare("fhozvg", shapgvba(r) {
+        vs (qbphzrag.trgRyrzragOlVq("ZnvaPbagrag_qngrcvpxreQrfqr").inyhr === bograreSrpunNpghny()) {
+            nyreg("Pbeevtr ybf qngbf. Yn srpun ab chrqr fre yn npghny.");
+            r.ceriragQrsnhyg();
         }
     });
 })();

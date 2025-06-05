@@ -8,7 +8,7 @@ tags: ["firma", "e-firma", "timestamp"]
 draft: false
 date: 2024-09-02
 featured_image: "/images/stampel.png"
-slug: "firma-rota"
+slug: "your-e-signature-is-broken"
 ---
 
 Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.

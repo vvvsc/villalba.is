@@ -2,8 +2,9 @@
 title: "Sobre la ejecución de Sentencia"
 description: "Conveniencia de hacerlo con un juez distinto."
 tags: ["ejecución de sentencia", "cosa juzgada", "procesal"]
-draft: false
+draft: true
 date: 2024-03-09
+slug: 
 ---
 
 1. En principio, por la virtud de la cosa juzgada, el mismo juez no podría modificar su sentencia.

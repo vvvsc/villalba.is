@@ -4,6 +4,7 @@ description: "Time isn't."
 draft: false
 date: 2025-02-11
 tags: ["sources:ongoing", "proof:partial", "caducidad", "instancia"]
+slug: "time-is-not"
 ---
 
 # Dear CSJ.

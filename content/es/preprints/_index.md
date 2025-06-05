@@ -1,7 +1,7 @@
 ---
 title: "Preprints"
-description: "Recursos."
+description: "preprints-incompletos."
 draft: false
 featured_image: '/images/cover.jpg'
-url: /preprints/
+slug: 'preprints-incompletos'
 ---

@@ -4,6 +4,7 @@ description: "Pre-print"
 draft: false
 tags: ["Tesis", "Pre-print"]
 date: 2015-02-02
+slug: 'tesina'
 ---
 
 

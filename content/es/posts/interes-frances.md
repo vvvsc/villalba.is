@@ -4,6 +4,7 @@ description: "Estoy cansado de los que vienen de amigo..."
 tags: ["interés", "interés francés", "interés compuesto contínuo", "matemáticas"]
 draft: false
 date: 2023-03-09
+slug: "interes-frances"
 ---
 
 
