@@ -1,0 +1,27 @@
+{{ $filePath  := printf "./static" }}
+{{ $withCaptions := .Get "withCaptions"}}
+{{ $gallery := .Get "id" }}
+
+
+{{ range readDir ($filePath) }}
+    {{ $display := strings.HasSuffix .Name "pdf" }}
+    {{ $caption := substr .Name 0 128 }}
+   {{ if $display}}
+   <div class="file-list-item">
+    <embed
+  src="/{{.Name}}"
+  type="application/pdf"
+  width="100%"
+  height="1000"
+  title="Embedded PDF Viewer"
+/>
+       <i class="fas fa-file-pdf"></i> {{ $caption}}
+       </a>            
+   </div>
+   {{ end }}    
+{{ end }}
+<style type="text/css">
+.file-list-item {
+   word-break: break-all;
+}
+</style>
