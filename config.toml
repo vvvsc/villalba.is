@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "post.villalba.is"
+baseURL = "http://post.villalba.is.eu.org"
+title = "post.villalba.is.eu.org"
 languageCode = "en"
 defaultContentLanguage = "es"
 
