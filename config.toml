@@ -15,6 +15,7 @@ summaryLength = 70  # number of words for article summaries
 [params]
     author = "Wilson Villalba"
     description = "Notas acerca de litigios en la ciudad de Asunción, Paraguay"  # this will be added as metadata
+    email = "wilson@villalba.is"
 
     posts = "posts"  # content directory where to find home page posts; default searches in "posts" and "post"
     showPostsLink = true  # show or hide the link to the simple post list
